@@ -240,7 +240,7 @@ In short, a "large winning coalition(functioning democracy)" demands "public goo
 3. Otherwise, oppositions will promise "a better deal" to people, and the ruler loses power.  
 
 This explains why the US has low life expectancy despite its wealth. Because they only have two parties (practically only the two parties are allowed in laws), they don't have to compete with "Good Idea". 
-The US politicians are competing in "How bad(how little distribute good things)" they can go. Because that will save politicians' share (and corporations that give politicians money through lobbying: legalised bribery).  
+The US politicians are competing in "How bad(how little distribute good things)" they can go. Because that will maximize politicians' share (and corporations that give politicians money through lobbying: legalised bribery).  
 They just need to be slightly better than their opponent.  
 This structure, with only two entities in the system, is called "Duopoly", which the Okinawa local media is. By a 99.4% share.  
 
