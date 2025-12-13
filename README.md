@@ -1299,7 +1299,7 @@ As Sun Tzu said, "Know the Enemy and Yourself, you will not know defeat". (Not a
 # Lie 7: The US wouldn't agree with it
 
 **The Reality:** If the US loses Japan, it is "Game Over" for American hegemony.  
-Their most important grand strategy is to control the Pacific to contain China. This is impossible without Japan.  
+Their most important grand strategy is to control the Pacific, current mid-term goal is to contain China. This is impossible without Japan.  
 We hold an extremely strong card—stronger than nuclear weapons: **Geopolitical Necessity.**
 The US would happily accept some legal burdens if it keeps Japan friendly and the alliance stable.  
 
