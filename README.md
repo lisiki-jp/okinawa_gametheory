@@ -1,6 +1,6 @@
 # 失敗に成功しました: 14兆8,000億円 の血税はなぜ消えた？ 支援が沖縄を貧しくする仕組みをゲーム理論で明かす。
-# **Failing Successfully: Why Okinawa is the poorest prefecture after 14.8 Trillion Yen aid. From a perspective of incentive structure.**
-## **The Reality that Japanese Are Being Exploited 300 Billion Yen a year Without Knowing It. And why China is the accidental winner**
+## **Failing Successfully: Why Okinawa is the poorest prefecture after 14.8 Trillion Yen aid. From a perspective of incentive structure.**
+# **The Reality that Japanese Are Being Exploited 300 Billion Yen a year Without Knowing It. And why China is the accidental winner**
 by 伊波りしき (IHA Lisiki)
 
 For decades, you have felt a twinge of guilt whenever you saw the words "Okinawa Bases."
