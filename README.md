@@ -1,6 +1,8 @@
 # **Failing Successfully: Why Okinawa is the poorest prefecture after 14.8 Trillion Yen aid. From a perspective of game theory.**
-by 伊波りしき (IHA Lisiki)
+by 伊波りしき (IHA Lisiki)   
+
 Based on selectorate theory, game theory, resource curse, aid curse, incentive analysis, and rational choice theory.
+
 ---
 # Table of Contents
 
