@@ -832,7 +832,7 @@ We are here because of Okinawa.
 ### Population data: Satsuma-Ryukyu partners in crime.: Tax-Evading Bros
 "薩摩藩と近世琉球国の人口" by 尾口義男 page 8.  
 [https://www.pref.kagoshima.jp/ab23/reimeikan/siroyu/documents/6757_20220514171645-1.pdf](https://www.pref.kagoshima.jp/ab23/reimeikan/siroyu/documents/6757_20220514171645-1.pdf)  
-You see the beautiful table. But the data is fake. (Not to blame the author, he did a great job.)
+You see the beautiful table. But the data is unreliable. (Not to blame the author, he did a great job.)
 Only the last two rows are trustworthy.  
 
 Look at the last three rows, the population exploded in 4 years, between 1876-1880. 167k -> 356k. 
@@ -1248,9 +1248,9 @@ Without the right understanding of the situation, no progress.
 As Sun Tzu said, "Know the Enemy and Yourself, you will not know defeat". (Not a great choice?)
 
 ### Conclusion: Stop the aid.  
-* The aid provides the structure that the creation of hateful nationalism thrives, promoting fake history.  
+* The aid provides the structure that the creation of hateful nationalism thrives, promoting inaccurate history.  
 * Give Okinawa a real history education.  
-* The Okinawa govt is promoting fake history. 
+* The Okinawa govt is promoting inaccurate history. 
 * Ryukyu was practically the Dejima of Ming, created by Ming to get Japanese sulfur.  
 * Ryukyu was a colonial empire.  
 * Ryukyu was a terrible place to live for commoners.  
@@ -1569,8 +1569,8 @@ We talked about this page in "6."
 
 | CAE | How | Line | 
 | :--- | :--- | :--- |
-| +A | Fake History | 昔、沖縄県は、琉球（りゅうきゅう）とよばれた一つの国でした。1429年、尚巴志（しょうはし）という人物が、各地の有力者（ゆうりょくしゃ）を一つにまとめました。|
-| +A | Fake History | 首里城を王国の中心とした琉球は、さかんに中国や日本、アジアの国々に出かけていき、たくさんの品物の売り買いを行いました。そのころの那覇の港は、海外から運ばれた物や外国人であふれたといわれます。この時代は「大交易時代（だいこうえきじだい）」とよばれています。琉球は、「レキオ」という名前で、ポルトガルの資料にも記録されています。|
+| +A | Inaccurate History | 昔、沖縄県は、琉球（りゅうきゅう）とよばれた一つの国でした。1429年、尚巴志（しょうはし）という人物が、各地の有力者（ゆうりょくしゃ）を一つにまとめました。|
+| +A | Inaccurate History | 首里城を王国の中心とした琉球は、さかんに中国や日本、アジアの国々に出かけていき、たくさんの品物の売り買いを行いました。そのころの那覇の港は、海外から運ばれた物や外国人であふれたといわれます。この時代は「大交易時代（だいこうえきじだい）」とよばれています。琉球は、「レキオ」という名前で、ポルトガルの資料にも記録されています。|
 | -E,+A | Victimhood, Favorable Expression, Peer Rhetoric | 1609年、琉球は薩摩藩（さつまはん＝今の鹿児島県）からの侵攻（しんこう）を受けます。ちょうど日本では、将軍（しょうぐん）を頂点とする国（江戸幕府）が始まったころでした。|
 | |  | この時代、琉球は日本文化のえいきょうを受けて、さらに特色ある文化を育てていきました。|
 | -E,+A | Victimhood, Favorable Expression | 明治時代になると、450年間続いた琉球王国はなくなり、琉球は沖縄県となりました。|
@@ -1962,7 +1962,7 @@ We will convert everything to **"Net Economic Gain"** (Profit/Surplus) to make t
 
 Here is what the relative share looks like when you compare Profit to Profit:
 
-| Category | The "Fake" Share (from PDF) | **The "Real" Share (Recalculated)** |
+| Category | The "Misleading" Share (from PDF) | **The "Real" Share (Recalculated)** |
 | :--- | :--- | :--- |
 | **Fiscal Aid (Subsidies)** | 50.2% | **63.0%** |
 | **Other (Pensions/Passive)** | 18.8% | **23.7%** |
@@ -2242,7 +2242,7 @@ I told you that we, "the Japanese majority," are the strongest player.
 It means **you** are the boss.  
 It's true as long as we are a democratic country. And luckily, we are.  
 
-If the majority of potential voters support ending the fake aid, the government has to change the current policy to stay in power.  
+If the majority of potential voters support ending the halmful aid, the government has to change the current policy to stay in power.  
 You don't have to wait till the next election.  
 **We can start today, right now.**
 
@@ -2273,7 +2273,7 @@ It tells the politicians: *"If you don't change the policy, you will lose votes.
 Influential figures can spread the idea much faster and farther than an ordinary man.  
 
 When mass media think, "Seems like most of the Japanese will like this idea", they will follow.  
-When the government thinks, "Seems like we are going to lose the next election if we don't change the course", they will end the fake aid.  
+When the government thinks, "Seems like we are going to lose the next election if we don't change the course", they will end the halmful aid.  
 And to that, you should spread this idea as far as you can.  
 
 **You are the one who pushes the First Domino.**
