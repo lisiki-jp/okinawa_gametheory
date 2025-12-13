@@ -181,7 +181,7 @@ It might even the LDP doesn't know about this. It's been a long time. The initia
 But I'm sure after 2010, when the Aid Curse became the common knowleadge among political elites, Tokyo has been sending aid with the intent.  
 Whether it is started intentionally or not, the result is the same. The machine is wasting our money today.  
 Bureaucrats in Tokyo are happy because they control the island with money. As long as voters don't notice the mechanism.  
-Politicians in Okinawa are happy because they get elected on anger.  
+Politicians in Okinawa are happy because they can expoit the anger to win election.  
 It is a 'Perfect Crime' where no one has to be the villain, but everyone is an accomplice.  
 
 ### Solution: Democracy Armor.  
