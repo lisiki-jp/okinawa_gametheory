@@ -1705,7 +1705,7 @@ Kyoto has 1,000 years of history. That is a **Monopoly.** You cannot find anothe
 Okinawa does not have that monopoly.  
 Also, season. Kyoto can operate 365 days. Okinawa beaches can operate about 140 – 150 Days a year, because of winter and weather.  
 
-### Beach comparison: Okinawa, Bali, and Hawaii: The wall never able to climb.
+### Beach comparison: Okinawa, Bali, and Hawaii: The wall too high to climb.
 
 | Feature | **Okinawa (Japan)** | **Bali (Indonesia)** | **Honolulu(Hawaii)** |
 | :--- | :--- | :--- | :--- |
