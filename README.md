@@ -992,7 +992,7 @@ This is the official page of from Okinawa prefecture government "History Summary
 It's a web archive because it'll likely be modified if this report becomes viral.  
 https://ghostarchive.org/archive/7orrA (mirror: https://archive.md/AitCN)
 
-### The first line of the Official Story "Peaceful Kingdom": Simply false
+### The first line of the Official Story "Peaceful Kingdom": Not ture
 
 > 昔、沖縄県は、琉球とよばれた一つの国でした。1429年、尚巴志という人物が、各地の有力者を一つにまとめました。
 
@@ -1057,7 +1057,7 @@ And people started to ignore the ban; Ryukyu lost its role as a warehouse.
 The Okinawa Government calls it the "Great Trade Era."
 A more accurate name would be the "Great Warehouse Era."
 
-### Plausible deniability of "for child" on pref.okinawa.jp
+### "Plausible deniability" of "for child" on pref.okinawa.jp
 
 We did just 2 lines. But I think that was enough to give you the idea.  
 The official story is a fantasy.  
@@ -1618,7 +1618,7 @@ We can't do this anymore. Japan is a falling economic power. We have to be effic
 Politicians love to scream "Tourism Nation!"
 But let’s look at the cold, hard reality of Okinawa’s tourism "weapon."
 
-### **The only weapon Okinawa Tourism has is "The Beach."**
+### **The only weapon Okinawa Tourism has is "The Beach."**: it can't attract wealthy Europeans(Americans)
 
 And that is the problem.  
 In the global market, a beach is a **Commodity.** It is not unique.  
@@ -1657,7 +1657,7 @@ There is no room for growth here.
 You cannot attract wealthy Europeans or Americans to fly 20 hours just for a beach they can find in Florida or Spain.  
 We are trapped in a "Regional Budget Tourism" market.  
 
-### **The math simply doesn't work**: too many people to feed by the Taiwanese and Koreans.
+### **The math simply doesn't work**: Too many people to feed. Taiwanese and Koreans can't do this.
 
 Okinawa has a population of **1.46 Million.**
 You cannot feed 1.46 million people by selling shaved ice to budget tourists from Taiwan.  
@@ -1770,7 +1770,7 @@ The local tax revenue cannot cover it. So, Okinawa must beg Tokyo for more subsi
 This keeps Okinawa in a state of permanent dependency.  
 We are not building assets; we are building liabilities that chain us to Tokyo forever.  
 
-### **Luxury tourism is dangerous: Native Hawaiians can't live on their island**
+### **Luxury tourism is dangerous: Native Hawaiians can't live on the ancestor's island**
 
 Some of you say, "Okay, cheap tourism is bad. So let's target the wealthy. Let's be like Hawaii."
 So many problems here, one is that Hawaii is too close; Okinawa has to compete with Hawaii if it chooses this path.  
@@ -1982,7 +1982,7 @@ When you fix the math:
 
 This graph in the PDF is not just a mistake; it is fraudulent accounting designed to hide the fact that the entire tourism industry creates less net wealth for the island than the Military land rents do.  
 
-###  They know that tourism isn't working
+###  They know that tourism isn't working.: bot insist to go further
 
 And we hand them **300 Billion Yen** to manage. Every year.  
 They say with a straight face, "Tourism is working!"
@@ -2250,7 +2250,7 @@ To make the majority support this idea, we have to deliver this idea to them.
 Japan is an old country. Not everyone has access internet, SNS, or YouTube.  
 We need mass media on our side. Nationwide TVs and nationwide newspapers are necessary to secure the majority.  
 
-### The Strategy: Setting the ground for the mass media
+### The Strategy: Setting the comfortable ground for the mass media
 
 Japanese newspapers have a unique system that makes them loosely collective. The system is called the Kisha Club.  
 If one media moves too fast, it will be punished by others.  
