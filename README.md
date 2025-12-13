@@ -1,85 +1,7 @@
-# 失敗に成功しました: 14兆8,000億円 の血税はなぜ消えた？ 支援が沖縄を貧しくする仕組みをゲーム理論で明かす。
-## **Failing Successfully: Why Okinawa is the poorest prefecture after 14.8 Trillion Yen aid. From a perspective of incentive structure.**
-# **The Reality that Japanese Are Being Exploited 300 Billion Yen a year Without Knowing It. And why China is the accidental winner**
-by 伊波りしき (IHA Lisiki)
+# **Failing Successfully: Why Okinawa is the poorest prefecture after 14.8 Trillion Yen aid. From a perspective of game theory.**
+by 伊波りしき (IHA Lisiki)   
 
-For decades, you have felt a twinge of guilt whenever you saw the words "Okinawa Bases."
-
-* You were told that because of the War and because of the Bases, you owe Okinawa an apology.  
-* You were told that your tax money is "support"—a necessary compensation for their burden.  
-* You were told that this is the cost of National Security, so you have to pay it.  
-* You were told that this is a "Local Problem," and you shouldn't interfere.  
-* You were told that the money you sent to Okinawa is helping to improve the Okinawa economy.  
-
-As someone with the blood of Miyako(mother) and Nago(father), born in Tokyo, I am here to tell you the uncomfortable truth: **You have been scammed**.   
-These are all lies.  
-
-You have been manipulated into paying your money.   
-About 300 Billion Yen. Every year.  
-
-The "Anger" of the Okinawan people is real—but it is massively amplified and partly manufactured from zero by a local newspaper cartel that holds a staggering **99.4%** market dominance. (The number is calculated from publicly available data; Explanation in "Lie 5" chapter.)
-
-And the aid Tokyo gives them makes them more angry.   
-Look at the world, the country that most hates the US is often the country the US gave massive aid to. Iran and Russia (USSR at the time) both got a substantial amount of aid in the past. 
-
-While honest people in Japan work hard and pay taxes, the money they send to Okinawa does not help the people. It is used to **weaken** the Okinawan economy to keep the island dependent and angry forever.  
-You are not the oppressor. You are the victim of this entire show.  
-
-### **Not only you, but people of Okinawa are also told lies.**
-
-* They were told that voting for an anti-base politician would solve the problem. 
-* They were told that building a bridge using money from Tokyo is a victory.  
-* They were told that the Ryukyu was a peaceful trading kingdom.  
-* They were told that the local media is on their side.  
-
-These are all lies.  
-These are designed to make them perform a frontal assault against a concrete wall.  
-They are directed to do things that specifically **don't** work, so they stay angry, exhausted, and poor forever.  
-
-### Okinawa: Master of Fiction 
-
-Okinawa is the birthplace of Karate. Karate's original meaning was "China Hand"; An Okinawan changed it to "Empty Hand" and convinced the entire of Japan. Now, the Japanese are spreading their culture all over the world.  
-Okinawa citizens had to lie to survive under "Dual Subordination" (1609–1879). When a Ming official came, all citizens hid any Japan-related goods to pretend that Satsuma was not there. 
-This created the collective reality that performing is a virtue. Like Russians develop "vranyo" culture under the Soviet rule.  
-"Nankuru Naisa" is a legacy of historical events. Because people of Okinawa didn't have control over their fate. They had to tell themselves beautiful fiction to stay sane, to keep putting one foot in front of the other. That future will be better.  
-
-### Accidental Winner: China
-
-And to all Japanese citizens, hear this clearly:
-I still haven't told you the worst part.  
-The worst part is that **China** is the one that benefits most from this dysfunction.  
-
-### Our Hope: We have the solution.  
-
-But the best part? **We have the solution.**
-Currently, the existing players are locked in what Game Theory calls a **"Nash Equilibrium."** that no one dares to move.  
-The easiest way to break this deadlock is to introduce a new, **Strongest Player** who breaks the balance.  
-And that's **you**, the Japanese Majority.  
-You are not just the strongest. You are the "Judge" of this game. You alone have the power to end the game.  
-This power isn't just a theory; It is defined in the rules. Codified in the Constitution. Even the US Military cannot override our collective will.  
-
-The current active players (the politicians, the media) are **terrified** of you entering the game.  
-That is why they bombard you with these narratives to keep you apathetic:
-*"It’s a local problem." "It’s about war guilt." "It’s complicated." "70% of bases are there." "It's national security"*
-They are designed to keep you guilty, silent, and off the board.  
-Because as long as the strongest player stays asleep, the scammers can keep playing their game.  
-
-The solution we'll deliver is "Win-Win" for everyone.  
-Okinawa citizens, Japanese citizens, National Security, the USA. All will get a better position than now.  
-
-Again, **You** are the key. That is why I am writing this, and why you are reading this.  
-We can save Japan, save Okinawa, and save democracy in a single blow. Also, we can save your wallet on the way.  
-It's all up to you. We, Japanese.  
-
----
-# Quick Conclusion: Retweet this report
-
-All you need to do is **retweet**.  
-And that will save Japan, save Okinawa, save us.  
-
-You don't have to read this entire report. It's too long for a busy person.  
-Just check where you are interested in.  
-When you feel that what I'm saying here is interesting or right, spread this report.  
+Based on selectorate theory, game theory, resource curse, aid curse, incentive analysis, and rational choice theory.
 
 ---
 # Table of Contents
@@ -89,7 +11,7 @@ When you feel that what I'm saying here is interesting or right, spread this rep
 
 ---
 
-# Lie 1: "The money you sent to Okinawa is for the Okinawa economy growth."
+# 1: "The money you sent to Okinawa is for the Okinawa economy growth."
 Every year, Tokyo hands Okinawa about 300 Billion Yen. They call it the "Okinawa Promotion Budget."
 It's been over **50 years**.  
 The total became roughly 14.8 Trillion Yen.  
@@ -123,7 +45,7 @@ The reason why does Tokyo do this?
 Tokyo got the switch to ruin Okinawa.  
 "If you don't obey, I can make you bankrupt by just stopping the aid."
 The money is sent to make Okinawa poor and dependent. So Tokyo can control Okinawa. (e.g., bases)
-"Okinawa Promotion" is a lie.  
+"Okinawa Promotion" is a facade.  
 
 ### Conclusion: Stop the aid.  
 
@@ -133,7 +55,7 @@ The money is sent to make Okinawa poor and dependent. So Tokyo can control Okina
 * Okinawa is big Yubari. It built tourism infrastructure using aid from Tokyo and went bankrupt in the end. 
 
 ---
-# Lie 2: "This is the cost of National Security. We have to pay it."
+# 2: "This is the cost of National Security. We have to pay it."
 
 If this is about National Security, we shouldn't pay a single yen to Okinawa.  
 
@@ -171,7 +93,7 @@ To treat National Survival as a "local petition" is not Democracy.
 It is a **dereliction of Sovereign Duty.**
 
 The current situation doesn't make sense if the money is about National Security or "rent".  
-As we learned in "Lie 1", this is the money to keep Okinawa weak and dependent.  
+As we learned in "1", this is the money to keep Okinawa weak and dependent.  
 
 Let me repeat the current situation because it's so absurd:
 **This 300 Billion Yen is not buying Security. It is buying Vulnerability.**
@@ -188,7 +110,7 @@ By keeping Okinawa weak and dependent, and resentful, Tokyo is practically **gif
 A rich, industrial, self-sufficient Okinawa that doesn't need Tokyo's money—and doesn't need Beijing's tourists—is the ultimate defense.  
 
 We are spending 300 Billion Yen a year to maintain a weak point in our armor.  
-That isn't "Defense Spending." That is **Defense Sabotage.**
+That isn't "Defense Spending." That is **Defense Undermining.**
 
 ### Conclusion: Stop the aid.  
 
@@ -198,7 +120,7 @@ That isn't "Defense Spending." That is **Defense Sabotage.**
 * Let's get more missiles so China will think that it'll be costly to attack us. 
 
 ---
-# Lie 3: "Politicians of Tokyo want to improve the economy of Okinawa."
+# 3: "Politicians of Tokyo want to improve the economy of Okinawa."
 
 You already know Nagata-cho actually wants the opposite, weak Okinawa. So they can be controlled.  
 Here, we will explore **why** they want **absolute** control so badly. 
@@ -245,7 +167,7 @@ This is why. **It's their duty to weaken Okinawa**. Or at least that's what they
 **If the world consisted only of Japan. The dependent Okinawa plan is perfect.**
 But the world is not only Japan. And we have a **non-democratic China now richer than Japan**.  
 50 years ago, the plan might have looked perfect. But today, it looks catastrophic.  
-As I explained in "Lie 2/Poverty is a hole in our armor", poor citizens are vulnerable to influence from China.  
+As I explained in "2/Poverty is a hole in our armor", poor citizens are vulnerable to influence from China.  
 
 Nagata-cho succeeded in securing a favorable economic balance between Okinawa and Tokyo by weakening Okinawa. But that's also shifting the economic balance between Okinawa and Beijing.  
 
@@ -351,7 +273,7 @@ The data shows that having no Nationalism is good for your health. We are lucky 
 * Democracy is good.  
 
 ---
-# Lie 4: "Politicians of Naha want to improve the economy of Okinawa."
+# 4: "Politicians of Naha want to improve the economy of Okinawa."
 
 Because tax revenue from the Okinawa economy is so tiny compared to money from Tokyo, they have zero, even negative, incentive to develop the local economy.  
 That's why they are obsessed with outsiders(where money comes from), but rarely provide real improvements for the people of Okinawa.  
@@ -501,7 +423,7 @@ If Okinawa becomes rich, ruling politicians in Naha will lose jobs.
 The local media is the true engine for their power, they too lose it's main reason to dominate the narrative.  
 
 ### The malfunctioning tourism industry is beneficial for politicians
-(how malfunctioning is explained in: "Lie 9")  
+(how malfunctioning is explained in: "9")  
 This also explains the 50-year obsession with Tourism.  
 Why Tourism?
 And why don't they change the strategy despite a 50-year continuous failure?
@@ -511,13 +433,13 @@ It's the optimal choice for politicians and media.
 Successful industry = no aid.  
 Successful Okinawa = no resentment = no media dominance.  
 
-Tourism is their 'Trash Bin'. As shown in "Lie 9"(later chapter), it generates a fraction of the profit of military rent and has a disastrous ROI. It doesn't produce real wealth.  
+Tourism is their 'Trash Bin'. As shown in "9"(later chapter), it generates a fraction of the profit of military rent and has a disastrous ROI. It doesn't produce real wealth.  
 It just burns aid money.  
 And Naha politicians and local media are all happy.  
 
 ### Not only the Aid Curse and Nationalism: here is the Budget trap
 
-In "Lie 1", we learned about the Aid Curse, that aid takes away the need for Okinawa to develop industry.  
+In "1", we learned about the Aid Curse, that aid takes away the need for Okinawa to develop industry.  
 In this chapter, I talked about the Naha politicians' incentives and why they want to waste the aid.  
 
 And that's not all, we have more factors that hinder the Okinawa's development. 
@@ -550,7 +472,7 @@ Food production is a clear role that Hokkaido has. And Hokkaido has the second-l
 
 Now look at Okinawa.  
 They don't even know what industry is viable. 
-They just believe tourism work (which doesn't. Refer to "Lie 9"). (And if we assume they really believe it rather than knowing it doesn't work, and let money burn, which is more likely from incentive analysis.)
+They just believe tourism work (which doesn't. Refer to "9"). (And if we assume they really believe it rather than knowing it doesn't work, and let money burn, which is more likely from incentive analysis.)
 They ended up just like Yubari, having no idea what to do with the aid. Creating Tourism infrastructures that generate a deficit.  
 They just have no idea what to do with the money Tokyo sent.  
 
@@ -565,10 +487,10 @@ Okinawa alone can't implement the system that is required to be a viable economy
 * Give Okinawa a clear role like Hokkaido has.  
 
 ---
-# Lie 5: "Okinawa local newspaper is on Okinawans' side."
+# 5: "Okinawa local newspaper is on Okinawans' side."
 
 "Okinawa media is on Okinawans' side."  
-This is a lie.  
+This is a fantasy.  
 You might guess, "Are they secretly on Tokyo's side?"  
 If so, it would be fun. But no.  
 
@@ -663,7 +585,7 @@ Before 1995(when the Henoko became a problem), National papers had some share in
 Asashi was the strongest among national newspapers, likely because of its relatively critical stance against Tokyo.  
 But even that, Asahi lost about 75% of its sales after the problem arose.  
 You can see Nikkei only lost 8% of its share, while others lost large amounts of their share. Because Nikkei is "compatible" with local newspapers. Who provides narratives that are incompatible with national newspapers?
-Don't be distracted by another lie that claims "logistics to deliver newspapers is difficult". As Nikkei in 1993 had no partnership with Simpo on local production, and still had large sales, that claim is false or too weak. 
+Don't be distracted by another bait that claims "logistics to deliver newspapers is difficult". As Nikkei in 1993 had no partnership with Simpo on local production, and still had large sales, that claim is false or too weak. 
 
 | Newspaper | 1993 Circulation (Morning Edition) | 2024 Circulation (Morning Edition) | Change (1993-2024) |
 | :--- | :--- | :--- | :--- |
@@ -751,12 +673,12 @@ People of Okinawa pay tax for the "infinite conflict machine" that keeps them su
 * Petition the Japan Fair Trade Commission (公正取引委員会) to investigate the connection between the Newspapers, the TV Stations, and politicians in Okinawa. 
 
 ---
-# Lie 6: "Ryukyu Kingdom was a peaceful Kingdom."
+# 6: "Ryukyu Kingdom was a peaceful Kingdom."
 
 * "Ryukyu Kingdom was a great trader."
 * "Ryukyu Kingdom was a utopia."
 
-These "Beautiful Ryukyu Kingdom" stories are all lies. It's a fantasy.  
+These "Beautiful Ryukyu Kingdom" stories are all fantasy.  
 
 * It was not peaceful
 * It was not a great trader
@@ -786,7 +708,7 @@ We can observe:
 2. Under Ryukyu/Satsuma(1609 – 1880), the growth rate increased massively. (0.47%) 
 3. Under Japan(1880 – 2025), the growth rate become even higher.(0.99%)
 
-We've already dismantled "Ryukyu Utopia" and "Golden Age".  
+We've already dismissed "Ryukyu Utopia" and "Golden Age".  
 
 ### Pop growth under Ming(0.11%) and under Satsuma(0.47%): Resource Curse from Ming
 
@@ -1138,7 +1060,7 @@ A more accurate name would be the "Great Warehouse Era."
 ### Plausible deniability of "for child" on pref.okinawa.jp
 
 We did just 2 lines. But I think that was enough to give you the idea.  
-The official story is a lie.  
+The official story is a fantasy.  
 
 Let's move to meta-analysis.  
 
@@ -1270,19 +1192,19 @@ The reason is obvious if you are familiar with Ryukyu's history.
 "沖縄の歴史と文化31" has too many inconvenient truths in it.  
 
 **この繁栄の背景には冊封・朝貢体制を築いていた明国の海禁政策があります。**  
--> * This dismantles the "Great Trade kingdom" by the Ryukyu initiative. That was just the result of Ming's policy. 
+-> * This dismisses the "Great Trade kingdom" by the Ryukyu initiative. That was just the result of Ming's policy. 
 
 **1. 地方按司（=有力者）からの武器の没収と首里城下への移住**  
--> * This dismantles the "Peaceful Ryukyu people that voluntarily discarded weapons".* And "Satsuma taken away weapons", which is popular with combined with Karate. 
+-> * This dismisses the "Peaceful Ryukyu people that voluntarily discarded weapons".* And "Satsuma taken away weapons", which is popular with combined with Karate. 
 
 **2. 身分制度の確立**  
--> * This dismantles the "Ryukyu Utopia," The Third Pillar of Ryukyu identity*. Most people are treated as serfs(slaves in modern standard, servants), the property of the King. And the majority was a "servant of a servant/Yaa-nin" who had almost zero rights. 
+-> * This dismisses the "Ryukyu Utopia," The Third Pillar of Ryukyu identity*. Most people are treated as serfs(slaves in modern standard, servants), the property of the King. And the majority was a "servant of a servant/Yaa-nin" who had almost zero rights. 
 
 **3. 聞得大君/ノロ**  
 -> * This is "Police State" *,  The king converted Noro (local priest) into his surveillance camera.  
 
 **4. 八重山や与那国における反乱を鎮め、離島の支配の強化（5代目尚元王の代には奄美諸島も配下に置く）**  
--> *This dismantles the "Peaceful Ryukyu Kingdom"*, it was a colonial empire. And it shows Amami was conquered by 5代目尚元王, contradicting the 1429 Kingdom "united" narrative.  
+-> *This dismisses the "Peaceful Ryukyu Kingdom"*, it was a colonial empire. And it shows Amami was conquered by 5代目尚元王, contradicting the 1429 Kingdom "united" narrative.  
 
 Page 31 lists the facts that the "Okinawa Cartel" is desperate to hide.  
 
@@ -1337,7 +1259,7 @@ As Sun Tzu said, "Know the Enemy and Yourself, you will not know defeat". (Not a
 * Okinawa's history is important/interesting than you think.  
 
 ---
-# Lie 7: The US wouldn't agree with it
+# 7: The US wouldn't agree with it
 
 **The Reality:** If the US loses Japan, it is "Game Over" for American hegemony.  
 Their most important grand strategy is to control the Pacific, current mid-term goal is to contain China. This is impossible without Japan.  
@@ -1423,7 +1345,7 @@ Japan's message should not be "Anti-American," but rather **"Pro-Alliance Modern
 * We have the strongest negotiation card in history. It is time to play it.  
 
 ---
-# Lie 8: "If we help, they'll like us."
+# 8: "If we help, they'll like us."
 
 Sadly, **this is not true.**
  
@@ -1643,7 +1565,7 @@ Yes, as long as they choose to place themselves as "peer" of China or Japan, the
 ### Okinawa Pref's official story: CAE offset festival.  
 [https://www.pref.okinawa.jp/kyoiku/kodomo/1002705/1002706.html](https://www.pref.okinawa.jp/kyoiku/kodomo/1002705/1002706.html) [(mirror https://ghostarchive.org/archive/7orrA)](https://ghostarchive.org/archive/7orrA)
 
-We talked about this page in "Lie 6."
+We talked about this page in "6."
 
 | CAE | How | Line | 
 | :--- | :--- | :--- |
@@ -1660,7 +1582,7 @@ We talked about this page in "Lie 6."
 * The aid creates the environment in which nationalism thrives, and it requires hating outsiders just to exist because Okinawa is surrounded by real cultural superpowers, and nationalism demands acting like a peer of them.  
 
 ---
-# Lie 9: Okinawa tourism is the future
+# 9: Okinawa tourism is the future
 
 If a core business strategy hasn't turned a profit in 50 years, yet you refuse to change course and demand more money to double down... that is not a 'Plan.' It is a Religion.  
 
@@ -2094,7 +2016,7 @@ The Basic Plan is the confession. They have given up.
 We have talked enough about the problem. Let’s talk about the future.  
 
 ### Future 1. Tourism is a side business.  
-As we saw in "Lie 9", it has no future.  
+As we saw in "9", it has no future.  
 No investment in tourism from today.  
 But, natural visitors likely stay strong. Just let the market handle it.  
 
@@ -2191,7 +2113,7 @@ We replace it with a **Special Tax-Free Zone.**
 We use the "Aid" money to cover the tax gap.  
 This will attract talent from Tokyo, Taiwan, and Singapore.  
 
-### Future 6. The media: dismantle the cartel
+### Future 6. The media: dismisses the cartel
 
 The current generation of people of Okinawa is 'educated' from birth by local media under total control.  
 The invisible hand can't fix this 'educated' market.  
@@ -2280,8 +2202,8 @@ I know this report was long and emotional. You must be tired.
 But you are here. You are here because you care about Japan and its people.  
 This is the final chapter. 
 
-We have walked through the lies together.  
-We have seen how our money is wasted, how our security is sabotaged, and how Okinawa is kept poor by design.  
+We have walked through together.  
+We have seen how our money is wasted, how our security is undermined, and how Okinawa is kept poor by design.  
 
 We saw a bright hope that Okinawa can be the beacon of creativity, with beautiful beaches for extra.  
 
@@ -2419,7 +2341,7 @@ Or you can ask LLM (ChatGPT, Gemini) if my report is trustworthy or not.
 Google provides a high-quality LLM for free for developers, but anyone can use it. (https://aistudio.google.com/)
 LLM Chatbot is the fastest way to get a rough idea today. 
 But be cautious, they don't tell you the truth every time.  
-Especially in the environment media is spreading lies, LLM often presents you the biased information.  
+Especially in the environment media is spreading misinformation, LLM often presents you the biased information.  
 If you are not sure, ask them a proof of their claim.  
 
 If you liked only some parts of my analysis, just share only those parts. 
