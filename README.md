@@ -754,8 +754,8 @@ These "Beautiful Ryukyu Kingdom" stories are all lies. It's a fantasy.
 Before the story, let's see the population growth data I calculated from trustworthy data. 
 | Period / Year | Regime | Pop Growth | Annual Growth | Data Type |
 | :--- | :--- | :--- | :--- |:--- |
-| **1429 - 1609** | **Ryukyu Kingdom under Ming** | **70K ➔ 86K ** | 0.11% | Only main island |
-| **1609 – 1880** | **Ryukyu Kingdom under Satsuma** | **100K ➔ 353K ** | 0.47% | Exclude Amami |
+| **1429 - 1609** | **Ryukyu Kingdom under Ming** | 70K ➔ 86K  | 0.11% | Only main island |
+| **1609 – 1880** | **Ryukyu Kingdom under Satsuma** | 100K ➔ 353K | 0.47% | Exclude Amami |
 | **1880 – 1935** | **Okinawa in Japan(Constitutional Monarchy)** | **353K ➔ 590k** | 0.94% | Exclude Amami |
 | **1880 – 2025** | **Okinawa in Japan(All)** | **353K ➔ 1,467k** | 0.99% | Exclude Amami |
 
