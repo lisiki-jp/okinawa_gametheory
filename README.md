@@ -3,6 +3,7 @@
 ## **The Reality that Japanese Are Being Exploited 300 Billion Yen a year Without Knowing It. And why China is the accidental winner**
 by 伊波りしき (IHA Lisiki)
 
+* TOC
 {:toc}
 
 For decades, you have felt a twinge of guilt whenever you saw the words "Okinawa Bases."
