@@ -11,7 +11,7 @@ For decades, you have felt a twinge of guilt whenever you saw the words "Okinawa
 * You were told that this is a "Local Problem," and you shouldn't interfere.  
 * You were told that the money you sent to Okinawa is helping to improve the Okinawa economy.  
 
-As someone with the blood of Miyako and Nago, born in Tokyo, I am here to tell you the uncomfortable truth: **You have been scammed**.   
+As someone with the blood of Miyako(mother) and Nago(father), born in Tokyo, I am here to tell you the uncomfortable truth: **You have been scammed**.   
 These are all lies.  
 
 You have been manipulated into paying your money.   
