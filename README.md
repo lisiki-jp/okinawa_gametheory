@@ -2179,7 +2179,7 @@ If a newspaper, or collective, has >80% market share in a prefecture, it should 
 Addressing media dominance is essential, and we can take numerous measures that I can't list here. 
 I leave that to you and professional regulators. 
 
-### Future 7. The Institution Human Resource Exchange.  
+### Future 7. The Institution: Human Resource Exchange.  
 "第６次沖縄県観光振興基本計画"
 https://web.archive.org/web/20250317205547/https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/6keikaku2.pdf  
 I talked about how bad this "Basic Plan" is. In short, it's not a plan. It's at best a diary.  
