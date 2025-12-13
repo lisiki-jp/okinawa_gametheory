@@ -683,7 +683,7 @@ These "Beautiful Ryukyu Kingdom" stories are all fantasy.
 * It was not peaceful
 * It was not a great trader
 * It was not utopia.
-* It was not sovereign from the start.
+* It was not sovereign.
 * It was not even a Kingdom in a practical sense.
 
 ### Start from the data: population growth.  
