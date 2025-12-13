@@ -6,6 +6,3 @@ url: https://lisiki-jp.github.io/okinawa_gametheory/
 
 aux_links: # remove if you don't want this link to appear on your pages
   Template Repository: https://github.com/lisiki-jp/okinawa_gametheory
-
-plugins:
-  - jekyll-default-layout
