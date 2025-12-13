@@ -326,7 +326,7 @@ You can search "Egalitarian component index" in V-DEM. This index acts as a scor
 *   **The Contrast:** While the US lags, countries like **Japan, Germany, and the Nordic states** score very high.  
 *   **The Structure:** These countries have achieved an egalitarian society (and high life expectancy) because their political systems force leaders to serve a larger coalition.  
 
-#### Bonus: Nationalism is a free Public Good.  
+#### Bonus: Nationalism is a free public goods.  
 Why does Okinawa have strong "Nationalism"?
 Because it lets politicians secure power without distributing any goods. 
 The economy has never developed. Politicians have no good thing to provide. Or they don't have to provide because it has strong nationalism.  
