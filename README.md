@@ -584,8 +584,8 @@ If the problem is gone, their monopoly ends.
 Before 1995(when the Henoko became a problem), National papers had some share in Okinawa. This is from ABC, 1993 and 2025.  
 Asashi was the strongest among national newspapers, likely because of its relatively critical stance against Tokyo.  
 But even that, Asahi lost about 75% of its sales after the problem arose.  
-You can see Nikkei only lost 8% of its share, while others lost large amounts of their share. Because Nikkei is "compatible" with local newspapers. Who provides narratives that are incompatible with national newspapers?
-Don't be distracted by another bait that claims "logistics to deliver newspapers is difficult". As Nikkei in 1993 had no partnership with Simpo on local production, and still had large sales, that claim is false or too weak. 
+You can see Nikkei only lost 8% of its share, while others lost large amounts of their share. Because Nikkei is "compatible" with local newspapers. And national newspapers are imcompatible with local newspaper narratives.
+Don't be distracted by another bait that claims "logistics to deliver newspapers is difficult". As Nikkei in 1993 had no partnership with Simpo on local production(started on 2008), and still had large sales, that claim is false or too weak. 
 
 | Newspaper | 1993 Circulation (Morning Edition) | 2024 Circulation (Morning Edition) | Change (1993-2024) |
 | :--- | :--- | :--- | :--- |
