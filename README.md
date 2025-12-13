@@ -1006,8 +1006,8 @@ Sho Hashi wasn't a peaceful negotiator. Think of him as Genghis Khan in Okinawa.
 But who confused you is actually the Okinawa government.
 It describes him as a "Peaceful negotiator", but the fact is he was a "Ruthless invader."
 
-Using 有力者 is skillful rhetoric here. This implies interaction between the king and the person. It implies a social interaction between the two.  
-It hides the reality: Conquest.  
+Using 有力者 is skillful rhetoric here. This implies interaction between the king and the person. It means a social interaction between the two, which is not what happened.   
+What happened is the conquest.  
 
 Sho Hashi was Chusan's king, who controlled Naha, where the best port was.  
 Since Okinawa has no iron mine, only he can get iron weapons in mass from China.  
