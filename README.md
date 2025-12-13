@@ -417,8 +417,8 @@ Let's start with data.
 | 神奈川県 (Kanagawa) | 1,295,865,290 | 40,968,709 | 3% |
 | 東京都 (Tokyo) | 5,289,244,641 | 164,043,271 | 3% |
 
-(**Data Source:** e-Stat. FY2017 Settlement: the latest available on e-stat) https://www.e-stat.go.jp/dbview?sid=0003173301  
-(**Unit:** Thousands of Yen)
+(**Data Source:** e-Stat. FY2017 Settlement: the latest available on e-stat) [https://www.e-stat.go.jp/dbview?sid=0003173301](https://www.e-stat.go.jp/dbview?sid=0003173301)    
+(**Unit:** Thousands of Yen)  
 (Development aid = Natl. Treasury for Construction + Others; 国庫支出金:普通建設事業費支出金 + 国庫支出金:その他)
 
 ### Okinawa is the "Permanent Disaster" Zone (Financially)
@@ -642,7 +642,7 @@ You can't see these numbers in other prefectures, and likely anywhere in the wor
 Japan is a country with a strong nationwide newspaper; Yomiuri has a Guinness World Record for circulation. 
 In that country with a strong national paper, a prefecture completely wiping out the national papers is unheard of.  
 
-"新聞広告を介した情報流通の地域的差異性 福井一喜 2013" https://www.jstage.jst.go.jp/article/jags/6/2/6_141/_article/-char/ja
+"新聞広告を介した情報流通の地域的差異性 福井一喜 2013" [https://www.jstage.jst.go.jp/article/jags/6/2/6_141/_article/-char/ja](https://www.jstage.jst.go.jp/article/jags/6/2/6_141/_article/-char/ja)
 This paper has a graph that shows the Okinawa abnormality.  
 The data is a bit old, but I confirmed that the data from ABC (2024) has no big difference from it.  
 Other strong local newspaper prefectures hover around 90% share. Ishikawa, Tokushima, and Kouchi are the top 3 if we exclude Okinawa.  
@@ -830,8 +830,9 @@ In his book *Miyakojima Shominshi*(宮古島庶民史), Inamura records the mome
 This celebration marks the true end of the "Internal Colonialism" that began under the Ryukyu Kings.  
 
 **2. The Battle for Abolition: Reformers vs. The Old Guard**
-https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E5%8D%81%E4%BD%9C
-The path to this liberation reveals who the real oppressors were.  
+[https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E5%8D%81%E4%BD%9C
+](https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E5%8D%81%E4%BD%9C
+)The path to this liberation reveals who the real oppressors were.  
 *   **The Heroes:** The movement was led by **Nakamura Jusaku** (a Japanese Mainlander from Niigata) and **Gusukuma Seian** (an Okinawan from Naha). They joined forces with peasant leaders to petition the government.  
 *   **The Villains:** Who fought to keep the tax? It was the **Former Ryukyu Samurai (Shuri Gentry)**.  
     *   As detailed in Higa Chuncho’s *History of Okinawa*, the local bureaucrats—the remnants of the Ryukyu feudal class—actively petitioned the Imperial Diet *against* the peasants.  
@@ -898,8 +899,7 @@ We are here because of Okinawa.
 
 ### Population data: Satsuma-Ryukyu partners in crime.: Tax-Evading Bros
 "薩摩藩と近世琉球国の人口" by 尾口義男 page 8.  
-https://www.pref.kagoshima.jp/ab23/reimeikan/siroyu/documents/6757_20220514171645-1.pdf
-
+[https://www.pref.kagoshima.jp/ab23/reimeikan/siroyu/documents/6757_20220514171645-1.pdf](https://www.pref.kagoshima.jp/ab23/reimeikan/siroyu/documents/6757_20220514171645-1.pdf)
 You see the beautiful table. But the data is fake. (Not to blame the author, he did a great job.)
 Only the last two rows are trustworthy.  
 
@@ -997,8 +997,8 @@ The Ming effectively outsourced the logistics risk to Chusan.
 
 ### **Sotetsu-Jigoku is not a hell.** It was a Recession
 Let’s look at the population statistics of Okinawa Prefecture.  
-https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E7%9C%8C%E3%81%AE%E4%BA%BA%E5%8F%A3%E7%B5%B1%E8%A8%88
-
+[https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E7%9C%8C%E3%81%AE%E4%BA%BA%E5%8F%A3%E7%B5%B1%E8%A8%88
+](https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E7%9C%8C%E3%81%AE%E4%BA%BA%E5%8F%A3%E7%B5%B1%E8%A8%88)
 The term Sotetsu-Jigoku (Cycad Hell) usually refers to the economic crisis around 1920–1930, following the collapse of sugar prices after WWI.  
 This term, along with "Black Sugar Hell," should be renamed. Using the word "Hell" is an insult to those who endured actual historical hells.  
 
@@ -1119,7 +1119,7 @@ This proves two things:
 2. SEO Manipulation: The "Child" page is designed to be the only result everyone sees.  
 
 Here is the link. It was created in 2024(at least that they claim), the same as a "Child" version.  
-"沖縄の歴史と文化8" https://web.archive.org/web/20250808012416/https://www.pref.okinawa.jp/bunkakoryu/bunkageijutsu/1009556/1009653/1009658/1002497/1002504.html
+"沖縄の歴史と文化8" [https://archive.is/UwAT1](https://archive.is/UwAT1)
 
 Don't worry. That's the right page. You are seeing the right page. 
 It's just a picture of trees, you think. Yes, it's just a picture of trees, I think.  
@@ -1164,10 +1164,10 @@ Maybe.
 Let's dive deeper to find out.  
 
 * "沖縄の歴史と文化19" https://web.archive.org/web/20250808005311/https://www.pref.okinawa.jp/bunkakoryu/bunkageijutsu/1009556/1009653/1009658/1002497/1002514.html
-* "沖縄の歴史と文化30" https://archive.md/WFHqh (mirror: https://ghostarchive.org/archive/Ioboq)
-* **"沖縄の歴史と文化31"** https://archive.md/uxBAE (mirror: https://ghostarchive.org/archive/2Sjv5)
-* "沖縄の歴史と文化32" https://archive.is/a6mLp (mirror: https://ghostarchive.org/archive/bwF5N)
-* "沖縄の歴史と文化81" https://archive.md/5zDxS (mirror: https://ghostarchive.org/archive/acCr9)
+* "沖縄の歴史と文化30" [https://archive.md/WFHqh](https://archive.md/WFHqh) (mirror: [https://ghostarchive.org/archive/Ioboq](https://ghostarchive.org/archive/Ioboq))
+* **"沖縄の歴史と文化31"** [https://archive.md/uxBAE](https://archive.md/uxBAE) (mirror: [https://ghostarchive.org/archive/2Sjv5](https://ghostarchive.org/archive/2Sjv5))
+* "沖縄の歴史と文化32" [https://archive.is/a6mLp](https://archive.is/a6mLp) (mirror: [https://ghostarchive.org/archive/bwF5N](https://ghostarchive.org/archive/bwF5N))
+* "沖縄の歴史と文化81" [https://archive.md/5zDxS](https://archive.md/5zDxS) (mirror: [https://ghostarchive.org/archive/acCr9](https://ghostarchive.org/archive/acCr9))
 
 You notice that all pages are hard to read.  
 But "沖縄の歴史と文化31" is exceptionally harder to read.  
@@ -1201,7 +1201,7 @@ You can see what I mean if you examine the blurry "沖縄の歴史と文化31".
 ### edit: only the dangerous (for their propaganda) page snapshot is immediately deleted from web.archive.org by the owner
 
 "沖縄の歴史と文化8" 
-https://web.archive.org/web/20250808012416/https://www.pref.okinawa.jp/bunkakoryu/bunkageijutsu/1009556/1009653/1009658/1002497/1002504.html
+[https://web.archive.org/web/20250808012416/https://www.pref.okinawa.jp/bunkakoryu/bunkageijutsu/1009556/1009653/1009658/1002497/1002504.html](https://web.archive.org/web/20250808012416/https://www.pref.okinawa.jp/bunkakoryu/bunkageijutsu/1009556/1009653/1009658/1002497/1002504.html)
 The safe one is still working.  
 but the dangerous "沖縄の歴史と文化31" is deleted in a **single** day.  
 The Okinawa government is actively (daily) trying to erase the evidence.  
@@ -1251,7 +1251,7 @@ So, the next question is, "Why does the Okinawa government have to show this ima
 We saw that they clearly don't want to show this to us. But there is, why?
 
 You might notice the pictures are pages from a book.  
-https://web.archive.org/web/20251206152706/https://www.pref.okinawa.jp/bunkakoryu/bunkageijutsu/1009556/1009653/1009658/1002497/1024275/1002576.html
+[https://archive.md/5zDxS](https://archive.md/5zDxS) (mirror: [https://ghostarchive.org/archive/acCr9](https://ghostarchive.org/archive/acCr9))  
 It's created by "沖縄県教育委員会".  
 The committee has Okinawa in its name, but they can't publish without 文部科学省(MEXT)'s approval.  
 So, "沖縄の歴史と文化31" is **Tokyo-approved** history.  
@@ -1600,8 +1600,8 @@ When the bases(or the problems) are gone, and if they can't find another victimh
 Yes, as long as they choose to place themselves as "peer" of China or Japan, they have to tell a story of victimhood to keep themselves sane.  
 
 ### Okinawa Pref's official story: CAE offset festival.  
-https://ghostarchive.org/archive/7orrA
-https://www.pref.okinawa.jp/kyoiku/kodomo/1002705/1002706.html
+[https://www.pref.okinawa.jp/kyoiku/kodomo/1002705/1002706.html](https://www.pref.okinawa.jp/kyoiku/kodomo/1002705/1002706.html) [(mirror https://ghostarchive.org/archive/7orrA)](https://ghostarchive.org/archive/7orrA)
+
 We talked about this page in "Lie 6."
 
 | CAE | How | Line | 
@@ -1830,7 +1830,7 @@ Today, 1.4 million Okinawans live on the island. Okinawans are thriving on the i
 Remember? They had an 8 times larger population than Ryukyu.  
 
 Things get darker.  
-https://ohadatabook.com/Quantum-01.pdf
+[https://ohadatabook.com/Quantum-01.pdf](https://ohadatabook.com/Quantum-01.pdf)
 In 1984, only 8,244 were counted as "100% Hawaiian".  
 Given the high rates of intermarriage and the aging of that specific generation, demographers and organizations generally estimate that this number has dropped below 8,000 in the decades since.  
 The estimated unmixed blood native Hawaiian population today is "Fewer than 8,000". 
@@ -1897,9 +1897,9 @@ I'm excited to hear the best pitch from the Tourism Prefecture of Okinawa.
 Who has been practicing tourism as its main business for 50 years, since 1975, Ocean Expo.  
 They should have the proof that tourism works. Right?
 
-* "第６次沖縄県観光振興基本計画" https://web.archive.org/web/20250317205547/https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/6keikaku2.pdf
-mirror: https://ghostarchive.org/archive/2Sjv5
-* "第5次沖縄県観光振興基本計画改定版" https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/kankoshinkokihonkeikakukaitei.pdf
+* "第６次沖縄県観光振興基本計画" [https://web.archive.org/web/20250317205547/https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/6keikaku2.pdf](https://web.archive.org/web/20250317205547/https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/6keikaku2.pdf)  
+mirror: [https://ghostarchive.org/archive/2Sjv5](https://ghostarchive.org/archive/2Sjv5)  
+* "第5次沖縄県観光振興基本計画改定版" [https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/kankoshinkokihonkeikakukaitei.pdf](https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/kankoshinkokihonkeikakukaitei.pdf)  
 You can search 競合地の動向 (Competitor Trends) for the Okinawa government's "assessment".  
 
 Quick summary for those who don't want to read the PDF:
@@ -1958,7 +1958,7 @@ And "その他(others)" 18.8%?, with no explanation?
 Because they don't explain it, I'll explain it. It's Social Security from Tokyo.  
 They presented the data in a way that obscures the truth. By dumping huge reliance on Tokyo into vague categories like 'Others' or separating Social Security from 'Aid,' they dilute the visual impact of the dependency.  
 
-https://www.pref.okinawa.jp/toukeika/accounts/accounts_index.html
+[https://www.pref.okinawa.jp/toukeika/accounts/accounts_index.html](https://www.pref.okinawa.jp/toukeika/accounts/accounts_index.html)
 You can find it in "平成 25 年度県民経済計- 1.社会保障負担の明細表（県民ベースの家計及び雇主の支払)", which is Excel.  
 The graph(from the PDF page 14)refers to 2013 data, but I only got access to 2022 data. 
 * "社会保障給付: 現物社会移転以外の社会給付": 552,203 百万円 (552B)
@@ -2180,8 +2180,7 @@ Addressing media dominance is essential, and we can take numerous measures that 
 I leave that to you and professional regulators. 
 
 ### Future 7. The Institution: Human Resource Exchange.  
-"第６次沖縄県観光振興基本計画"
-https://web.archive.org/web/20250317205547/https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/6keikaku2.pdf  
+"第６次沖縄県観光振興基本計画" [https://ghostarchive.org/archive/2Sjv5](https://ghostarchive.org/archive/2Sjv5)   
 I talked about how bad this "Basic Plan" is. In short, it's not a plan. It's at best a diary.  
 After reading the PDF. I find the deeper problem. 
 
@@ -2331,7 +2330,7 @@ A kitchen is the best place in the world for writing.
 Highly recommended.  
 
 This report is hosted on GitHub.  
-https://github.com/lisiki-jp/okinawa_gametheory  
+[https://github.com/lisiki-jp/okinawa_gametheory](https://github.com/lisiki-jp/okinawa_gametheory)  
 So can see the edit history. I likely will fix small errors after the publication.
 Also, pull requests are welcome. Although I can't guarantee my response. Because I'm not active online. 
 Even if your request didn't get merged, it shows your response to my report; fellow readers will see it and get a more diverse analysis.
@@ -2403,7 +2402,7 @@ Without the two exceptional minds, I couldn't figure out Okinawa.
 ### Bruce Bueno de Mesquita(BDM), professor at New York University: The man who solved politics by math.  
 For those who want to know about the scientific analysis of politics, including corporate politics, I recommend "The Logic of Political Survival" by Bruce Bueno de Mesquita.  
 It's free and available online.  
-https://www.researchgate.net/publication/227458612_The_Logic_of_Political_Survival
+* [https://www.researchgate.net/publication/227458612_The_Logic_of_Political_Survival](https://www.researchgate.net/publication/227458612_The_Logic_of_Political_Survival)
 This research book cited over 6,903 in Google Scholar. The usual citation in this field is under 50. 
 This is the foundational research in political science. Must read if you are interested in the scientific analysis of politics.  
 
@@ -2414,7 +2413,7 @@ The full text of the original book might be on the Online Burma/Myanmar Library,
 I'm not sure if it's official or not, maybe unauthorized OCR. But good enough for double-checking the translation for free.  
 
 Another free source is CGP Grey's YouTube video "The Rules for Rulers". The video is based on the book.  
-https://www.youtube.com/watch?v=rStL7niR7gs
+* [https://www.youtube.com/watch?v=rStL7niR7gs](https://www.youtube.com/watch?v=rStL7niR7gs)
 23M views. I checked, and it's pretty good.  
 It has a Japanese Dub. Click the bottom right cog icon. It's low quality with inconsistent talk speed. But it's good enough if you are motivated.  
 You may need to watch it multiple times to understand, because of poor dub quality.  
@@ -2466,6 +2465,6 @@ That's why I wrote this report.
 
 **Recommended Video:**
 "Japanese Defence Strategy & Rearmament" by Perun  
-https://www.youtube.com/watch?v=2BHnijL9xYc  
+    *   [https://www.youtube.com/watch?v=2BHnijL9xYc](https://www.youtube.com/watch?v=2BHnijL9xYc)  
 Note: The video is in English, but don't worry. Because he uses clear PowerPoint slides for everything, the **YouTube Auto-Translate** function works surprisingly well.  
 Click the bottom right cog icon to change the audio or sub.  
