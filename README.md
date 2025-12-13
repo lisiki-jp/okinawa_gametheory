@@ -610,7 +610,7 @@ They have total authority about **"What Okinawa is"**
 Even the governor doesn't dares to challenge them. 
 
 The governor who tried to solve the problem was branded as a "traitor" by them. And he lost his political life.  
-"Okinawa Vision" was the governor's initiative to gain economic independence for Okinawa. Theoretically, this could solve the Okinawa problem. 
+"Okinawa Vision" was the governor's initiative to gain economic independence for Okinawa. Theoretically, from the governor's perspective, this could solve the Okinawa problem. 
 His name is Hirokazu Nakaima. Who was(is) portrayed as "Traitor" by local media. Local media demanded his resignation. And he is known as "Traitor" among people of Okinawa today, despite his sincere attempts to solve the struggle.  
 
 After him, only hardliner anti-base politicians get the position, who perform symbolic but useless acts. 
