@@ -412,7 +412,7 @@ Let's start with data.
 | 神奈川県 (Kanagawa) | 1,295,865,290 | 40,968,709 | 3% |
 | 東京都 (Tokyo) | 5,289,244,641 | 164,043,271 | 3% |
 
-(**Data Source:** e-Stat. FY2017 Settlement: the latest available on e-stat) https://www.e-stat.go.jp/dbview?sid=0003173301
+(**Data Source:** e-Stat. FY2017 Settlement: the latest available on e-stat) https://www.e-stat.go.jp/dbview?sid=0003173301  
 (**Unit:** Thousands of Yen)
 (Development aid = Natl. Treasury for Construction + Others; 国庫支出金:普通建設事業費支出金 + 国庫支出金:その他)
 
