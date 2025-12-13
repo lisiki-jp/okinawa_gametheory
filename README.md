@@ -225,8 +225,8 @@ There is a strong positive correlation between egalitarian democracy and Life Ex
 **The Evidence:**
 1.  **V-Dem: Interactive Maps**
     *   [https://v-dem.net/data_analysis/MapGraph/](https://v-dem.net/data_analysis/MapGraph/)
-    *   *Instruction:* Select "Indicators" and search for **"Egalitarian Democracy Index"** (v2x_egal). This measures the equal distribution of resources like healthcare and education.  
-    *   Egalitarian Democracy Index: "To what extent is the ideal of egalitarian democracy achieved?"
+    *   *Instruction:* Select "Indicators" and search for **"Egalitarian Democracy Index"** (v2x_egal).  
+    *   Egalitarian Democracy Index: "To what extent is the ideal of egalitarian democracy achieved?"  
 2.  **Life Expectancy by Country 2025**
     *   [https://worldpopulationreview.com/country-rankings/life-expectancy-by-country](https://worldpopulationreview.com/country-rankings/life-expectancy-by-country)
 
