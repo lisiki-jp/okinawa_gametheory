@@ -201,14 +201,14 @@ People of Okinawa have no great memory of democracy. (Actually, they had been be
 They vote for anti-bases, and politicians achieve nothing.  
 That's all they know about democracy.  
 
-So, we can give them a memory of a good democracy that actually cares about them and improves their life.  
-
-That is the optimal way to ensure that Okinawa remains in the team democracy.  
+Because of that, We must give them a memory of a good democracy that actually cares about them and improves their life.  
+Okinawa stays in the team democracy if it likes democracy.
 
 And this is why you are reading this. **We are the only ones able to deliver a good democracy for Okinawa**. 
 Democracy is about the majority. Okinawa has only 1.2% of the population of Japan. They never get the majority if their interests conflict with other prefectures.  
 And they have been **directed to conflict** with other prefectures.  
 The only people who can bring a good democracy to Okinawa are mainland Japanese, **you**.  
+
 ### Why we stand against Tyrannical China
 
 Besides, if we use democracy as a tool to ignore the minority. How can we stand proud against China?
