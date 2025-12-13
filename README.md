@@ -1982,7 +1982,7 @@ When you fix the math:
 
 This graph in the PDF is not just a mistake; it is fraudulent accounting designed to hide the fact that the entire tourism industry creates less net wealth for the island than the Military land rents do.  
 
-###  They know that tourism isn't working.: bot insist to go further
+###  They know that tourism isn't working.: but insist to go further
 
 And we hand them **300 Billion Yen** to manage. Every year.  
 They say with a straight face, "Tourism is working!"
