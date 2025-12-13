@@ -1009,7 +1009,9 @@ Ming was the boss who decide what Ryukyu do, and Ryukyu "King" was just a local 
 
 ### Ryukyu is not even Kingdom in practical sense
 
-| Rank | Kingdom / Empire | Largest Extent Area | Peak Population | **Area relative to Ming** | **Pop. relative to Ming** |
+Famouse Kingdoms c. 1600 
+
+| No. | Kingdom / Empire | Largest Extent Area | Peak Population | **Area relative to Ming** | **Pop. relative to Ming** |
 | :-- | :--- | :--- | :--- | :--- | :--- |
 | **1** | **Ming Dynasty** | **6,500,000 km²** | **160,000,000** | **100% (Baseline)** | **100% (Baseline)** |
 | 2 | **Spanish Empire** | 13,700,000 km² | ~30,000,000 | **211%** (2.1x larger) | **19%** (1/5th size) |
