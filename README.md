@@ -96,7 +96,7 @@ The result? Okinawa is the poorest prefecture.
 Other prefectures don't get this special budget, and they are doing much better than Okinawa.  
 
 Let's say you give a massive allowance to your child every day, and now the child is 50 years old and has no skills to earn money.  
-Only he knows how to spend money.  
+The only thing he knows how to do is spend money.
 Whose fault?
 It's our fault. We have to stop this.  
 
