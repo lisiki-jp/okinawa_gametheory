@@ -1025,11 +1025,11 @@ Ming was the boss who decide what Ryukyu do, and Ryukyu "King" was just a local 
 
 It's the same with calling a 10-year-old boy who play baseball "baseball player".  
 Yes technicaly.  
-but not what you imagine when you hear "baseball player".  
-You imagine the famouse one like Ohtani.
+But not what you imagine when you hear "baseball player".  
+You imagine the famouse one like Shohei Ohtani.
 
-The "Kingdom" title was given by Ming to run Dejima business.  
-Calling Ryukyu "Kingdom" is deceptive.
+The "Kingdom" title was given by Ming to run Dejima business.
+Calling Ryukyu "Kingdom" is a deceptive grouping to distort the perceived reality of the readers.
 
 ### **Sotetsu-Jigoku is not a hell.** It was a Recession
 Let’s look at the population statistics of Okinawa Prefecture.  
