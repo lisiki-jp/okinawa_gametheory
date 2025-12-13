@@ -1229,19 +1229,19 @@ Such a disgrace, isn't it? Should they be proud to present their king's 4K image
 The reason is obvious if you are familiar with Ryukyu's history. 
 "沖縄の歴史と文化31" has too many inconvenient truths in it.  
 
-**この繁栄の背景には冊封・朝貢体制を築いていた明国の海禁政策があります。**
+**この繁栄の背景には冊封・朝貢体制を築いていた明国の海禁政策があります。**  
 -> * This dismantles the "Great Trade kingdom" by the Ryukyu initiative. That was just the result of Ming's policy. 
 
-**1. 地方按司（=有力者）からの武器の没収と首里城下への移住**
+**1. 地方按司（=有力者）からの武器の没収と首里城下への移住**  
 -> * This dismantles the "Peaceful Ryukyu people that voluntarily discarded weapons".* And "Satsuma taken away weapons", which is popular with combined with Karate. 
 
-**2. 身分制度の確立**
+**2. 身分制度の確立**  
 -> * This dismantles the "Ryukyu Utopia," The Third Pillar of Ryukyu identity*. Most people are treated as serfs(slaves in modern standard, servants), the property of the King. And the majority was a "servant of a servant/Yaa-nin" who had almost zero rights. 
 
-**3. 聞得大君/ノロ**
+**3. 聞得大君/ノロ**  
 -> * This is "Police State" *,  The king converted Noro (local priest) into his surveillance camera.  
 
-**4. 八重山や与那国における反乱を鎮め、離島の支配の強化（5代目尚元王の代には奄美諸島も配下に置く）**
+**4. 八重山や与那国における反乱を鎮め、離島の支配の強化（5代目尚元王の代には奄美諸島も配下に置く）**  
 -> *This dismantles the "Peaceful Ryukyu Kingdom"*, it was a colonial empire. And it shows Amami was conquered by 5代目尚元王, contradicting the 1429 Kingdom "united" narrative.  
 
 Page 31 lists the facts that the "Okinawa Cartel" is desperate to hide.  
