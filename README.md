@@ -2395,7 +2395,7 @@ But please remember my name, because this is not my last report.
 I don't want to swim in SNS algorithm hell again.  
 
 ---
-# Recommendation: those who want to think by themselves
+# Recommendation: for those who want to think by themselves
 
 I didn't write this report in a vacuum.  
 Without the two exceptional minds, I couldn't figure out Okinawa.  
