@@ -640,7 +640,7 @@ I call this the "Okinawa Cartel".
 ### Okinawa is Little Russia; Politics resembles Putin's Russia
 
 You may think I am joking. You may feel angry if you are Okinawan. 
-It is one of the worst insults I could say today.  
+It is one of the worst insults one could say today.  
 You are right to be angry. But please, do not direct that anger at the messenger. 
 Direct it at the system that made this comparison accurate.  
 You are the victim of this entire structure.  
