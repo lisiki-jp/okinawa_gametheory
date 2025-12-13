@@ -2321,7 +2321,7 @@ And to that, you should spread this idea as far as you can.
 If you know an influential figure—a YouTuber, a politician, a professor, a journalist, an author—send this to them.  
 
 ---
-### Author's Note 
+# Author's Note 
 
 I wrote this entire report in a kitchen, standing, because I'm too broke to buy a desk. 
 And I find this is a pretty great place for writing. I can stack pots to adjust the height of the laptop. 
