@@ -2330,6 +2330,12 @@ I can feed my energy with food. I can write and analyze while cooking, eating.
 A kitchen is the best place in the world for writing. 
 Highly recommended.  
 
+This report is hosted on GitHub.  
+https://github.com/lisiki-jp/okinawa_gametheory  
+So can see the edit history. I likely will fix small errors after the publication.
+Also, pull requests are welcome. Although I can't guarantee my response. Because I'm not active online. 
+Even if your request didn't get merged, it shows your response to my report; fellow readers will see it and get a more diverse analysis.
+
 I invented the CAE model (Offset Nationalism model, C = A - E) while analyzing Okinawa.  
 And I think the idea is worthy of further polish. Possibly an academic paper, so anyone can use it.  
 The model is simple to understand by anyone, it has strong predictive/explanatory power, and can be applied to almost any entity that involves politics. (That means almost anything. Individuals to nations.)
