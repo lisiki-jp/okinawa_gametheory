@@ -493,7 +493,7 @@ If Okinawa becomes rich, ruling politicians in Naha will lose jobs.
 The local media is the true engine for their power, they too lose it's main reason to dominate the narrative.  
 
 ### The malfunctioning tourism industry is beneficial for politicians
-(how malfunctioning is explained in: "Lie 9")
+(how malfunctioning is explained in: "Lie 9")  
 This also explains the 50-year obsession with Tourism.  
 Why Tourism?
 And why don't they change the strategy despite a 50-year continuous failure?
