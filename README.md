@@ -328,7 +328,7 @@ The economy has never developed. Politicians have no good thing to provide. Or t
 The only thing they have to offer is a story that keeps people angry with the outside world. That lets politicians win votes and stay in power. 
 Just like Russia does.  
 
-####a Bonus: WW2 winners die early. Losers live longer. Because they have to distribute real "good".  
+#### Bonus: WW2 winners die early. Losers live longer. Because they have to distribute real "good".  
 The US, Russia, and China have strong nationalism as "The Winner of WW2". This let them satisfy the people with just a "memory". Rulers can neglect to satisfy it's people.  
 Germany, Japan, and Italy had to distribute the real public goods to satisfy it's people, because they have no good memory of Nationalism.  
 You can see that the WW2 winners have low scores on the "Egalitarian component index", and all losers have a high score on it.  
@@ -1163,9 +1163,9 @@ Let's dive deeper to find out.
 * **"沖縄の歴史と文化31"** https://archive.md/uxBAE (mirror: https://ghostarchive.org/archive/2Sjv5)
 * "沖縄の歴史と文化32" https://archive.is/a6mLp (mirror: https://ghostarchive.org/archive/bwF5N)
 * "沖縄の歴史と文化81" https://archive.md/5zDxS (mirror: https://ghostarchive.org/archive/acCr9)
+
 You notice that all pages are hard to read.  
 But "沖縄の歴史と文化31" is exceptionally harder to read.  
-I saved 
 
 ### 1. "沖縄の歴史と文化19", "沖縄の歴史と文化30", "沖縄の歴史と文化32", and other "Safe" pages 
 *   **Estimated Resolution:** ~200 DPI (dots per inch).  
@@ -1209,7 +1209,7 @@ The original page domain owner can request the deletion of the page. The Okinawa
 I re-save the pages from the "Archive.today" and ghostarchive.org, which have a reputation for being resilient for taken down.  
 I also recorded the pages by "ArchiveWeb.page" and saved them as .wacz on my machine as legal proof. I will back this up in the cloud. And might publish, but it also risks of taken down, and the file might contain the data that identifies me(because it records every communication from my browser to the page), so I'm a bit hesitant. 
 
-**Solution: I need your help**
+**Solution: I need your help**  
 If you spot the image quality difference in page 沖縄の歴史と文化30, 沖縄の歴史と文化31, and 沖縄の歴史と文化32 (that means the pref didn't edit the pages when I wrote this, you can also use mirros I provided, if it's not deleted yet), take a screenshot of the difference. And spread it online.  
 This works because if a single man takes a screenshot and uploads it, he might have used Photoshop to fabricate the evidense. But if numerous people provide similar results, it's hard to argue that it is photoshopped. 
 
@@ -1291,7 +1291,7 @@ As Sun Tzu said, "Know the Enemy and Yourself, you will not know defeat". (Not a
 * Okinawa's history is important/interesting than you think.  
 
 ---
-Lie 7: The US wouldn't agree with it
+### Lie 7: The US wouldn't agree with it
 
 **The Reality:** If the US loses Japan, it is "Game Over" for American hegemony.  
 Their most important grand strategy is to control the Pacific to contain China. This is impossible without Japan.  
@@ -1892,9 +1892,9 @@ I'm excited to hear the best pitch from the Tourism Prefecture of Okinawa.
 Who has been practicing tourism as its main business for 50 years, since 1975, Ocean Expo.  
 They should have the proof that tourism works. Right?
 
-"第６次沖縄県観光振興基本計画" https://web.archive.org/web/20250317205547/https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/6keikaku2.pdf
+* "第６次沖縄県観光振興基本計画" https://web.archive.org/web/20250317205547/https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/6keikaku2.pdf
 mirror: https://ghostarchive.org/archive/2Sjv5
-"第5次沖縄県観光振興基本計画改定版" https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/kankoshinkokihonkeikakukaitei.pdf
+* "第5次沖縄県観光振興基本計画改定版" https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/kankoshinkokihonkeikakukaitei.pdf
 You can search 競合地の動向 (Competitor Trends) for the Okinawa government's "assessment".  
 
 Quick summary for those who don't want to read the PDF:
@@ -2176,7 +2176,7 @@ I leave that to you and professional regulators.
 
 ### Future 7. The Institution Human Resource Exchange.  
 "第６次沖縄県観光振興基本計画"
-https://web.archive.org/web/20250317205547/https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/6keikaku2.pdf
+https://web.archive.org/web/20250317205547/https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/6keikaku2.pdf  
 I talked about how bad this "Basic Plan" is. In short, it's not a plan. It's at best a diary.  
 After reading the PDF. I find the deeper problem. 
 
@@ -2221,7 +2221,7 @@ Of course, don't cut the regular aid that keeps the Okinawa government running.
 *   Okinawans get high-paying creative jobs.  
 *   The economy creates a product that China cannot switch off.  
 *   Okinawa gets economic independence, and the people of Okinawa become wealthier.  
-*   Okinawans will love democracy because democracy has actually done good to them.  
+*   Okinawans will love democracy because democracy has actually provided a visible good change to them.  
 
 **You will enjoy a beautiful beach after the creative work.**
 This is the unique Okinawa that attracts talent from all over the world.  
@@ -2454,7 +2454,7 @@ I was inspired by him. The single anonymous person is making the world better by
 That's why I wrote this report.  
 
 **Recommended Video:**
-"Japanese Defence Strategy & Rearmament" by Perun
-https://www.youtube.com/watch?v=2BHnijL9xYc
+"Japanese Defence Strategy & Rearmament" by Perun  
+https://www.youtube.com/watch?v=2BHnijL9xYc  
 Note: The video is in English, but don't worry. Because he uses clear PowerPoint slides for everything, the **YouTube Auto-Translate** function works surprisingly well.  
 Click the bottom right cog icon to change the audio or sub.  
