@@ -808,7 +808,7 @@ But its importance is not.
 The most influential thing Japan did in its history is the "Modernization"(Westernization).  
 And without Okinawa, no modernization.  
 
-Modernization was an unthinkable achievement. And still feels like unachivable, there were so many point of failure, and we successfully navigated the slim path.
+Modernization was an unthinkable achievement. And still feels unachievable, there were so many points of failure, and we successfully navigated the slim path.
 It's safe to say we are on an "unlikely world line".  
 
 One of the things that modernization requires is "Swift Revolution".  
