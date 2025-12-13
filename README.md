@@ -1,6 +1,6 @@
 # 失敗に成功しました: 14兆8,000億円 の血税はなぜ消えた？ 支援が沖縄を貧しくする仕組みをゲーム理論で明かす。
-# **Failing Successfully: Why Okinawa is the poorest prefecture after 14.8 Trillion Yen aid. From a perspective of incentive structure.**
-## **The Reality that Japanese Are Being Exploited 300 Billion Yen a year Without Knowing It. And why China is the accidental winner**
+## **Failing Successfully: Why Okinawa is the poorest prefecture after 14.8 Trillion Yen aid. From a perspective of incentive structure.**
+# **The Reality that Japanese Are Being Exploited 300 Billion Yen a year Without Knowing It. And why China is the accidental winner**
 by 伊波りしき (IHA Lisiki)
 
 For decades, you have felt a twinge of guilt whenever you saw the words "Okinawa Bases."
@@ -11,7 +11,7 @@ For decades, you have felt a twinge of guilt whenever you saw the words "Okinawa
 * You were told that this is a "Local Problem," and you shouldn't interfere.  
 * You were told that the money you sent to Okinawa is helping to improve the Okinawa economy.  
 
-As someone with the blood of Miyako and Nago, born in Tokyo, I am here to tell you the uncomfortable truth: **You have been scammed**.   
+As someone with the blood of Miyako(mother) and Nago(father), born in Tokyo, I am here to tell you the uncomfortable truth: **You have been scammed**.   
 These are all lies.  
 
 You have been manipulated into paying your money.   
@@ -82,6 +82,12 @@ Just check where you are interested in.
 When you feel that what I'm saying here is interesting or right, spread this report.  
 
 ---
+# Table of Contents
+
+* TOC
+{:toc}
+
+---
 
 # Lie 1: "The money you sent to Okinawa is for the Okinawa economy growth."
 Every year, Tokyo hands Okinawa about 300 Billion Yen. They call it the "Okinawa Promotion Budget."
@@ -91,11 +97,11 @@ The result? Okinawa is the poorest prefecture.
 Other prefectures don't get this special budget, and they are doing much better than Okinawa.  
 
 Let's say you give a massive allowance to your child every day, and now the child is 50 years old and has no skills to earn money.  
-Only he knows how to spend money.  
+The only thing he knows how to do is spend money.
 Whose fault?
 It's our fault. We have to stop this.  
 
-### Aid Curse
+### Aid Curse: good things sometime hurt local development
 This phenomenon is well known among politicians and academics. It's called "Aid Curse". (a variant of the Resource Curse)
 The observation became famous in "Dead Aid: Why Aid Is Not Working and How There Is a Better Way for Africa" by Dambisa Moyo, published in 2009.  
 This book fundamentally changed the public debate on development by arguing that systemic government-to-government aid has been a "curse" rather than a blessing for African countries.  
@@ -321,7 +327,7 @@ You can search "Egalitarian component index" in V-DEM. This index acts as a scor
 *   **The Contrast:** While the US lags, countries like **Japan, Germany, and the Nordic states** score very high.  
 *   **The Structure:** These countries have achieved an egalitarian society (and high life expectancy) because their political systems force leaders to serve a larger coalition.  
 
-#### Bonus: Nationalism is a free Public Good.  
+#### Bonus: Nationalism is a free public goods.  
 Why does Okinawa have strong "Nationalism"?
 Because it lets politicians secure power without distributing any goods. 
 The economy has never developed. Politicians have no good thing to provide. Or they don't have to provide because it has strong nationalism.  
@@ -335,6 +341,8 @@ You can see that the WW2 winners have low scores on the "Egalitarian component i
 The UK and France are between the two groups. Because they are "Officially the winner, but practically the loser" of WW2. Their colonial empire collapsed because of the war.  
 Yes, Japanese can live longer than US citizens because we lost WW2.  
 
+Sometimes, people say “Japan isn’t allowed to have Nationalism”.
+The data shows that having no Nationalism is good for your health. We are lucky to not have one.
 
 ### Conclusion: Stop the aid.  
 
@@ -412,8 +420,8 @@ Let's start with data.
 | 神奈川県 (Kanagawa) | 1,295,865,290 | 40,968,709 | 3% |
 | 東京都 (Tokyo) | 5,289,244,641 | 164,043,271 | 3% |
 
-(**Data Source:** e-Stat. FY2017 Settlement: the latest available on e-stat) https://www.e-stat.go.jp/dbview?sid=0003173301
-(**Unit:** Thousands of Yen)
+(**Data Source:** e-Stat. FY2017 Settlement: the latest available on e-stat) [https://www.e-stat.go.jp/dbview?sid=0003173301](https://www.e-stat.go.jp/dbview?sid=0003173301)    
+(**Unit:** Thousands of Yen)  
 (Development aid = Natl. Treasury for Construction + Others; 国庫支出金:普通建設事業費支出金 + 国庫支出金:その他)
 
 ### Okinawa is the "Permanent Disaster" Zone (Financially)
@@ -465,7 +473,7 @@ The "Anti-Base" movement dies because people are too busy being rich.
 
 **In the current system, Economic Success is Political Suicide.**
 
-### The Art of Wasting Money: Let's waste money that can develop local industry. It does only good for politicians.  
+### The Art of Wasting Money: Let's waste money that can develop local industry.
 
 Why do they build useless concrete boxes? Why do they pave roads that don't need paving?
 Why does the poorest prefecture have the longest fee-free bridge that has a massive maintenance cost? 
@@ -493,7 +501,7 @@ If Okinawa becomes rich, ruling politicians in Naha will lose jobs.
 The local media is the true engine for their power, they too lose it's main reason to dominate the narrative.  
 
 ### The malfunctioning tourism industry is beneficial for politicians
-(how malfunctioning is explained in: "Lie 9")
+(how malfunctioning is explained in: "Lie 9")  
 This also explains the 50-year obsession with Tourism.  
 Why Tourism?
 And why don't they change the strategy despite a 50-year continuous failure?
@@ -559,9 +567,9 @@ Okinawa alone can't implement the system that is required to be a viable economy
 ---
 # Lie 5: "Okinawa local newspaper is on Okinawans' side."
 
-"Okinawa media is on Okinawans' side."
-This is a lie. 
-You might guess, "Are they secretly on Tokyo's side?"
+"Okinawa media is on Okinawans' side."  
+This is a lie.  
+You might guess, "Are they secretly on Tokyo's side?"  
 If so, it would be fun. But no.  
 
 The truth is, **They are on their own side**.  
@@ -637,7 +645,7 @@ You can't see these numbers in other prefectures, and likely anywhere in the wor
 Japan is a country with a strong nationwide newspaper; Yomiuri has a Guinness World Record for circulation. 
 In that country with a strong national paper, a prefecture completely wiping out the national papers is unheard of.  
 
-"新聞広告を介した情報流通の地域的差異性 福井一喜 2013" https://www.jstage.jst.go.jp/article/jags/6/2/6_141/_article/-char/ja
+"新聞広告を介した情報流通の地域的差異性 福井一喜 2013" [https://www.jstage.jst.go.jp/article/jags/6/2/6_141/_article/-char/ja](https://www.jstage.jst.go.jp/article/jags/6/2/6_141/_article/-char/ja)  
 This paper has a graph that shows the Okinawa abnormality.  
 The data is a bit old, but I confirmed that the data from ABC (2024) has no big difference from it.  
 Other strong local newspaper prefectures hover around 90% share. Ishikawa, Tokushima, and Kouchi are the top 3 if we exclude Okinawa.  
@@ -669,7 +677,7 @@ Don't be distracted by another lie that claims "logistics to deliver newspapers 
 The combined circulation of these four papers fell by **2,469 copies**, a staggering decrease of **nearly 64%**.  
 
 It was a gold rush. It was a gift from god. Or from the American soldiers.  
-They got the righteous casus belli to eradicate their competitor.  
+They got the righteous casus belli to eradicate their competitors.  
 
 ### Under the 99.4% narrative monopoly
 
@@ -677,7 +685,7 @@ Local newspapers become the only truth in Okinawa.
 To stand against them, you hate Okinawa.  
 
 They have total authority about **"What Okinawa is"**
-Even the governor dares to challenge them. 
+Even the governor doesn't dares to challenge them. 
 
 The governor who tried to solve the problem was branded as a "traitor" by them. And he lost his political life.  
 "Okinawa Vision" was the governor's initiative to gain economic independence for Okinawa. Theoretically, this could solve the Okinawa problem. 
@@ -750,12 +758,19 @@ People of Okinawa pay tax for the "infinite conflict machine" that keeps them su
 
 These "Beautiful Ryukyu Kingdom" stories are all lies. It's a fantasy.  
 
+* It was not peaceful
+* It was not a great trader
+* It was not utopia.
+* It was not sovereign from the start.
+* It was not even a Kingdom in a practical sense.
+
 ### Start from the data: population growth.  
-Before the story, let's see the population growth data I calculated from trustworthy data. 
+Before the story, let's see the population growth data I calculated from trustworthy data.  
+
 | Period / Year | Regime | Pop Growth | Annual Growth | Data Type |
 | :--- | :--- | :--- | :--- |:--- |
-| **1429 - 1609** | **Ryukyu Kingdom under Ming** | **70K ➔ 86K ** | 0.11% | Only main island |
-| **1609 – 1880** | **Ryukyu Kingdom under Satsuma** | **100K ➔ 353K ** | 0.47% | Exclude Amami |
+| **1429 - 1609** | **Ryukyu Kingdom under Ming** | 70K ➔ 86K  | 0.11% | Only main island |
+| **1609 – 1880** | **Ryukyu Kingdom under Satsuma** | 100K ➔ 353K | 0.47% | Exclude Amami |
 | **1880 – 1935** | **Okinawa in Japan(Constitutional Monarchy)** | **353K ➔ 590k** | 0.94% | Exclude Amami |
 | **1880 – 2025** | **Okinawa in Japan(All)** | **353K ➔ 1,467k** | 0.99% | Exclude Amami |
 
@@ -825,7 +840,8 @@ In his book *Miyakojima Shominshi*(宮古島庶民史), Inamura records the mome
 This celebration marks the true end of the "Internal Colonialism" that began under the Ryukyu Kings.  
 
 **2. The Battle for Abolition: Reformers vs. The Old Guard**
-https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E5%8D%81%E4%BD%9C
+[https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E5%8D%81%E4%BD%9C
+](https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E5%8D%81%E4%BD%9C)  
 The path to this liberation reveals who the real oppressors were.  
 *   **The Heroes:** The movement was led by **Nakamura Jusaku** (a Japanese Mainlander from Niigata) and **Gusukuma Seian** (an Okinawan from Naha). They joined forces with peasant leaders to petition the government.  
 *   **The Villains:** Who fought to keep the tax? It was the **Former Ryukyu Samurai (Shuri Gentry)**.  
@@ -893,8 +909,7 @@ We are here because of Okinawa.
 
 ### Population data: Satsuma-Ryukyu partners in crime.: Tax-Evading Bros
 "薩摩藩と近世琉球国の人口" by 尾口義男 page 8.  
-https://www.pref.kagoshima.jp/ab23/reimeikan/siroyu/documents/6757_20220514171645-1.pdf
-
+[https://www.pref.kagoshima.jp/ab23/reimeikan/siroyu/documents/6757_20220514171645-1.pdf](https://www.pref.kagoshima.jp/ab23/reimeikan/siroyu/documents/6757_20220514171645-1.pdf)  
 You see the beautiful table. But the data is fake. (Not to blame the author, he did a great job.)
 Only the last two rows are trustworthy.  
 
@@ -989,11 +1004,42 @@ And if a Ryukyu ship carrying sulfur gets attacked by pirates on the way to Chin
 That is Ryukyu's loss, not the Emperor's.  
 The Ming effectively outsourced the logistics risk to Chusan.  
 
+### Ryukyu is never had been soverign from the start in practical sense. 
+
+It was all Ming's doing.  
+That was business of Ming. Whatever legal difinition is.  
+Ming was the boss who decide what Ryukyu do, and Ryukyu "King" was just a local manager who got business licence.  
+
+### Ryukyu is not even Kingdom in practical sense
+
+Famouse Kingdoms c. 1600 
+
+| No. | Kingdom / Empire | Largest Extent Area | Peak Population | **Area relative to Ming** | **Pop. relative to Ming** |
+| :-- | :--- | :--- | :--- | :--- | :--- |
+| **1** | **Ming Dynasty** | **6,500,000 km²** | **160,000,000** | **100% (Baseline)** | **100% (Baseline)** |
+| 2 | **Spanish Empire** | 13,700,000 km² | ~30,000,000 | **211%** (2.1x larger) | **19%** (1/5th size) |
+| 3 | **Mughal Empire** | 4,000,000 km² | 150,000,000 | **62%** | **94%** |
+| 4 | **Russian Tsardom** | 5,500,000 km² | 14,000,000 | **85%** | **9%** |
+| 5 | **Ottoman Empire** | 5,200,000 km² | 35,000,000 | **80%** | **22%** |
+| 6 | **Safavid Empire** | 2,850,000 km² | 10,000,000 | **44%** | **6%** |
+| 7 | **Holy Roman Empire**| 1,000,000 km² | 25,000,000 | **15%** | **16%** |
+| 8 | **Polish-Lithuanian**| 1,000,000 km² | 11,000,000 | **15%** | **7%** |
+| 9 | **Kingdom of France**| 500,000 km² | 20,000,000 | **8%** | **12.5%** |
+| 10 | **Tokugawa Shogunate**| 370,000 km² | 30,000,000 | **6%** | **19%** |
+| 11 | **Ryukyu Kingdom** | 2,270 km² | 100,000 | **0.03%** | **0.06%** |
+
+It's the same with calling a 10-year-old boy who play baseball "baseball player".  
+Yes technicaly.  
+But not what you imagine when you hear "baseball player".  
+You imagine the famouse one like Shohei Ohtani.
+
+The "Kingdom" title was given by Ming to run Dejima business.
+Calling Ryukyu "Kingdom" is a deceptive grouping to distort the perceived reality of the readers.
 
 ### **Sotetsu-Jigoku is not a hell.** It was a Recession
 Let’s look at the population statistics of Okinawa Prefecture.  
-https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E7%9C%8C%E3%81%AE%E4%BA%BA%E5%8F%A3%E7%B5%B1%E8%A8%88
-
+[https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E7%9C%8C%E3%81%AE%E4%BA%BA%E5%8F%A3%E7%B5%B1%E8%A8%88
+](https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E7%9C%8C%E3%81%AE%E4%BA%BA%E5%8F%A3%E7%B5%B1%E8%A8%88)  
 The term Sotetsu-Jigoku (Cycad Hell) usually refers to the economic crisis around 1920–1930, following the collapse of sugar prices after WWI.  
 This term, along with "Black Sugar Hell," should be renamed. Using the word "Hell" is an insult to those who endured actual historical hells.  
 
@@ -1114,7 +1160,7 @@ This proves two things:
 2. SEO Manipulation: The "Child" page is designed to be the only result everyone sees.  
 
 Here is the link. It was created in 2024(at least that they claim), the same as a "Child" version.  
-"沖縄の歴史と文化8" https://web.archive.org/web/20250808012416/https://www.pref.okinawa.jp/bunkakoryu/bunkageijutsu/1009556/1009653/1009658/1002497/1002504.html
+"沖縄の歴史と文化8" [https://archive.is/UwAT1](https://archive.is/UwAT1)
 
 Don't worry. That's the right page. You are seeing the right page. 
 It's just a picture of trees, you think. Yes, it's just a picture of trees, I think.  
@@ -1158,28 +1204,28 @@ You might think, "Maybe the Okinawa government is just bad at making websites."
 Maybe. 
 Let's dive deeper to find out.  
 
-* "沖縄の歴史と文化19" https://web.archive.org/web/20250808005311/https://www.pref.okinawa.jp/bunkakoryu/bunkageijutsu/1009556/1009653/1009658/1002497/1002514.html
-* "沖縄の歴史と文化30" https://archive.md/WFHqh (mirror: https://ghostarchive.org/archive/Ioboq)
-* **"沖縄の歴史と文化31"** https://archive.md/uxBAE (mirror: https://ghostarchive.org/archive/2Sjv5)
-* "沖縄の歴史と文化32" https://archive.is/a6mLp (mirror: https://ghostarchive.org/archive/bwF5N)
-* "沖縄の歴史と文化81" https://archive.md/5zDxS (mirror: https://ghostarchive.org/archive/acCr9)
+* "沖縄の歴史と文化19" [https://archive.is/J2rQT](https://archive.is/J2rQT)
+* "沖縄の歴史と文化30" [https://archive.md/WFHqh](https://archive.md/WFHqh) (mirror: [https://ghostarchive.org/archive/Ioboq](https://ghostarchive.org/archive/Ioboq))
+* **"沖縄の歴史と文化31"** [https://archive.md/uxBAE](https://archive.md/uxBAE) (mirror: [https://ghostarchive.org/archive/2Sjv5](https://ghostarchive.org/archive/2Sjv5))
+* "沖縄の歴史と文化32" [https://archive.is/a6mLp](https://archive.is/a6mLp) (mirror: [https://ghostarchive.org/archive/bwF5N](https://ghostarchive.org/archive/bwF5N))
+* "沖縄の歴史と文化81" [https://archive.md/5zDxS](https://archive.md/5zDxS) (mirror: [https://ghostarchive.org/archive/acCr9](https://ghostarchive.org/archive/acCr9))
 
 You notice that all pages are hard to read.  
 But "沖縄の歴史と文化31" is exceptionally harder to read.  
 
-### 1. "沖縄の歴史と文化19", "沖縄の歴史と文化30", "沖縄の歴史と文化32", and other "Safe" pages 
-*   **Estimated Resolution:** ~200 DPI (dots per inch).  
-*   **Text Sharpness:** Relatively High. The edges of the Kanji are crisp. You can clearly distinguish complex strokes (like in "琉球石灰岩").  
-*   **Contrast:** High. The text is **Black**, and the background is **White**.  
-*   **Compression:** Low. There are very few "blocks" or digital noise around the letters.  
-*   **Verdict:** discourage reading.  
+1. "沖縄の歴史と文化19", "沖縄の歴史と文化30", "沖縄の歴史と文化32", and other "Safe" pages 
+    *   **Estimated Resolution:** ~200 DPI (dots per inch).  
+    *   **Text Sharpness:** Relatively High. The edges of the Kanji are crisp. You can clearly distinguish complex strokes (like in "琉球石灰岩").  
+    *   **Contrast:** High. The text is **Black**, and the background is **White**.  
+    *   **Compression:** Low. There are very few "blocks" or digital noise around the letters.  
+    *   **Verdict:** discourage reading.  
 
-### 2. "沖縄の歴史と文化31": The "Dangerous" page (Dismantling the myth) 
-*   **Estimated Resolution:** ~72 DPI (or lower), possibly upscaled.  
-*   **Text Sharpness:** Very Low. The edges are fuzzy. The serifs on the Mincho font are disappearing.  
-*   **Contrast:** Low. The text is **Dark Gray** and the background is **Muddy Gray**.  
-*   **Compression:** Severe. You can see "JPEG Artifacts" (blocking) all over the text. It looks like it was saved at "Quality: 10%".  
-*   **Verdict:** **extremely discourage reading.**
+2. "沖縄の歴史と文化31": The "Dangerous" page (Dismantling the myth) 
+    *   **Estimated Resolution:** ~72 DPI (or lower), possibly upscaled.  
+    *   **Text Sharpness:** Very Low. The edges are fuzzy. The serifs on the Mincho font are disappearing.  
+    *   **Contrast:** Low. The text is **Dark Gray** and the background is **Muddy Gray**.  
+    *   **Compression:** Severe. You can see "JPEG Artifacts" (blocking) all over the text. It looks like it was saved at "Quality: 10%".  
+    *   **Verdict:** **extremely discourage reading.**
 
 "沖縄の歴史と文化31" is the lowest quality image I can find from the "adult" pages.  
 
@@ -1196,7 +1242,7 @@ You can see what I mean if you examine the blurry "沖縄の歴史と文化31".
 ### edit: only the dangerous (for their propaganda) page snapshot is immediately deleted from web.archive.org by the owner
 
 "沖縄の歴史と文化8" 
-https://web.archive.org/web/20250808012416/https://www.pref.okinawa.jp/bunkakoryu/bunkageijutsu/1009556/1009653/1009658/1002497/1002504.html
+[https://web.archive.org/web/20250808012416/https://www.pref.okinawa.jp/bunkakoryu/bunkageijutsu/1009556/1009653/1009658/1002497/1002504.html](https://web.archive.org/web/20250808012416/https://www.pref.okinawa.jp/bunkakoryu/bunkageijutsu/1009556/1009653/1009658/1002497/1002504.html)
 The safe one is still working.  
 but the dangerous "沖縄の歴史と文化31" is deleted in a **single** day.  
 The Okinawa government is actively (daily) trying to erase the evidence.  
@@ -1223,19 +1269,19 @@ Such a disgrace, isn't it? Should they be proud to present their king's 4K image
 The reason is obvious if you are familiar with Ryukyu's history. 
 "沖縄の歴史と文化31" has too many inconvenient truths in it.  
 
-**この繁栄の背景には冊封・朝貢体制を築いていた明国の海禁政策があります。**
+**この繁栄の背景には冊封・朝貢体制を築いていた明国の海禁政策があります。**  
 -> * This dismantles the "Great Trade kingdom" by the Ryukyu initiative. That was just the result of Ming's policy. 
 
-**1. 地方按司（=有力者）からの武器の没収と首里城下への移住**
+**1. 地方按司（=有力者）からの武器の没収と首里城下への移住**  
 -> * This dismantles the "Peaceful Ryukyu people that voluntarily discarded weapons".* And "Satsuma taken away weapons", which is popular with combined with Karate. 
 
-**2. 身分制度の確立**
+**2. 身分制度の確立**  
 -> * This dismantles the "Ryukyu Utopia," The Third Pillar of Ryukyu identity*. Most people are treated as serfs(slaves in modern standard, servants), the property of the King. And the majority was a "servant of a servant/Yaa-nin" who had almost zero rights. 
 
-**3. 聞得大君/ノロ**
+**3. 聞得大君/ノロ**  
 -> * This is "Police State" *,  The king converted Noro (local priest) into his surveillance camera.  
 
-**4. 八重山や与那国における反乱を鎮め、離島の支配の強化（5代目尚元王の代には奄美諸島も配下に置く）**
+**4. 八重山や与那国における反乱を鎮め、離島の支配の強化（5代目尚元王の代には奄美諸島も配下に置く）**  
 -> *This dismantles the "Peaceful Ryukyu Kingdom"*, it was a colonial empire. And it shows Amami was conquered by 5代目尚元王, contradicting the 1429 Kingdom "united" narrative.  
 
 Page 31 lists the facts that the "Okinawa Cartel" is desperate to hide.  
@@ -1246,7 +1292,7 @@ So, the next question is, "Why does the Okinawa government have to show this ima
 We saw that they clearly don't want to show this to us. But there is, why?
 
 You might notice the pictures are pages from a book.  
-https://web.archive.org/web/20251206152706/https://www.pref.okinawa.jp/bunkakoryu/bunkageijutsu/1009556/1009653/1009658/1002497/1024275/1002576.html
+[https://archive.md/5zDxS](https://archive.md/5zDxS) (mirror: [https://ghostarchive.org/archive/acCr9](https://ghostarchive.org/archive/acCr9))  
 It's created by "沖縄県教育委員会".  
 The committee has Okinawa in its name, but they can't publish without 文部科学省(MEXT)'s approval.  
 So, "沖縄の歴史と文化31" is **Tokyo-approved** history.  
@@ -1291,10 +1337,10 @@ As Sun Tzu said, "Know the Enemy and Yourself, you will not know defeat". (Not a
 * Okinawa's history is important/interesting than you think.  
 
 ---
-### Lie 7: The US wouldn't agree with it
+# Lie 7: The US wouldn't agree with it
 
 **The Reality:** If the US loses Japan, it is "Game Over" for American hegemony.  
-Their most important grand strategy is to control the Pacific to contain China. This is impossible without Japan.  
+Their most important grand strategy is to control the Pacific, current mid-term goal is to contain China. This is impossible without Japan.  
 We hold an extremely strong card—stronger than nuclear weapons: **Geopolitical Necessity.**
 The US would happily accept some legal burdens if it keeps Japan friendly and the alliance stable.  
 
@@ -1595,8 +1641,8 @@ When the bases(or the problems) are gone, and if they can't find another victimh
 Yes, as long as they choose to place themselves as "peer" of China or Japan, they have to tell a story of victimhood to keep themselves sane.  
 
 ### Okinawa Pref's official story: CAE offset festival.  
-https://ghostarchive.org/archive/7orrA
-https://www.pref.okinawa.jp/kyoiku/kodomo/1002705/1002706.html
+[https://www.pref.okinawa.jp/kyoiku/kodomo/1002705/1002706.html](https://www.pref.okinawa.jp/kyoiku/kodomo/1002705/1002706.html) [(mirror https://ghostarchive.org/archive/7orrA)](https://ghostarchive.org/archive/7orrA)
+
 We talked about this page in "Lie 6."
 
 | CAE | How | Line | 
@@ -1650,7 +1696,7 @@ We can't do this anymore. Japan is a falling economic power. We have to be effic
 Politicians love to scream "Tourism Nation!"
 But let’s look at the cold, hard reality of Okinawa’s tourism "weapon."
 
-### **The only weapon Okinawa has is "The Beach."**
+### **The only weapon Okinawa Tourism has is "The Beach."**
 
 And that is the problem.  
 In the global market, a beach is a **Commodity.** It is not unique.  
@@ -1662,7 +1708,7 @@ Kyoto has 1,000 years of history. That is a **Monopoly.** You cannot find anothe
 Okinawa does not have that monopoly.  
 Also, season. Kyoto can operate 365 days. Okinawa beaches can operate about 140 – 150 Days a year, because of winter and weather.  
 
-### Beach comparison: Okinawa, Bali, and Hawaii
+### Beach comparison: Okinawa, Bali, and Hawaii: The wall too high to climb.
 
 | Feature | **Okinawa (Japan)** | **Bali (Indonesia)** | **Honolulu(Hawaii)** |
 | :--- | :--- | :--- | :--- |
@@ -1677,7 +1723,7 @@ We can't change the weather.
 Okinawa has the clearest sea among the three. So it's great for diving.  
 The problem is that most people do not dive; it requires a license. 
 
-### **Who comes to Okinawa?**
+### **Who comes to Okinawa?**: Only from pyshicaly close countries without beaches. 
 
 Mainly tourists from Taiwan and Korea, they make up roughly 90% of inbound tourists.  
 Why? Not because it’s the "Best Beach in the World."
@@ -1689,14 +1735,14 @@ There is no room for growth here.
 You cannot attract wealthy Europeans or Americans to fly 20 hours just for a beach they can find in Florida or Spain.  
 We are trapped in a "Regional Budget Tourism" market.  
 
-### **The math simply doesn't work**
+### **The math simply doesn't work**: too many people to feed by the Taiwanese and Koreans.
 
 Okinawa has a population of **1.46 Million.**
 You cannot feed 1.46 million people by selling shaved ice to budget tourists from Taiwan.  
 Tourism works for a small island of 50,000 people. It creates poverty for a prefecture of 1.5 million.  
 We need something scalable. We need something global. We need something Okinawa can sell to the entire world.  
 
-### Tourism is the reason for the poverty 
+### Tourism is the reason for the poverty: Creating low-wage workers
 Financial Capability Index (財政力指数). Okinawa is consistently ranked #47 (Dead last) or close to it.  
 Okinawa has the lowest minimum wage in Japan (currently ~896-950 JPY range, depending on recent hikes, always fighting for last place).  
 Tourism creates jobs that pay so little that the workers pay almost no Residence Tax (住民税) or Income Tax (所得税).  
@@ -1716,7 +1762,7 @@ We are not running an industry. We are running a Deficit Machine.
 Not only people, but the tourism infrastructure creates the deficit. 
 The more tourists we accept, the poorer the prefecture becomes because every new low-wage job increases the social burden without increasing the tax revenue.  
 
-### The profit estimation: ROI disaster
+### The profit estimation: ROI disaster (Estimated tourism profit is 68.2 Billion Yen)
 > 沖縄県の観光収入はコロナ禍からV字回復し、2024年度速報値で過去最高額の9835億円を記録
 
 Let's estimate the profit.  
@@ -1824,8 +1870,8 @@ Today, 1.4 million Okinawans live on the island. Okinawans are thriving on the i
 2020 U.S. Census, only 0.2 million people identified as "Native Hawaiian alone."
 Remember? They had an 8 times larger population than Ryukyu.  
 
-Things get darker.  
-https://ohadatabook.com/Quantum-01.pdf
+Things get darker.  "The Office of Hawaiian Affairs’ (OHA) Native Hawaiian Data Book"  
+[https://ohadatabook.com/Quantum-01.pdf](https://ohadatabook.com/Quantum-01.pdf)  
 In 1984, only 8,244 were counted as "100% Hawaiian".  
 Given the high rates of intermarriage and the aging of that specific generation, demographers and organizations generally estimate that this number has dropped below 8,000 in the decades since.  
 The estimated unmixed blood native Hawaiian population today is "Fewer than 8,000". 
@@ -1892,9 +1938,9 @@ I'm excited to hear the best pitch from the Tourism Prefecture of Okinawa.
 Who has been practicing tourism as its main business for 50 years, since 1975, Ocean Expo.  
 They should have the proof that tourism works. Right?
 
-* "第６次沖縄県観光振興基本計画" https://web.archive.org/web/20250317205547/https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/6keikaku2.pdf
-mirror: https://ghostarchive.org/archive/2Sjv5
-* "第5次沖縄県観光振興基本計画改定版" https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/kankoshinkokihonkeikakukaitei.pdf
+* "第６次沖縄県観光振興基本計画" [https://web.archive.org/web/20250317205547/https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/6keikaku2.pdf](https://web.archive.org/web/20250317205547/https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/6keikaku2.pdf)  
+mirror: [https://ghostarchive.org/archive/2Sjv5](https://ghostarchive.org/archive/2Sjv5)  
+* "第5次沖縄県観光振興基本計画改定版" [https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/kankoshinkokihonkeikakukaitei.pdf](https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/kankoshinkokihonkeikakukaitei.pdf)  
 You can search 競合地の動向 (Competitor Trends) for the Okinawa government's "assessment".  
 
 Quick summary for those who don't want to read the PDF:
@@ -1930,7 +1976,7 @@ Fukuoka is not even trying to be a "Tourism Kingdom".
 Apologists will say Fukuoka counts cruise ships and business travelers. But that is the point. Fukuoka has a real economy that attracts business travelers. Okinawa has only a resort economy that cannot even beat a regional city's side-hustle tourism.  
 People come where real life exists; Kyoto, Tokyo, and Fukuoka are examples. Artificial tourism rarely works.  
 
-### Statistical illusion to reframe the aid size
+### Statistical illusion to reframe the aid size: deceptive "Tourism is bigger than military base rent"
 They don't provide proof that "tourism works."
 But I find the proof that "tourism isn't working."
 第5次沖縄県観光振興基本計画改定版 page 14.  
@@ -1948,12 +1994,12 @@ With their made-up conceptual statistical data.
 And "近年は、概ね横ばいである。" 
 The document says tourism isn't working. 
 
-###  "その他(others)" is actually aid from Tokyo.  
+###  "その他(others)" is actually aid from Tokyo.: Stasstical deception to hide aid.  
 And "その他(others)" 18.8%?, with no explanation? 
 Because they don't explain it, I'll explain it. It's Social Security from Tokyo.  
 They presented the data in a way that obscures the truth. By dumping huge reliance on Tokyo into vague categories like 'Others' or separating Social Security from 'Aid,' they dilute the visual impact of the dependency.  
 
-https://www.pref.okinawa.jp/toukeika/accounts/accounts_index.html
+[https://www.pref.okinawa.jp/toukeika/accounts/accounts_index.html](https://www.pref.okinawa.jp/toukeika/accounts/accounts_index.html)  
 You can find it in "平成 25 年度県民経済計- 1.社会保障負担の明細表（県民ベースの家計及び雇主の支払)", which is Excel.  
 The graph(from the PDF page 14)refers to 2013 data, but I only got access to 2022 data. 
 * "社会保障給付: 現物社会移転以外の社会給付": 552,203 百万円 (552B)
@@ -1968,7 +2014,7 @@ But seems they are not counted in the graph.
 Also, I'm sure that they actually got more external aid in a different form. And they are not calculating that.  
 And after all the bureaucratic camouflage, they still proved that tourism isn't working.  
 
-### The profit vs. The revenue: the illusion
+### The profit vs. The revenue: Stasstical deception to mix different figures.
 The graph from page 14 has another deceptive mechanism.  
 They are mixing the profit and revenue in the same graph.  
 県外から財政への移転(Fiscal Transfers): Pure Profit (Net Cash Injection)
@@ -2174,9 +2220,8 @@ If a newspaper, or collective, has >80% market share in a prefecture, it should 
 Addressing media dominance is essential, and we can take numerous measures that I can't list here. 
 I leave that to you and professional regulators. 
 
-### Future 7. The Institution Human Resource Exchange.  
-"第６次沖縄県観光振興基本計画"
-https://web.archive.org/web/20250317205547/https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/011/752/6keikaku2.pdf  
+### Future 7. The Institution: Human Resource Exchange.  
+"第６次沖縄県観光振興基本計画" [https://ghostarchive.org/archive/2Sjv5](https://ghostarchive.org/archive/2Sjv5)   
 I talked about how bad this "Basic Plan" is. In short, it's not a plan. It's at best a diary.  
 After reading the PDF. I find the deeper problem. 
 
@@ -2215,7 +2260,7 @@ It's time for Okinawa to get real economic independence.
 So we have to cut the promotion budget even if they scream. We had to.  
 Of course, don't cut the regular aid that keeps the Okinawa government running.  
 
-### Conclusion: **Result**
+### Conclusion: Creative Digital Industry with beautiful Beaches
 *   Okinawa stops relying on the "Cheap Beach" trade.  
 *   Okinawans do not have to pay for expensive cars.  
 *   Okinawans get high-paying creative jobs.  
@@ -2316,7 +2361,7 @@ And to that, you should spread this idea as far as you can.
 If you know an influential figure—a YouTuber, a politician, a professor, a journalist, an author—send this to them.  
 
 ---
-### Author's Note 
+# Author's Note 
 
 I wrote this entire report in a kitchen, standing, because I'm too broke to buy a desk. 
 And I find this is a pretty great place for writing. I can stack pots to adjust the height of the laptop. 
@@ -2324,6 +2369,12 @@ I can have a little walk to think without switching between sitting and standing
 I can feed my energy with food. I can write and analyze while cooking, eating.  
 A kitchen is the best place in the world for writing. 
 Highly recommended.  
+
+This report is hosted on GitHub.  
+[https://github.com/lisiki-jp/okinawa_gametheory](https://github.com/lisiki-jp/okinawa_gametheory)  
+So can see the edit history. I likely will fix small errors after the publication.
+Also, pull requests are welcome. Although I can't guarantee my response. Because I'm not active online. 
+Even if your request didn't get merged, it shows your response to my report; fellow readers will see it and get a more diverse analysis.
 
 I invented the CAE model (Offset Nationalism model, C = A - E) while analyzing Okinawa.  
 And I think the idea is worthy of further polish. Possibly an academic paper, so anyone can use it.  
@@ -2384,7 +2435,7 @@ But please remember my name, because this is not my last report.
 I don't want to swim in SNS algorithm hell again.  
 
 ---
-# Recommendation: those who want to think by themselves
+# Recommendation: for those who want to think by themselves
 
 I didn't write this report in a vacuum.  
 Without the two exceptional minds, I couldn't figure out Okinawa.  
@@ -2392,7 +2443,7 @@ Without the two exceptional minds, I couldn't figure out Okinawa.
 ### Bruce Bueno de Mesquita(BDM), professor at New York University: The man who solved politics by math.  
 For those who want to know about the scientific analysis of politics, including corporate politics, I recommend "The Logic of Political Survival" by Bruce Bueno de Mesquita.  
 It's free and available online.  
-https://www.researchgate.net/publication/227458612_The_Logic_of_Political_Survival
+* [https://www.researchgate.net/publication/227458612_The_Logic_of_Political_Survival](https://www.researchgate.net/publication/227458612_The_Logic_of_Political_Survival)   
 This research book cited over 6,903 in Google Scholar. The usual citation in this field is under 50. 
 This is the foundational research in political science. Must read if you are interested in the scientific analysis of politics.  
 
@@ -2403,7 +2454,7 @@ The full text of the original book might be on the Online Burma/Myanmar Library,
 I'm not sure if it's official or not, maybe unauthorized OCR. But good enough for double-checking the translation for free.  
 
 Another free source is CGP Grey's YouTube video "The Rules for Rulers". The video is based on the book.  
-https://www.youtube.com/watch?v=rStL7niR7gs
+* [https://www.youtube.com/watch?v=rStL7niR7gs](https://www.youtube.com/watch?v=rStL7niR7gs)  
 23M views. I checked, and it's pretty good.  
 It has a Japanese Dub. Click the bottom right cog icon. It's low quality with inconsistent talk speed. But it's good enough if you are motivated.  
 You may need to watch it multiple times to understand, because of poor dub quality.  
@@ -2455,6 +2506,6 @@ That's why I wrote this report.
 
 **Recommended Video:**
 "Japanese Defence Strategy & Rearmament" by Perun  
-https://www.youtube.com/watch?v=2BHnijL9xYc  
+    *   [https://www.youtube.com/watch?v=2BHnijL9xYc](https://www.youtube.com/watch?v=2BHnijL9xYc)  
 Note: The video is in English, but don't worry. Because he uses clear PowerPoint slides for everything, the **YouTube Auto-Translate** function works surprisingly well.  
 Click the bottom right cog icon to change the audio or sub.  
