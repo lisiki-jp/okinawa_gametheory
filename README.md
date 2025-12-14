@@ -932,7 +932,7 @@ It was all Ming's doing.
 That was business of Ming. Whatever legal difinition is.  
 Ming was the boss who decide what Ryukyu do, and Ryukyu "King" was just a local manager who got business licence.  
 
-### Ryukyu is not even Kingdom in practical sense
+### Ryukyu is not even Kingdom in usual sense
 
 Famouse Kingdoms c. 1600 
 
