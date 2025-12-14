@@ -1577,11 +1577,11 @@ We talked about this page in "6."
 | -E | Victimhood | 太平洋戦争が終わりをむかえようとする、1945（昭和20）年3月、アメリカ軍が沖縄に上陸しました。はげしい戦いが行われ、沖縄に住んでいた人々約10万人をふくむ、たくさんの人たちが亡くなりました。これが「沖縄戦」です。|
 | -E | Victimhood | 戦争が終わると、1972（昭和47）年5月15日に日本へ復帰（ふっき）するまで、沖縄はアメリカの統治（とうち）が27年間続きました。その間に米軍基地（べいぐんきち）が建設され、今もなお存在しています。|
 
-### Prefecture have high development aid dependency tends has high localnewspaper share.
+### aid dependency create has high localnewspaper share.: If we address media duopoly in Okinawa, we should provide alternative pride source.
 
 correlation: 0.579
 
-| Prefectures | Local newspaper share | aid/tax  |
+| Prefectures | Local Newspaper Share | Development Aid/ Local Tax Revenue  |
 | ---- | ---- | --------------------------- |
 | 沖縄   | 97%  | 100%                        |
 | 島根   | 64%  | 69%                         |
@@ -1633,7 +1633,7 @@ correlation: 0.579
 
 
 (aid/tax is normalized by Okinawa)  
-(Source: aid/tax is data form e-Stat, average of 1989-2017 , calculated by (国庫支出金:普通建設事業費支出金 + 国庫支出金:その他)/地方税)
+(Source: dev aid/tax is data form e-Stat, average of 1989-2017 , calculated by (国庫支出金:普通建設事業費支出金 + 国庫支出金:その他)/地方税)
 (Source: Local newspaper share is from 新聞広告を介した情報流通の地域的差異性 福井一喜 2013. I counted the pixels. the paper is based on 2006～2007年（日本 ABC 協会第24回公査レポート))
 
 There could be many factors here. Business Logic of national newspapers are likely the most strongest one.
