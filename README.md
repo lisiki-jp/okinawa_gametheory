@@ -1633,7 +1633,7 @@ correlation: 0.579
 
 
 (aid/tax is normalized by Okinawa)  
-(Source: aid/tax is data form e-Stat, 1989-2017 , calculated by (国庫支出金:普通建設事業費支出金 + 国庫支出金:その他)/地方税)
+(Source: aid/tax is data form e-Stat, average of 1989-2017 , calculated by (国庫支出金:普通建設事業費支出金 + 国庫支出金:その他)/地方税)
 (Source: Local newspaper share is from 新聞広告を介した情報流通の地域的差異性 福井一喜 2013. I counted the pixels. the paper is based on 2006～2007年（日本 ABC 協会第24回公査レポート))
 
 There could be many factors here. Business Logic of national newspapers are likely the most strongest one.
