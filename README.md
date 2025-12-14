@@ -1577,7 +1577,7 @@ We talked about this page in "6."
 | -E | Victimhood | 太平洋戦争が終わりをむかえようとする、1945（昭和20）年3月、アメリカ軍が沖縄に上陸しました。はげしい戦いが行われ、沖縄に住んでいた人々約10万人をふくむ、たくさんの人たちが亡くなりました。これが「沖縄戦」です。|
 | -E | Victimhood | 戦争が終わると、1972（昭和47）年5月15日に日本へ復帰（ふっき）するまで、沖縄はアメリカの統治（とうち）が27年間続きました。その間に米軍基地（べいぐんきち）が建設され、今もなお存在しています。|
 
-### aid dependency create has high localnewspaper share.: If we address media duopoly in Okinawa, we should provide alternative pride source.
+### aid dependency create high localnewspaper share.: If we address media duopoly in Okinawa, we should provide alternative pride source.
 
 correlation: 0.579
 
