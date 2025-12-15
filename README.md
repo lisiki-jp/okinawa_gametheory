@@ -366,7 +366,7 @@ Fukushima (26th) and Kumamoto (20th). This aligns with disaster relief hypothese
 National avg (32%), so I guess we were building infrastructure harder in 2000 than in 2017.  
 Since the Okinawa Promotion budget is not shrinking, and building infrastructure seems down trend, the 2025 data is likely to have a more stark Okinawa anomaly. (Please update e-Stat. Dear govt)
 
-### Naha politician's optimal financial strategy: Money Begging 
+### Naha politician's optimal financial strategy: Keep Okinawa poor for Money Begging 
 What data tells you is this.  
 
 * If Tokyo gets the double Development Aid relative to the current amount received from Nagata-cho.  
