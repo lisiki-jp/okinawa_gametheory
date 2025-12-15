@@ -36,7 +36,7 @@ So, like we don't learn English, Okinawa doesn't develop industry.
 
 Have you ever heard of the Yubari city economic collapse?
 That's "aid curse" in working. Tokyo sends massive aid to compensate for its energy policy shift that would hurt the coal city. And Yubari spends that money to build the massive tourism infrastructure. But aid was one-time, and the running cost of the tourism facility was on Yubari. And they went bankrupt.  
-If Tokyo didn't send aid, they didn't crush that hard.  
+If Tokyo didn't send the aid, Yubari didn't crush that hard.  
 This was city-level and short-term.  
 Okinawa is a **prefecture-level** and has been **over 50 years**.  
 Yes, Okinawa is Yubari, but worse, and bigger. They haven't gone bankrupt yet because Tokyo is sending our tax money to cover the deficit.  
@@ -50,14 +50,14 @@ The money is sent to make Okinawa poor and dependent. So Tokyo can control Okina
 ### Conclusion: Stop the aid.  
 
 * The aid is hurting the Okinawa economy rather than developing it.  
-* 14.8 Trillion Yen's result is the poorest prefecture in Japan.  
+* 14.8 Trillion Yen created the poorest prefecture in Japan.  
 * Aid is taking away the reason to develop the local economy in Okinawa.  
-* Okinawa is big Yubari. It built tourism infrastructure using aid from Tokyo and went bankrupt in the end. 
+* Okinawa is big Yubari. It built tourism infrastructure using aid from Tokyo and creating the deficit. 
 
 ---
 # 2: "This is the cost of National Security. We have to pay it."
 
-If this is about National Security, we shouldn't pay a single yen to Okinawa.  
+If this is about National Security, we shouldn't pay 300 Billion Yen to Okinawa.  
 
 ### We are losing the war before it even begins. 
 
@@ -114,7 +114,7 @@ That isn't "Defense Spending." That is **Defense Undermining.**
 
 ### Conclusion: Stop the aid.  
 
-* Because it's not about national security. Even if so, it has a negative effect on national security.  
+* Because the aid has a negative effect on national security.  
 * Tokyo's politicians are neglecting their duty by enabling the local politicians to disrupt national security.  
 * It's creating a vulnerability while consuming precious resources.  
 * Let's get more missiles so China will think that it'll be costly to attack us. 
@@ -178,10 +178,10 @@ Did Tokyo plan the forever dependency plan 50 years ago? Maybe, maybe not. **It 
 Nobody in the ruling party will tell you "We had". And they are the only ones who know the truth. 
 It might even the LDP doesn't know about this. It's been a long time. The initial members have gone.  
 
-But I'm sure after 2010, when the Aid Curse became the norm among political elites, Tokyo has been sending aid with the intent.  
+But I'm sure after 2010, when the Aid Curse became the common knowleadge among political elites, Tokyo has been sending aid with the intent.  
 Whether it is started intentionally or not, the result is the same. The machine is wasting our money today.  
 Bureaucrats in Tokyo are happy because they control the island with money. As long as voters don't notice the mechanism.  
-Politicians in Okinawa are happy because they get elected on anger.  
+Politicians in Okinawa are happy because they can expoit the anger to win election.  
 It is a 'Perfect Crime' where no one has to be the villain, but everyone is an accomplice.  
 
 ### Solution: Democracy Armor.  
@@ -201,14 +201,14 @@ People of Okinawa have no great memory of democracy. (Actually, they had been be
 They vote for anti-bases, and politicians achieve nothing.  
 That's all they know about democracy.  
 
-So, we can give them a memory of a good democracy that actually cares about them and improves their life.  
-
-That is the optimal way to ensure that Okinawa remains in the team democracy.  
+Because of that, We must give them a memory of a good democracy that actually cares about them and improves their life.  
+Okinawa stays in the team democracy if it likes democracy.
 
 And this is why you are reading this. **We are the only ones able to deliver a good democracy for Okinawa**. 
 Democracy is about the majority. Okinawa has only 1.2% of the population of Japan. They never get the majority if their interests conflict with other prefectures.  
 And they have been **directed to conflict** with other prefectures.  
 The only people who can bring a good democracy to Okinawa are mainland Japanese, **you**.  
+
 ### Why we stand against Tyrannical China
 
 Besides, if we use democracy as a tool to ignore the minority. How can we stand proud against China?
@@ -225,8 +225,8 @@ There is a strong positive correlation between egalitarian democracy and Life Ex
 **The Evidence:**
 1.  **V-Dem: Interactive Maps**
     *   [https://v-dem.net/data_analysis/MapGraph/](https://v-dem.net/data_analysis/MapGraph/)
-    *   *Instruction:* Select "Indicators" and search for **"Egalitarian Democracy Index"** (v2x_egal). This measures the equal distribution of resources like healthcare and education.  
-    *   Egalitarian Democracy Index: "To what extent is the ideal of egalitarian democracy achieved?"
+    *   *Instruction:* Select "Indicators" and search for **"Egalitarian Democracy Index"** (v2x_egal).  
+    *   Egalitarian Democracy Index: "To what extent is the ideal of egalitarian democracy achieved?"  
 2.  **Life Expectancy by Country 2025**
     *   [https://worldpopulationreview.com/country-rankings/life-expectancy-by-country](https://worldpopulationreview.com/country-rankings/life-expectancy-by-country)
 
@@ -240,7 +240,7 @@ In short, a "large winning coalition(functioning democracy)" demands "public goo
 3. Otherwise, oppositions will promise "a better deal" to people, and the ruler loses power.  
 
 This explains why the US has low life expectancy despite its wealth. Because they only have two parties (practically only the two parties are allowed in laws), they don't have to compete with "Good Idea". 
-The US politicians are competing in "How bad(how little distribute good things)" they can go. Because that will save politicians' share (and corporations that give politicians money through lobbying: legalised bribery).  
+The US politicians are competing in "How bad(how little distribute good things)" they can go. Because that will maximize politicians' share (and corporations that give politicians money through lobbying: legalised bribery).  
 They just need to be slightly better than their opponent.  
 This structure, with only two entities in the system, is called "Duopoly", which the Okinawa local media is. By a 99.4% share.  
 
@@ -263,7 +263,7 @@ You can see that the WW2 winners have low scores on the "Egalitarian component i
 The UK and France are between the two groups. Because they are "Officially the winner, but practically the loser" of WW2. Their colonial empire collapsed because of the war.  
 Yes, Japanese can live longer than US citizens because we lost WW2.  
 
-Sometimes, people say “Japan isn’t allowed to have Nationalism”.
+Sometimes, people say “The Japanese can't have Nationalism”, like it's a bad thing.
 The data shows that having no Nationalism is good for your health. We are lucky to not have one.
 
 ### Conclusion: Stop the aid.  
@@ -584,8 +584,8 @@ If the problem is gone, their monopoly ends.
 Before 1995(when the Henoko became a problem), National papers had some share in Okinawa. This is from ABC, 1993 and 2025.  
 Asashi was the strongest among national newspapers, likely because of its relatively critical stance against Tokyo.  
 But even that, Asahi lost about 75% of its sales after the problem arose.  
-You can see Nikkei only lost 8% of its share, while others lost large amounts of their share. Because Nikkei is "compatible" with local newspapers. Who provides narratives that are incompatible with national newspapers?
-Don't be distracted by another bait that claims "logistics to deliver newspapers is difficult". As Nikkei in 1993 had no partnership with Simpo on local production, and still had large sales, that claim is false or too weak. 
+You can see Nikkei only lost 8% of its share, while others lost large amounts of their share. Because Nikkei is "compatible" with local newspapers. And national newspapers are imcompatible with local newspaper narratives.
+Don't be distracted by another bait that claims "logistics to deliver newspapers is difficult". As Nikkei in 1993 had no partnership with Simpo on local production(started on 2008), and still had large sales, that claim is false or too weak. 
 
 | Newspaper | 1993 Circulation (Morning Edition) | 2024 Circulation (Morning Edition) | Change (1993-2024) |
 | :--- | :--- | :--- | :--- |
@@ -610,7 +610,7 @@ They have total authority about **"What Okinawa is"**
 Even the governor doesn't dares to challenge them. 
 
 The governor who tried to solve the problem was branded as a "traitor" by them. And he lost his political life.  
-"Okinawa Vision" was the governor's initiative to gain economic independence for Okinawa. Theoretically, this could solve the Okinawa problem. 
+"Okinawa Vision" was the governor's initiative to gain economic independence for Okinawa. Theoretically, from the governor's perspective, this could solve the Okinawa problem. 
 His name is Hirokazu Nakaima. Who was(is) portrayed as "Traitor" by local media. Local media demanded his resignation. And he is known as "Traitor" among people of Okinawa today, despite his sincere attempts to solve the struggle.  
 
 After him, only hardliner anti-base politicians get the position, who perform symbolic but useless acts. 
@@ -640,7 +640,7 @@ I call this the "Okinawa Cartel".
 ### Okinawa is Little Russia; Politics resembles Putin's Russia
 
 You may think I am joking. You may feel angry if you are Okinawan. 
-It is one of the worst insults I could say today.  
+It is one of the worst insults one could say today.  
 You are right to be angry. But please, do not direct that anger at the messenger. 
 Direct it at the system that made this comparison accurate.  
 You are the victim of this entire structure.  
@@ -683,7 +683,7 @@ These "Beautiful Ryukyu Kingdom" stories are all fantasy.
 * It was not peaceful
 * It was not a great trader
 * It was not utopia.
-* It was not sovereign from the start.
+* It was not sovereign.
 * It was not even a Kingdom in a practical sense.
 
 ### Start from the data: population growth.  
@@ -692,9 +692,9 @@ Before the story, let's see the population growth data I calculated from trustwo
 | Period / Year | Regime | Pop Growth | Annual Growth | Data Type |
 | :--- | :--- | :--- | :--- |:--- |
 | **1429 - 1609** | **Ryukyu Kingdom under Ming** | 70K ➔ 86K  | 0.11% | Only main island |
-| **1609 – 1880** | **Ryukyu Kingdom under Satsuma** | 100K ➔ 353K | 0.47% | Exclude Amami |
-| **1880 – 1935** | **Okinawa in Japan(Constitutional Monarchy)** | **353K ➔ 590k** | 0.94% | Exclude Amami |
-| **1880 – 2025** | **Okinawa in Japan(All)** | **353K ➔ 1,467k** | 0.99% | Exclude Amami |
+| **1609 – 1880** | **Ryukyu Kingdom under Satsuma** | 100K ➔ 353K | 0.47% | Amami excluded |
+| **1880 – 1935** | **Okinawa in Japan(Constitutional Monarchy)** | **353K ➔ 590k** | 0.94% | Amami excluded |
+| **1880 – 2025** | **Okinawa in Japan(All)** | **353K ➔ 1,467k** | 0.99% | Amami excluded |
 
 * (Source: 70K is a widely accepted academic estimate. Which is 60K - 80K. I took the middle.)
 * (Source: 86K is based on estimation from 100K(1609, academic standard) and the 1647 Yaeyama data. Assuming Miyako has a double population of Yaeyama, which is a widely accepted standard. Assuming under Satsuma, in this case 1609 - 1647, the annual growth rate is fixed at 0.47% for all islands and the given period, back-casting the 1609 population.  I subtracted the estimated Sakishima population(1609: 14K) from 100K for the main island comparison.)
@@ -808,7 +808,7 @@ But its importance is not.
 The most influential thing Japan did in its history is the "Modernization"(Westernization).  
 And without Okinawa, no modernization.  
 
-Modernization was an unthinkable achievement. And still feels like unthinkable, there were so many failing points, and we successfully navigated the slim path.  
+Modernization was an unthinkable achievement. And still feels unachievable, there were so many points of failure, and we successfully navigated the slim path.
 It's safe to say we are on an "unlikely world line".  
 
 One of the things that modernization requires is "Swift Revolution".  
@@ -832,7 +832,7 @@ We are here because of Okinawa.
 ### Population data: Satsuma-Ryukyu partners in crime.: Tax-Evading Bros
 "薩摩藩と近世琉球国の人口" by 尾口義男 page 8.  
 [https://www.pref.kagoshima.jp/ab23/reimeikan/siroyu/documents/6757_20220514171645-1.pdf](https://www.pref.kagoshima.jp/ab23/reimeikan/siroyu/documents/6757_20220514171645-1.pdf)  
-You see the beautiful table. But the data is fake. (Not to blame the author, he did a great job.)
+You see the beautiful table. But the data is unreliable. (Not to blame the author, he did a great job.)
 Only the last two rows are trustworthy.  
 
 Look at the last three rows, the population exploded in 4 years, between 1876-1880. 167k -> 356k. 
@@ -926,13 +926,13 @@ And if a Ryukyu ship carrying sulfur gets attacked by pirates on the way to Chin
 That is Ryukyu's loss, not the Emperor's.  
 The Ming effectively outsourced the logistics risk to Chusan.  
 
-### Ryukyu is never had been soverign from the start in practical sense. 
+### Ryukyu is never had been soverign in practical sense. 
 
 It was all Ming's doing.  
 That was business of Ming. Whatever legal difinition is.  
 Ming was the boss who decide what Ryukyu do, and Ryukyu "King" was just a local manager who got business licence.  
 
-### Ryukyu is not even Kingdom in practical sense
+### Ryukyu is not even Kingdom in usual sense
 
 Famouse Kingdoms c. 1600 
 
@@ -992,7 +992,7 @@ This is the official page of from Okinawa prefecture government "History Summary
 It's a web archive because it'll likely be modified if this report becomes viral.  
 https://ghostarchive.org/archive/7orrA (mirror: https://archive.md/AitCN)
 
-### The first line of the Official Story "Peaceful Kingdom": Simply false
+### The first line of the Official Story "Peaceful Kingdom": Not ture
 
 > 昔、沖縄県は、琉球とよばれた一つの国でした。1429年、尚巴志という人物が、各地の有力者を一つにまとめました。
 
@@ -1003,11 +1003,11 @@ It sounds just like how Genghis Khan "united" the Eurasian steppe.
 You are right. I confused you. 
 Sho Hashi wasn't a peaceful negotiator. Think of him as Genghis Khan in Okinawa. He united the main island through iron.  
 
-Actually, the government's page confused you.  
+But who confused you is actually the Okinawa government.
 It describes him as a "Peaceful negotiator", but the fact is he was a "Ruthless invader."
 
-Using 有力者 is skillful rhetoric here. This implies interaction between the king and the person. It implies a social interaction between the two.  
-It hides the reality: Conquest.  
+Using 有力者 is skillful rhetoric here. This implies interaction between the king and the person. It means a social interaction between the two, which is not what happened.   
+What happened is the conquest.  
 
 Sho Hashi was Chusan's king, who controlled Naha, where the best port was.  
 Since Okinawa has no iron mine, only he can get iron weapons in mass from China.  
@@ -1057,7 +1057,7 @@ And people started to ignore the ban; Ryukyu lost its role as a warehouse.
 The Okinawa Government calls it the "Great Trade Era."
 A more accurate name would be the "Great Warehouse Era."
 
-### Plausible deniability of "for child" on pref.okinawa.jp
+### "Plausible deniability" of "for child" on pref.okinawa.jp
 
 We did just 2 lines. But I think that was enough to give you the idea.  
 The official story is a fantasy.  
@@ -1248,9 +1248,9 @@ Without the right understanding of the situation, no progress.
 As Sun Tzu said, "Know the Enemy and Yourself, you will not know defeat". (Not a great choice?)
 
 ### Conclusion: Stop the aid.  
-* The aid provides the structure that the creation of hateful nationalism thrives, promoting fake history.  
+* The aid provides the structure that the creation of hateful nationalism thrives, promoting inaccurate history.  
 * Give Okinawa a real history education.  
-* The Okinawa govt is promoting fake history. 
+* The Okinawa govt is promoting inaccurate history. 
 * Ryukyu was practically the Dejima of Ming, created by Ming to get Japanese sulfur.  
 * Ryukyu was a colonial empire.  
 * Ryukyu was a terrible place to live for commoners.  
@@ -1569,13 +1569,83 @@ We talked about this page in "6."
 
 | CAE | How | Line | 
 | :--- | :--- | :--- |
-| +A | Fake History | 昔、沖縄県は、琉球（りゅうきゅう）とよばれた一つの国でした。1429年、尚巴志（しょうはし）という人物が、各地の有力者（ゆうりょくしゃ）を一つにまとめました。|
-| +A | Fake History | 首里城を王国の中心とした琉球は、さかんに中国や日本、アジアの国々に出かけていき、たくさんの品物の売り買いを行いました。そのころの那覇の港は、海外から運ばれた物や外国人であふれたといわれます。この時代は「大交易時代（だいこうえきじだい）」とよばれています。琉球は、「レキオ」という名前で、ポルトガルの資料にも記録されています。|
+| +A | Inaccurate History | 昔、沖縄県は、琉球（りゅうきゅう）とよばれた一つの国でした。1429年、尚巴志（しょうはし）という人物が、各地の有力者（ゆうりょくしゃ）を一つにまとめました。|
+| +A | Inaccurate History | 首里城を王国の中心とした琉球は、さかんに中国や日本、アジアの国々に出かけていき、たくさんの品物の売り買いを行いました。そのころの那覇の港は、海外から運ばれた物や外国人であふれたといわれます。この時代は「大交易時代（だいこうえきじだい）」とよばれています。琉球は、「レキオ」という名前で、ポルトガルの資料にも記録されています。|
 | -E,+A | Victimhood, Favorable Expression, Peer Rhetoric | 1609年、琉球は薩摩藩（さつまはん＝今の鹿児島県）からの侵攻（しんこう）を受けます。ちょうど日本では、将軍（しょうぐん）を頂点とする国（江戸幕府）が始まったころでした。|
 | |  | この時代、琉球は日本文化のえいきょうを受けて、さらに特色ある文化を育てていきました。|
 | -E,+A | Victimhood, Favorable Expression | 明治時代になると、450年間続いた琉球王国はなくなり、琉球は沖縄県となりました。|
 | -E | Victimhood | 太平洋戦争が終わりをむかえようとする、1945（昭和20）年3月、アメリカ軍が沖縄に上陸しました。はげしい戦いが行われ、沖縄に住んでいた人々約10万人をふくむ、たくさんの人たちが亡くなりました。これが「沖縄戦」です。|
 | -E | Victimhood | 戦争が終わると、1972（昭和47）年5月15日に日本へ復帰（ふっき）するまで、沖縄はアメリカの統治（とうち）が27年間続きました。その間に米軍基地（べいぐんきち）が建設され、今もなお存在しています。|
+
+### aid dependency create high localnewspaper share.: If we address media duopoly in Okinawa, we should provide alternative pride source.
+
+correlation: 0.579
+
+| Prefectures | Local Newspaper Share | Development Aid/ Local Tax Revenue  |
+| ---- | ---- | --------------------------- |
+| 沖縄   | 97%  | 100%                        |
+| 島根   | 64%  | 69%                         |
+| 高知   | 86%  | 61%                         |
+| 鹿児島  | 82%  | 60%                         |
+| 福島   | 69%  | 56%                         |
+| 長崎   | 57%  | 55%                         |
+| 鳥取   | 72%  | 52%                         |
+| 宮崎   | 65%  | 52%                         |
+| 岩手   | 65%  | 51%                         |
+| 秋田   | 71%  | 50%                         |
+| 大分   | 60%  | 43%                         |
+| 青森   | 81%  | 42%                         |
+| 徳島   | 85%  | 42%                         |
+| 佐賀   | 70%  | 39%                         |
+| 熊本   | 74%  | 39%                         |
+| 山形   | 54%  | 38%                         |
+| 新潟   | 66%  | 34%                         |
+| 和歌山  | 0%   | 34%                         |
+| 北海道  | 72%  | 34%                         |
+| 山梨   | 66%  | 34%                         |
+| 福井   | 83%  | 32%                         |
+| 山口   | 10%  | 29%                         |
+| 愛媛   | 63%  | 27%                         |
+| 富山   | 71%  | 26%                         |
+| 石川   | 88%  | 26%                         |
+| 宮城   | 68%  | 25%                         |
+| 長野   | 73%  | 24%                         |
+| 奈良   | 0%   | 21%                         |
+| 岐阜   | 81%  | 20%                         |
+| 広島   | 58%  | 19%                         |
+| 香川   | 54%  | 19%                         |
+| 岡山   | 64%  | 19%                         |
+| 滋賀   | 26%  | 17%                         |
+| 群馬   | 41%  | 16%                         |
+| 三重   | 54%  | 16%                         |
+| 栃木   | 44%  | 16%                         |
+| 兵庫   | 27%  | 15%                         |
+| 茨城   | 15%  | 14%                         |
+| 福岡   | 36%  | 13%                         |
+| 静岡   | 71%  | 11%                         |
+| 京都   | 42%  | 10%                         |
+| 千葉   | 3%   | 10%                         |
+| 埼玉   | 3%   | 8%                          |
+| 大阪   | 0%   | 7%                          |
+| 愛知   | 75%  | 6%                          |
+| 神奈川  | 11%  | 5%                          |
+| 東京   | 6%   | 3%                          |
+
+
+(aid/tax is normalized by Okinawa)  
+(Source: dev aid/tax is data form e-Stat, average of 1989-2017 , calculated by (国庫支出金:普通建設事業費支出金 + 国庫支出金:その他)/地方税)
+(Source: Local newspaper share is from 新聞広告を介した情報流通の地域的差異性 福井一喜 2013. I counted the pixels. the paper is based on 2006～2007年（日本 ABC 協会第24回公査レポート))
+
+There could be many factors here. Business Logic of national newspapers are likely the most strongest one.
+CAE can also provide a explnation, that likely affecting in many cases.
+Getting aid(+E) hurts C., so if they want to feel better about themselves, they need to create their story(+C).
+
+Sometime Okinawa newspaper is described as a tool of aid acquisition. But not only that, it can be a mechanism to stay sane in a situation where local pride is undermined. They need the narrative to keep them sane. If we want to address the media duopoly there, we need to give them replacement of the pride source.
+
+Economic power prefecture doesn't need to maintain its pride. (C = A - E). They already have big enough A and have little aid from outside. Their identities are psychologically comfortable without creating a story.
+And still they can have an additional story, like Aichi. They do not require to have local story to be comfortable. That's why the high dependency prefectures almost always have a high local newspaper share.
+
+
 
 ### Conclusion: Stop the aid.  
 * The aid makes Okinawa hate Tokyo.  
@@ -1618,7 +1688,7 @@ We can't do this anymore. Japan is a falling economic power. We have to be effic
 Politicians love to scream "Tourism Nation!"
 But let’s look at the cold, hard reality of Okinawa’s tourism "weapon."
 
-### **The only weapon Okinawa Tourism has is "The Beach."**
+### **The only weapon Okinawa Tourism has is "The Beach."**: it can't attract wealthy Europeans(Americans)
 
 And that is the problem.  
 In the global market, a beach is a **Commodity.** It is not unique.  
@@ -1657,7 +1727,7 @@ There is no room for growth here.
 You cannot attract wealthy Europeans or Americans to fly 20 hours just for a beach they can find in Florida or Spain.  
 We are trapped in a "Regional Budget Tourism" market.  
 
-### **The math simply doesn't work**: too many people to feed by the Taiwanese and Koreans.
+### **The math simply doesn't work**: Too many people to feed. Taiwanese and Koreans can't do this.
 
 Okinawa has a population of **1.46 Million.**
 You cannot feed 1.46 million people by selling shaved ice to budget tourists from Taiwan.  
@@ -1770,7 +1840,7 @@ The local tax revenue cannot cover it. So, Okinawa must beg Tokyo for more subsi
 This keeps Okinawa in a state of permanent dependency.  
 We are not building assets; we are building liabilities that chain us to Tokyo forever.  
 
-### **Luxury tourism is dangerous: Native Hawaiians can't live on their island**
+### **Luxury tourism is dangerous: Native Hawaiians can't live on the ancestor's island**
 
 Some of you say, "Okay, cheap tourism is bad. So let's target the wealthy. Let's be like Hawaii."
 So many problems here, one is that Hawaii is too close; Okinawa has to compete with Hawaii if it chooses this path.  
@@ -1962,7 +2032,7 @@ We will convert everything to **"Net Economic Gain"** (Profit/Surplus) to make t
 
 Here is what the relative share looks like when you compare Profit to Profit:
 
-| Category | The "Fake" Share (from PDF) | **The "Real" Share (Recalculated)** |
+| Category | The "Misleading" Share (from PDF) | **The "Real" Share (Recalculated)** |
 | :--- | :--- | :--- |
 | **Fiscal Aid (Subsidies)** | 50.2% | **63.0%** |
 | **Other (Pensions/Passive)** | 18.8% | **23.7%** |
@@ -1982,7 +2052,7 @@ When you fix the math:
 
 This graph in the PDF is not just a mistake; it is fraudulent accounting designed to hide the fact that the entire tourism industry creates less net wealth for the island than the Military land rents do.  
 
-###  They know that tourism isn't working
+###  They know that tourism isn't working.: but insist to go further
 
 And we hand them **300 Billion Yen** to manage. Every year.  
 They say with a straight face, "Tourism is working!"
@@ -2113,7 +2183,7 @@ We replace it with a **Special Tax-Free Zone.**
 We use the "Aid" money to cover the tax gap.  
 This will attract talent from Tokyo, Taiwan, and Singapore.  
 
-### Future 6. The media: dismisses the cartel
+### Future 6. dismisses the media cartel
 
 The current generation of people of Okinawa is 'educated' from birth by local media under total control.  
 The invisible hand can't fix this 'educated' market.  
@@ -2242,7 +2312,7 @@ I told you that we, "the Japanese majority," are the strongest player.
 It means **you** are the boss.  
 It's true as long as we are a democratic country. And luckily, we are.  
 
-If the majority of potential voters support ending the fake aid, the government has to change the current policy to stay in power.  
+If the majority of potential voters support ending the halmful aid, the government has to change the current policy to stay in power.  
 You don't have to wait till the next election.  
 **We can start today, right now.**
 
@@ -2250,7 +2320,7 @@ To make the majority support this idea, we have to deliver this idea to them.
 Japan is an old country. Not everyone has access internet, SNS, or YouTube.  
 We need mass media on our side. Nationwide TVs and nationwide newspapers are necessary to secure the majority.  
 
-### The Strategy: Setting the ground for the mass media
+### The Strategy: Setting the comfortable ground for the mass media
 
 Japanese newspapers have a unique system that makes them loosely collective. The system is called the Kisha Club.  
 If one media moves too fast, it will be punished by others.  
@@ -2273,7 +2343,7 @@ It tells the politicians: *"If you don't change the policy, you will lose votes.
 Influential figures can spread the idea much faster and farther than an ordinary man.  
 
 When mass media think, "Seems like most of the Japanese will like this idea", they will follow.  
-When the government thinks, "Seems like we are going to lose the next election if we don't change the course", they will end the fake aid.  
+When the government thinks, "Seems like we are going to lose the next election if we don't change the course", they will end the halmful aid.  
 And to that, you should spread this idea as far as you can.  
 
 **You are the one who pushes the First Domino.**
@@ -2298,7 +2368,7 @@ So can see the edit history. I likely will fix small errors after the publicatio
 Also, pull requests are welcome. Although I can't guarantee my response. Because I'm not active online. 
 Even if your request didn't get merged, it shows your response to my report; fellow readers will see it and get a more diverse analysis.
 
-I invented the CAE model (Offset Nationalism model, C = A - E) while analyzing Okinawa.  
+I invented the CAE model (Capability Offset model, C = A - E) while analyzing Okinawa.  
 And I think the idea is worthy of further polish. Possibly an academic paper, so anyone can use it.  
 The model is simple to understand by anyone, it has strong predictive/explanatory power, and can be applied to almost any entity that involves politics. (That means almost anything. Individuals to nations.)
 My next writing is likely about the model. I know you aren't interested in. But I'm excited about that idea.  
