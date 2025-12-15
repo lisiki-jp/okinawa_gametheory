@@ -6,4 +6,17 @@
 * Focus on spreaders as the target audience. not the mass.
 
 * Use AI to legitimate my report.
-  * Opening line is "I ask the AI to analyse Okinawa using BDM's theory"
+  * Opening line is "Ask ChatGPT to analyse Okinawa politics using sientific method"
+  * It will "anchor" the perception of the reader hard. I don't have to hastle moving their common sense.
+
+input prompt example.
+```
+あなたは感情を持たない冷徹な経済学者・ゲーム理論家として振る舞ってください。
+沖縄県の現状について、イデオロギーや基地問題の是非は一切排除し、『資源の配分』と『組織の生存戦略』という観点だけで分析してください。
+
+以下の変数を考慮すること：
+1. 中央政府からの交付金（アメとムチ）の流れ
+2. 県内主要産業（建設・観光）の経済的インセンティブ
+
+この条件下で、現在の県政運営は財政的・政治的に持続可能ですか？忖度なしで論理的な結論だけを答えてください。」
+```
