@@ -3,3 +3,4 @@
   * prove aid curce has the same mechanism as recource curce
   * Okinawa's economical/political similality with resouce curse state
  
+* Focus on spreaders as the target audience. not the mass.
