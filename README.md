@@ -10,7 +10,7 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 Analysis on relocation project
 ;todo: make this broader scope
 
-| Player                 | Stated Goal (What they SAY)           | Current Strategy (What they DO)                       | SAY and DO align? | Current Goal (What they truely WANT from current state)                                        | 
+| Player                 | Stated Goal (What they SAY)           | Current Strategy (What they DO)                       | SAY and DO align? | Current Goal (What they WANT; estimated from observing)                                        | 
 | :--------------------- | :------------------------------------ | :---------------------------------------------------- | :---------------- | :--------------------------------------------------------------------------------------------- | 
 | **US Regime**          | Ensure regional stability             | Apply consistent pressure to Japan                    | **YES**           | **Status Quo** (Functional base & geopolitical "tripwire", keep Japan dependent on US)         | 
 | **Japan Regime**       | Resolve the "Futenma danger"          | Contain the issue to not spread into the majority Japanese voters; run an impossibly slow project     | **NO**            | **Status Quo** (Alliance managed, secure political position, keep Okinawa dependent on Tokyo)  | 
