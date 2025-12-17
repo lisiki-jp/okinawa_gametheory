@@ -1,12 +1,10 @@
- 
-* Focus on spreaders as the target audience. not the mass.
-
-* Use AI to legitimate my report.
+ * Use AI to mitigate halo effect.
   * Opening line is "Ask ChatGPT to analyse Okinawa politics using sientific method"
   * It will "anchor" the perception of the reader hard. I don't have to hastle moving their common sense.
 
-1. 表データ、ロジックをすべてmermaidjsで視覚化する。そして視覚化されたデータを軸にした構成に直す。
-2. 日本語に訳す
+* mermaidjs
+
+* create repo for Japanese audience.
 
 * Prove resource curce using worldwide data
   * prove aid curce has the same mechanism as recource curce
@@ -24,3 +22,5 @@ input prompt example.
 3. 「中央政府からの開発支援金」と「地元税」との比率（全国とくらべて）
 4. 沖縄地元紙の市場シェア
 ```
+### memo
+* Focus on spreaders as the target audience. not the mass.
