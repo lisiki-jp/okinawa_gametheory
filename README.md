@@ -25,7 +25,7 @@ xychart-beta
 ---
 ### Okinawa local media's political narrative dominance: 99.43%
 ```mermaid
-pie title General Newspaper Marketshare in Okinawa
+pie title Local vs. National in Okinawa
     "Okinawa Local Newspapers" : 247893
     "National Papers (without Nikkei)" : 1418
 ```
