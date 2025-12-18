@@ -26,11 +26,16 @@ xychart-beta
 ### Okinawa local media's political narrative dominance: 99.43%
 ```mermaid
 %%{init: {
-  "theme": "dark",
+  "theme": "base",
   "themeVariables": {
+    "darkMode": true,
+    "background": "#1a1a1a",
+    "primaryTextColor": "#ffffff",
     "pieTitleTextColor": "#ffffff",
     "pieLegendTextColor": "#ffffff",
     "pieSectionTextColor": "#ffffff",
+    "pie1": "#004c8c",
+    "pie2": "#d94236",
     "pieStrokeWidth": "0px",
     "pieOpacity": "1"
   }
