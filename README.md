@@ -2545,7 +2545,6 @@ Click the bottom right cog icon to change the audio or sub.
 
 
 <!-- Load Mermaid.js v10+ -->
-<!--
 
 <script type="module">
   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
@@ -2578,4 +2577,3 @@ Click the bottom right cog icon to change the audio or sub.
     });
   });
 </script>
--->
