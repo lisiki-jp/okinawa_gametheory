@@ -44,7 +44,7 @@ pie showData
     "Okinawa Papers (99.43%)" : 247893
     "National Papers (0.57%)" : 1418
 ```
-![Chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['Okinawa','National'],datasets:[{data:[99.43,0.57],backgroundColor:['#205295','#d62828']}]},options:{plugins:{legend:{labels:{font:{color:'white'}}},datalabels:{color:'white'}}}})
+![Chart](https://quickchart.io/chart?width=500&height=300&c={type:'bar',data:{labels:['January','February','March','April','May'],datasets:[{label:'Dogs',data:[50,60,70,180,190]},{label:'Cats',data:[100,200,300,400,500]}]}})
 
 National papers are invisible.
 Nikkei was excluded because of a narrative comparison on politics. 
