@@ -1,3 +1,6 @@
+# v0.3
+* ~Choose License~
+
 * mermaidjs
     * visualize table data
     * separate table data to different file
