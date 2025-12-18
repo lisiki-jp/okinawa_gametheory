@@ -28,14 +28,13 @@ xychart-beta
 %%{init: {
   "theme": "base",
   "themeVariables": {
-    "darkMode": true,
-    "background": "#1a1a1a",
+    "primaryColor": "#1f77b4",
     "primaryTextColor": "#ffffff",
-    "pieTitleTextColor": "#ffffff",
-    "pieLegendTextColor": "#ffffff",
+    "primaryBorderColor": "#ffffff",
+    "lineColor": "#f0f0f0",
+    "pie1": "#205295",
+    "pie2": "#d62828",
     "pieSectionTextColor": "#ffffff",
-    "pie1": "#004c8c",
-    "pie2": "#d94236",
     "pieStrokeWidth": "0px",
     "pieOpacity": "1"
   }
