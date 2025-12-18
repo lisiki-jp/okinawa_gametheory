@@ -2546,5 +2546,22 @@ Click the bottom right cog icon to change the audio or sub.
 ---
 ignore this. this is just a trick to load mermaidjs in Github Pages.
 <script type="module">
-import e from"https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";e.initialize({startOnLoad:!1,theme:"dark"}),document.addEventListener("DOMContentLoaded",async()=>{let t=document.querySelectorAll("pre code.language-mermaid");for(let n of t){let r=n.innerText,a=document.createElement("div");a.classList.add("mermaid"),a.textContent=r,n.parentElement.parentElement.replaceChild(a,n.parentElement)}await e.run({querySelector:".mermaid"})});
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ 
+    startOnLoad: false,
+    theme: 'dark' 
+  });
+  document.addEventListener('DOMContentLoaded', async () => {
+    const elements = document.querySelectorAll('pre code.language-mermaid');
+    for (const element of elements) {
+      const graphDefinition = element.innerText;
+      const newDiv = document.createElement('div');
+      newDiv.classList.add('mermaid');
+      newDiv.textContent = graphDefinition;
+    element.parentElement.parentElement.replaceChild(newDiv, element.parentElement);
+    }
+    await mermaid.run({
+      querySelector: '.mermaid'
+    });
+  });
 </script>
