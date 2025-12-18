@@ -7,8 +7,9 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 
 ---
 
-Analysis on relocation project
-;todo: make this broader scope
+# Actions and statements are not aligned
+The three players in the Henoko project show the behavior not align with their stated intention.  
+Let's explore their logic behind it.  
 
 | Player                 | Stated Goal (What they SAY)           | Current Strategy (What they DO)                       | SAY and DO align? | Current Goal (What they WANT; estimated from observing)                                        | 
 | :--------------------- | :------------------------------------ | :---------------------------------------------------- | :---------------- | :--------------------------------------------------------------------------------------------- | 
@@ -516,7 +517,7 @@ They are newspaper companies.
 The profit is their goal.  
 Not the liberation of the Okinawa people.  
 
-#### Estimation of Okinawa Local Newspaper Market Share: 99.43%
+### Estimation of Okinawa Local Newspaper Market Share: 99.43%
 **Data sources**
 * National Papers Data(Based on ABC data 2024/07 - 2024/12): [読売新聞: 読売新聞 MEDIA GUIDE　2025-2026（販売部数と読者データ）](https://adv.yomiuri.co.jp/media/files/9027_data2025.pdf)
 * Okinawa Times Data(2025, August): [株式会社タイムスアドネクスト: 沖縄タイムス部数のお知らせ](https://times-adnext.co.jp/news/detail/5914/)
