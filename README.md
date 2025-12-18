@@ -1699,8 +1699,8 @@ correlation: 0.579
 (Source: Local newspaper share is from 新聞広告を介した情報流通の地域的差異性 福井一喜 2013. I counted the pixels. the paper is based on 2006～2007年（日本 ABC 協会第24回公査レポート))
 
 There could be many factors here. Business Logic of national newspapers are likely the most strongest one.
-CAE can also provide a explnation, that likely affecting in many cases.
-Getting aid(+E) hurts C., so if they want to feel better about themselves, they need to create their story(+C).
+CAE can also provide a explnation.
+Getting aid(+E) hurts C, so if they want to feel better about themselves. manipulation on C and E can be done easily by media.
 
 Sometime Okinawa newspaper is described as a tool of aid acquisition. But not only that, it can be a mechanism to stay sane in a situation where local pride is undermined. They need the narrative to keep them sane. If we want to address the media duopoly there, we need to give them replacement of the pride source.
 
