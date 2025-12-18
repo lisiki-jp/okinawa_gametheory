@@ -1,7 +1,7 @@
 [https://lisiki-jp.github.io/okinawa_gametheory/](https://lisiki-jp.github.io/okinawa_gametheory/)  
 
 # **Succeeded at failing: Why Okinawa is the poorest prefecture after 14.8 Trillion Yen aid. From a perspective of game theory.**
-by 伊波りしき (IHA Lisiki)   
+© 2025 伊波りしき. This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Based on selectorate theory, game theory, resource curse, aid curse, incentive analysis, and rational choice theory.
 
