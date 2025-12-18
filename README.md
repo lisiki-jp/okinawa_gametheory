@@ -1663,7 +1663,11 @@ Sometime Okinawa newspaper is described as a tool of aid acquisition. But not on
 Economic power prefecture doesn't need to maintain its pride. (C = A - E). They already have big enough A and have little aid from outside. Their identities are psychologically comfortable without creating a story.
 And still they can have an additional story, like Aichi. They do not require to have local story to be comfortable. That's why the high dependency prefectures almost always have a high local newspaper share.
 
+### Psychological need of Okinawa people
 
+They read the local papers not for information, but for validation. They need a daily confirmation that they are the protagonists of a tragedy (The Ryukyu Kingdom Struggle), not the recipients of a subsidy.
+
+The 99.4% share is the measure of how desperate that psychological need is.
 
 ### Conclusion: Stop the aid.  
 * The aid makes Okinawa hate Tokyo.  
