@@ -2545,4 +2545,6 @@ Click the bottom right cog icon to change the audio or sub.
 
 ---
 ignore this. this is just a trick to load mermaidjs in Github Pages.
-<script type="module">import m from'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';m.initialize({startOnLoad:0,theme:'dark'});document.querySelectorAll('pre code.language-mermaid').forEach(e=>{let d=document.createElement('div');d.className='mermaid';d.innerText=e.innerText;e.parentNode.replaceWith(d)});await m.run({querySelector:'.mermaid'})</script>
+<script type="module">
+import e from"https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";e.initialize({startOnLoad:!1,theme:"dark"}),document.addEventListener("DOMContentLoaded",async()=>{let t=document.querySelectorAll("pre code.language-mermaid");for(let n of t){let r=n.innerText,a=document.createElement("div");a.classList.add("mermaid"),a.textContent=r,n.parentElement.parentElement.replaceChild(a,n.parentElement)}await e.run({querySelector:".mermaid"})});
+</script>
