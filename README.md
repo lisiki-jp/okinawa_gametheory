@@ -18,8 +18,7 @@ xychart-beta
 ```
 (**Data Source:** e-Stat. FY2017 Settlement: the latest data available on e-stat at 2025/12) [https://www.e-stat.go.jp/dbview?sid=0003173301](https://www.e-stat.go.jp/dbview?sid=0003173301)    
 (Development aid = Natl. Treasury for Construction + Others; 国庫支出金:普通建設事業費支出金 + 国庫支出金:その他)  
-(Fukushima, 95%, is omitted because of meltdown recovering, and have no space here to explain. Compete data is in this report.)
-
+(Fukushima, 95%, is omitted because of the meltdown recovery, and there is no space here to explain. Complete data is in this report.)
 
 ---
 
