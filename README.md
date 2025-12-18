@@ -23,7 +23,7 @@ xychart-beta
 [Explanation and full data here](#okinawa-is-the-permanent-disaster-zone-financially)    
 
 ---
-### Okinawa local newspaper's political narrative dominance: 99.43%
+### Okinawa local newspaper's political narrative marketshare: 99.43%
 ```mermaid
 %%{init: {
   "theme": "base",
@@ -2443,10 +2443,6 @@ The model is simple to understand by anyone, it has strong predictive/explanator
 My next writing is likely about the model. I know you aren't interested in. But I'm excited about that idea.  
 And I have another plan to write a more dangerous report about the real world. Much impactful than this report. It's truly world-scale. I can't wait to deliver it to you.  
 Or I can go with Okinawa stuff with more data if you demand.  
-
-I often used "Okinawa" in this report for short for "Okinawa govt and Okinawa local media", which is too long. 
-The context would be enough to understand.  
-I might fix this later.  
 
 I know Okinawa researchers will not like this report, as Jared Diamond is hated among historians.  
 Outsider breaking things.  
