@@ -6,8 +6,10 @@
 Based on selectorate theory, game theory, resource curse, aid curse, incentive analysis, and rational choice theory.
 
 ---
+## Key data
 ### Reality-bending dependency
-Naha politicians' optimal financial strategy is vastly different from that of other prefectural governors.
+Naha politicians' optimal financial strategy is vastly different from that of other prefectural governors.  
+Naha has relatively small incentives to take care of the local economy, or a healthy local society that produces tax revenue.  
 
 ```mermaid
 xychart-beta
@@ -20,6 +22,7 @@ xychart-beta
 (**Data Source:** e-Stat. FY2017 Settlement: the latest data available on e-stat at 2025/12) [https://www.e-stat.go.jp/dbview?sid=0003173301](https://www.e-stat.go.jp/dbview?sid=0003173301)    
 (Development aid = Natl. Treasury for Construction + Others; 国庫支出金:普通建設事業費支出金 + 国庫支出金:その他)  
 (Fukushima, 95%, is omitted because of the meltdown recovery, and there is no space here to explain. Complete data is in this report.)
+
 
 ---
 
