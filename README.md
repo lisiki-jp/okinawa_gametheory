@@ -7,7 +7,7 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 
 ---
 ## Key data
-### Reality-bending dependency
+### Reality-bending dependency (Okinawa 108%; National avg 12%)
 Naha politicians' optimal financial strategy is vastly different from that of other prefectural governors.  
 Naha has relatively small incentives to take care of the local economy, or a healthy local society that produces tax revenue.  
 
