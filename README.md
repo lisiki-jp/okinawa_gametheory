@@ -484,7 +484,7 @@ Like you put money into a vending machine to make it output the value.
 
 Hokkaido is often criticized for its large development aid.  
 But as the table shows, the Aid/Tax ratio is not bad(26%). It's the 18th. It's massively efficient compared to Okinawa(108%).  
-I checked FY2000 data, and it's 21th. Hokkaido seems to be doing great.  
+I checked FY2000 data, and it's 21th. Hokkaido is not dependent on the development aid, unlike Okinawa.  
 It works because they have a clear way to convert the investment to value.  
 Food production is a clear role that Hokkaido has. And Hokkaido has the second-largest plain in Japan. Economic potential is easy to see.  
 
