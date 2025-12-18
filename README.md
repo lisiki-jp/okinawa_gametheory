@@ -1425,6 +1425,10 @@ It will be more effective if the student says, "I haven't slept, so I'm not in g
 Make the student equation a national level. Combine the effort and the natural intelligence into "Capability", that is the root of nationalism.  
 * **Percieved National Capability = Percieved National Achievement - Percieved Environmental Factors**
 
+$$
+C_p = A_p - E_p
+$$
+
 To short C = A - E
 National Capability(C) means the total perceived capability of a nation. This is the pride of nationalism. This is also a combined variable of National Natural Ability and National Effort.  
 Environmental Factor(E) means perceived factors that help an achievement, but not from the nationals. This includes Foreign Aid and Natural resources or anything useful, but not the people. This often acts as the parameter when actors manipulate the national esteem.  
