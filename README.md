@@ -2543,7 +2543,8 @@ That's why I wrote this report.
 Note: The video is in English, but don't worry. Because he uses clear PowerPoint slides for everything, the **YouTube Auto-Translate** function works surprisingly well.  
 Click the bottom right cog icon to change the audio or sub.  
 
-
+---
+ignore this. this is just a trick to load mermaidjs in Github Pages.
 <!-- Load Mermaid.js v10+ -->
 
 <script type="module">
