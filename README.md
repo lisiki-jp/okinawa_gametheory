@@ -1445,9 +1445,9 @@ C_p = A_p - E_p
 $$
 
 To short C = A - E
-National Capability(C) means the total perceived capability of a nation. This is the pride of nationalism. This is also a combined variable of National Natural Ability and National Effort.  
-Environmental Factor(E) means perceived factors that help an achievement, but not from the nationals. This includes Foreign Aid and Natural resources or anything useful, but not the people. This often acts as the parameter when actors manipulate the national esteem.  
-National Achievement(A) means the perceived greatness of national achievement. This is relatively hard to move, unless they reframe the achievement.  
+* National Capability(C) means the total perceived capability of a nation. This is the pride of nationalism. This is also a combined variable of National Natural Ability and National Effort.  
+* Environmental Factor(E) means perceived factors that help an achievement, but not from the nationals. This includes Foreign Aid and Natural resources or anything useful, but not the people. This often acts as the parameter when actors manipulate the national esteem.  
+* National Achievement(A) means the perceived greatness of national achievement. This is relatively hard to move, unless they reframe the achievement.  
 
 This simple "National Capability" model helps you understand any nationalism in our world.  
 
