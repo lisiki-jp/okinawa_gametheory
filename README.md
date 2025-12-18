@@ -2546,24 +2546,5 @@ Click the bottom right cog icon to change the audio or sub.
 ---
 
 <!-- Load Mermaid.js v10+ -->
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ 
-    startOnLoad: false,
-    theme: 'dark' 
-  });
-  document.addEventListener('DOMContentLoaded', async () => {
-    const elements = document.querySelectorAll('pre code.language-mermaid');
-    for (const element of elements) {
-      const graphDefinition = element.innerText;
-      const newDiv = document.createElement('div');
-      newDiv.classList.add('mermaid');
-      newDiv.textContent = graphDefinition;
-      element.parentElement.parentElement.replaceChild(newDiv, element.parentElement);
-    }
-    await mermaid.run({
-      querySelector: '.mermaid'
-    });
-  });
-</script>
+<script type="module">import m from'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';m.initialize({startOnLoad:0,theme:'dark'});document.querySelectorAll('pre code.language-mermaid').forEach(e=>{let d=document.createElement('div');d.className='mermaid';d.innerText=e.innerText;e.parentNode.replaceWith(d)});await m.run({querySelector:'.mermaid'})</script>
 
