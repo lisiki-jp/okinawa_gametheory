@@ -23,6 +23,15 @@ xychart-beta
 [Explanation here](#okinawa-is-the-permanent-disaster-zone-financially)    
 
 ---
+### Okinawa local media's political narrative dominance: 99.43%
+```mermaid
+pie title General Newspaper Marketshare in Okinawa
+    "Okinawa Local Newspapers" : 247893
+    "National Papers (without Nikkei)" : 1418
+```
+[Explanation here](#estimation-of-okinawa-local-newspaper-market-share-9943)    
+
+---
 
 ### Actions and statements are not aligned
 The three players in the Henoko project show the behavior not align with their stated intention.  
