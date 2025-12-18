@@ -2481,7 +2481,7 @@ This research book cited over 6,903 in Google Scholar. The usual citation in thi
 This is the foundational research in political science. Must read if you are interested in the scientific analysis of politics.  
 
 He also published the book for a broader audience, "The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics". 
-Highly recommended. The best book in my entire life.  
+Highly recommended. 
 The book is available in Japanese. The translation is substandard. I recommend that you refer to the original if you encounter a part that doesn't make sense.  
 The full text of the original book might be on the Online Burma/Myanmar Library, a non-profit website for humanitarian purposes.  
 I'm not sure if it's official or not, maybe unauthorized OCR. But good enough for double-checking the translation for free.  
