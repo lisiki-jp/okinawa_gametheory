@@ -180,7 +180,7 @@ The ruling party is not only a politician. They are the commander of the militar
 The military has a **duty to prepare for the worst.**
 And the worst is "the Okinawa independence" and independent Okinawa switches sides to China.  
 
-This is why. **It's their duty to weaken Okinawa**. Or at least that's what they think.  
+This is why. **It's their duty to weaken Okinawa**. Or at least that's what they likely thought.  
 
 **If the world consisted only of Japan. The dependent Okinawa plan is perfect.**
 But the world is not only Japan. And we have a **non-democratic China now richer than Japan**.  
