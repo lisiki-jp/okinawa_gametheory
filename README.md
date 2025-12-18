@@ -19,11 +19,8 @@ xychart-beta
     bar [3, 3, 4, 4, 4, 6, 7, 8, 8, 9, 9, 9, 10, 10, 10, 10, 11, 11, 12, 13, 14, 14, 15, 16, 17, 17, 18, 19, 19, 20, 21, 22, 23, 24, 24, 25, 26, 27, 32, 32, 34, 36, 38, 38, 39, 41, 108]
 
 ```
-(**Data Source:** e-Stat. FY2017 Settlement: the latest data available on e-stat at 2025/12) [https://www.e-stat.go.jp/dbview?sid=0003173301](https://www.e-stat.go.jp/dbview?sid=0003173301)    
-(Development aid = Natl. Treasury for Construction + Others; 国庫支出金:普通建設事業費支出金 + 国庫支出金:その他)  
-(Fukushima, 95%, is omitted because of the meltdown recovery, and there is no space here to explain. Complete data is in this report.)
-
-
+(Fukushima, 95%, is omitted because of the meltdown recovery.)
+[Explanation here](#okinawa-is-the-permanent-disaster-zone-financially)    
 ---
 
 ### Actions and statements are not aligned
