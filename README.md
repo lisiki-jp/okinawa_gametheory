@@ -20,19 +20,31 @@ xychart-beta
 
 ```
 (Fukushima, 95%, is omitted because of the meltdown recovery.)
-[Explanation here](#okinawa-is-the-permanent-disaster-zone-financially)    
+[Explanation and full data here](#okinawa-is-the-permanent-disaster-zone-financially)    
 
 ---
 ### Okinawa local media's political narrative dominance: 99.43%
 ```mermaid
-pie title Local vs. National in Okinawa
-    "Okinawa Local Newspapers" : 247893
-    "National Papers (without Nikkei)" : 1418
+%%{init: {
+  "theme": "dark",
+  "themeVariables": {
+    "pieTitleTextColor": "#ffffff",
+    "pieLegendTextColor": "#ffffff",
+    "pieSectionTextColor": "#ffffff",
+    "pieStrokeWidth": "0px",
+    "pieOpacity": "1"
+  }
+}}%%
+pie showData
+    title Local vs. National in Okinawa
+    "Okinawa (99.43%)" : 247893
+    "National Papers (0.57%)" : 1418
 ```
-[Explanation here](#estimation-of-okinawa-local-newspaper-market-share-9943)    
+National papers are invisible.
+Nikkei was excluded because of a narrative comparison on politics. 
+[Explanation and full data here](#estimation-of-okinawa-local-newspaper-market-share-9943)    
 
 ---
-
 ### Actions and statements are not aligned
 The three players in the Henoko project show the behavior not align with their stated intention.  
 Let's explore their logic behind it.  
