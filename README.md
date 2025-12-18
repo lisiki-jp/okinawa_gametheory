@@ -2553,7 +2553,7 @@ ignore this. this is just a trick to load mermaidjs in Github Pages.
   // Initialize mermaid
   mermaid.initialize({ 
     startOnLoad: false,
-    theme: 'default' 
+    theme: 'dark' 
   });
 
   // Find all code blocks with "language-mermaid" class (what Jekyll creates)
