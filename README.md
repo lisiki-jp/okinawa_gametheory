@@ -40,7 +40,7 @@ Based on "第5次沖縄県観光振興基本計画改定版" and e-Stat.
 They read the local papers not for information, but for validation. They need a daily confirmation that they are the protagonists of a tragedy, not the recipients of a subsidy.
 The 99.4% share is the measure of how desperate that psychological need is.
 
-![Chart](https://quickchart.io/chart?bkg=&c=%7B%0A%20%20type%3A%20%27pie%27%2C%0A%20%20data%3A%20%7B%0A%20%20%20%20datasets%3A%20%5B%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%22backgroundColor%22%3A%20%5B%22%23FF3784%22%2C%20%22%2336A2EB%22%2C%20%22%234BC0C0%22%2C%20%22%23F77825%22%2C%20%22%239966FF%22%5D%2C%0A%20%20%20%20%20%20%20%20%22data%22%3A%20%5B247893%2C%201418%5D%2C%0A%20%20%20%20%20%20%20%20%22borderWidth%22%3A%200%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22labels%22%3A%20%5B%22Okinawa%20Newspapers(99.43%25)%22%2C%20%22National%20Newspapers(0.57%25)%22%5D%2C%0A%20%20%7D%2C%0A%7D%0A)
+![Chart](https://quickchart.io/chart/render/zm-c3aaf2d7-17c5-4799-b7d7-0befaea02c92?f=.png)
 
 Nikkei was excluded because of a narrative comparison on politics. Also, Nikkei is parthner of Shimpo(the other four never got that position), it has proven by local papers that Nikkei is not a competitor for local papers.  
 *   **Okinawa Local Papers: Okinawa Times (124,255) + Ryukyu Shimpo(123,638) = **247,893** copies.  
