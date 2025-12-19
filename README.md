@@ -16,6 +16,9 @@ Naha has small (or negative to get more aid) incentives to take care of the loca
 
 
 (Fukushima, 95%, is omitted because of the meltdown recovery.)  
+(Data Source: e-Stat. FY2017 Settlement: the latest available on e-stat) https://www.e-stat.go.jp/dbview?sid=0003173301
+(Unit: Thousands of Yen)
+(Development aid = Natl. Treasury for Construction + Others; 国庫支出金:普通建設事業費支出金 + 国庫支出金:その他)  
 [Explanation and full data here](#okinawa-is-the-permanent-disaster-zone-financially)    
 
 ---
