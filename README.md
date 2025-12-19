@@ -1059,7 +1059,7 @@ https://ghostarchive.org/archive/7orrA (mirror: https://archive.md/AitCN)
 Beautiful story, I can see that the charismatic peace-loving king united the islands through his talk.  
 It sounds just like how Genghis Khan "united" the Eurasian steppe.  
 
-"Wait," you ask. "Did Genghis Khan create his empire by talking?"
+"Wait," you might ask. "Did Genghis Khan create his empire by talking?"
 You are right. I confused you. 
 Sho Hashi wasn't a peaceful negotiator. Think of him as Genghis Khan in Okinawa. He united the main island through iron.  
 
