@@ -43,7 +43,7 @@ The 99.4% share is the measure of how desperate that psychological need is.
 ![https://quickchart.io/chart-maker/edit/zm-6f4aee47-7068-4127-8150-96a57e70e396](https://quickchart.io/chart/render/zm-c3aaf2d7-17c5-4799-b7d7-0befaea02c92?f=.png)
 
 Nikkei was excluded because of a narrative comparison on politics. Also, Nikkei is parthner of Shimpo(the other four never got that position), it has proven by local papers that Nikkei is not a competitor for local papers.  
-*   **Okinawa Local Papers: Okinawa Times (124,255) + Ryukyu Shimpo(123,638) = **247,893** copies.  
+*   **Okinawa Local Papers**: Okinawa Times (124,255) + Ryukyu Shimpo(123,638) = **247,893** copies.  
 *   **National Papers (without Nikkei)**: Yomiuri(453) + Asahi(620) + Mainichi(189) + Sankei(156) = **1,418** copies.  
 [Explanation and full data here](#estimation-of-okinawa-local-newspaper-market-share-9943)
 
@@ -589,7 +589,7 @@ From the *Yomiuri Media Guide 2025-2026* (ABC data, average from 2024/07 - 2024/
 *   **Total Market Circulation**: 247,893 (Local) + 5,509 (National) = **253,402** copies.  
 *   **Local Press Market Share**: (247,893 / 253,402) * 100 = **97.83%**
 
-**Step 4: "Battle of Politics" (vs. Non-Nikkei Papers)
+** Step 4: Battle of Politics (vs. Non-Nikkei Papers) **
 Excluded Nikkei because it's not their competitor, as Simpo is a partner of Nikkei. I don't have to probe it because Simpo proved it. 
 Nikkei usually only provides economic stories, so it is not an obstacle for the local newspapers to spread political narratives.  
 
@@ -976,7 +976,7 @@ Creating the "Ming's Dejima" was the strategy of the Ming to counter piracy (Wak
 Work like this 
 1.  **Ming** hates Japan and pirates but needs Sulfur.  
 2.  **Ming** bans Japan. and made **Chuzan** a tributary to create the entrance of Japanese Sulfur. Ming only had to protect this single trade route against piracy(Wakou).  
-3.  **Ming** send iron weapons to **Chuzan **.  
+3.  **Ming** send iron weapons to **Chuzan**.  
 4.  **Chuzan** exploited the **iron weapon monopoly** to unify Okinawa.  
 5.  **Chuzan** sends the Volcanic Sulfur (from the Japan Honshu/Ryukyu arc) to China.  
 6.  **Ming** pays Chuzan in Porcelain/Silk/Coins.  
@@ -2116,7 +2116,7 @@ When you fix the math:
 1.  **Tourism is a rounding error.** It drops from a "Major Pillar" (19.2%) to a statistically insignificant **1.9%**.  
 2.  **Military > Tourism.** Even in the PDF, they tried to claim Tourism (19%) > Military (9%). In reality, **Military Rent (11%) is 5x more profitable than Tourism Business (2%).**
 3.  **The "Welfare State" Reality.** If you combine Subsidies (63%) and Pensions/Passive (24%), **87% of Okinawa's wealth comes from simply "receiving checks" from the mainland.**
-4.  **External aid share is 97.9%** Tourism practically doesn't exist from a profit perspective.  
+4.  **External aid share is 97.9%.** Tourism practically doesn't exist from a profit perspective.  
 
 This graph in the PDF is not just a mistake; it is fraudulent accounting designed to hide the fact that the entire tourism industry creates less net wealth for the island than the Military land rents do.  
 
