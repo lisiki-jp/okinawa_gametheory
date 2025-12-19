@@ -419,11 +419,60 @@ Let's start with data.
 
 And remember, this doesn't even include the Local Allocation Tax for salaries/operations, Social Security, or military rent. This is just the "Building & Development" money.  
 
-I did the same with the 2000 data.  
-Again, Okinawa is the 1st (183%). And Tokyo at 48th (6%).  
-Fukushima (26th) and Kumamoto (20th). This aligns with disaster relief hypotheses.  
-National avg (32%), so I guess we were building infrastructure harder in 2000 than in 2017.  
-Since the Okinawa Promotion budget is not shrinking, and building infrastructure seems down trend, the 2025 data is likely to have a more stark Okinawa anomaly. (Please update e-Stat. Dear govt)
+### aid/tax ratio (1989-2017): Okinawa 157.2%, Nationwide avg 24.9%.
+| Name | Average of aid/tax ratio (1989-2017) |
+| ---------- | ------------------------ |
+| 沖縄 (Okinawa)    | 157.2%                   |
+| 島根 (Shimane)    | 109.2%                   |
+| 高知 (Kochi)    | 95.5%                    |
+| 鹿児島 (Kagoshima)     | 94.1%                    |
+| 福島 (Fukushima)    | 88.3%                    |
+| 長崎 (Nagasaki)    | 87.2%                    |
+| 鳥取 (Tottori)    | 82.4%                    |
+| 宮崎 (Miyazaki)    | 81.0%                    |
+| 岩手 (Iwate)    | 79.8%                    |
+| 秋田 (Akita)    | 78.2%                    |
+| 大分 (Oita)    | 67.0%                    |
+| 青森 (Aomori)    | 66.7%                    |
+| 徳島 (Tokushima)    | 66.0%                    |
+| 佐賀 (Saga)    | 61.9%                    |
+| 熊本 (Kumamoto)    | 61.4%                    |
+| 山形 (Yamagata)    | 59.1%                    |
+| 新潟 (Niigata)    | 54.1%                    |
+| 和歌山 (Wakayama)     | 54.1%                    |
+| 北海道 (Hokkaido)    | 53.5%                    |
+| 山梨 (Yamanashi)    | 53.3%                    |
+| 福井 (Fukui)    | 49.8%                    |
+| 山口 (Yamaguchi)    | 45.5%                    |
+| 愛媛 (Ehime)    | 43.1%                    |
+| 富山 (Toyama)    | 41.2%                    |
+| 石川 (Ishikawa)    | 40.7%                    |
+| 宮城 (Miyagi)    | 40.0%                    |
+| 長野 (Nagano)    | 37.2%                    |
+| 奈良 (Nara)    | 33.0%                    |
+| 岐阜 (Gifu)    | 32.1%                    |
+| 広島 (Hiroshima)    | 30.5%                    |
+| 香川 (Kagawa)    | 29.5%                    |
+| 岡山 (Okayama)    | 29.1%                    |
+| 滋賀 (Shiga)    | 27.4%                    |
+| 群馬 (Gunma)    | 25.8%                    |
+| 三重 (Mie)    | 25.7%                    |
+| 栃木 (Tochigi)    | 25.1%                    |
+| 全国 (Nationwide)   | 24.9%                    |
+| 兵庫 (Hyogo)    | 23.2%                    |
+| 茨城 (Ibaraki)    | 22.0%                    |
+| 福岡 (Fukuoka)    | 20.6%                    |
+| 静岡 (Shizuoka)    | 17.3%                    |
+| 京都 (Kyoto)    | 16.4%                    |
+| 千葉 (Chiba)    | 15.9%                    |
+| 埼玉 (Saitama)    | 12.0%                    |
+| 大阪 (Osaka)    | 10.7%                    |
+| 愛知 (Aichi)    | 10.1%                    |
+| 神奈川 (Kanagawa)     | 7.3%                     |
+| 東京 (Tokyo)    | 4.7%                     |
+
+This is the all data available in e-Stat I could find.
+Seems like Okinawa anomaly is accelarating.
 
 ### Naha politician's optimal financial strategy: Keep Okinawa poor for Money Begging 
 What data tells you is this.  
