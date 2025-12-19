@@ -2423,6 +2423,10 @@ If you know an influential figure—a YouTuber, a politician, a professor, a jou
 ---
 # Author's Note 
 
+e-Stat is so outdated. It's unbearable transparency for a democratic country.  
+We should pass the law to make it an obligation for the government to make information public. Like Swedes do.  
+We have to demand it to decide for ourselves. As we have learned in this report, politicians' interest is often not aligned with those of citizens. 
+
 I wrote this entire report in a kitchen, standing, because I'm too broke to buy a desk. 
 And I find this is a pretty great place for writing. I can stack pots to adjust the height of the laptop. 
 I can have a little walk to think without switching between sitting and standing.  
