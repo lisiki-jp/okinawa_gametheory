@@ -2191,9 +2191,6 @@ These are products you can sell to New York, London, and Paris instantly.
 *   **Software/Anime/Gaming:** **Zero shipping costs.**
 
 Software has no shipping costs. It doesn't care that Okinawa is an island. It doesn't need a deep-water port.  
-They only need human brains. And Okinawa has one of the best creative brains.  
-
-** The "Beach" has a limit. "Creativity" has no limit. **
 
 ### Future 3. The Physical Bottleneck: Car-free living for people and business.  
 But to unleash this Digital Industry, we need the right environment.  
