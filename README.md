@@ -40,7 +40,7 @@ Based on "第5次沖縄県観光振興基本計画改定版" and e-Stat.
 They read the local papers not for information, but for validation. They need a daily confirmation that they are the protagonists of a tragedy, not the recipients of a subsidy.
 The 99.4% share is the measure of how desperate that psychological need is.
 
-![Chart](https://quickchart.io/chart/render/zm-c3aaf2d7-17c5-4799-b7d7-0befaea02c92?f=.png)
+![https://quickchart.io/chart-maker/edit/zm-6f4aee47-7068-4127-8150-96a57e70e396](https://quickchart.io/chart/render/zm-c3aaf2d7-17c5-4799-b7d7-0befaea02c92?f=.png)
 
 Nikkei was excluded because of a narrative comparison on politics. Also, Nikkei is parthner of Shimpo(the other four never got that position), it has proven by local papers that Nikkei is not a competitor for local papers.  
 *   **Okinawa Local Papers: Okinawa Times (124,255) + Ryukyu Shimpo(123,638) = **247,893** copies.  
