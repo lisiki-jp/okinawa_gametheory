@@ -1,4 +1,8 @@
-* mermaidjs
+# v0.3
+* ~Choose License~
+
+* ~mermaidjs~
+* chart.js and mkdoc
     * visualize table data
     * separate table data to different file
 

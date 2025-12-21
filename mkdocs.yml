@@ -1,0 +1,67 @@
+site_name: "Succeeded at failing: Solving Okinawa by Game Theory"
+site_description: Why Okinawa is the poorest prefecture after 14.8 Trillion Yen aid. From a perspective of game theory.
+
+# This sets your files (Optional). 
+# If you DELETE this 'nav' section, it will auto-discover files alphabetically!
+
+# This loads Chart.js on every page automatically
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/chart.js
+
+theme:
+  name: material
+  features:
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    # - content.code.select
+    # - content.footnote.tooltips
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+    # - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon-32x32.png
+  icon:
+    logo: logo
+
+hooks:
+  - assets/hook_strip_number.py

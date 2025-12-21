@@ -6,10 +6,51 @@
 Based on selectorate theory, game theory, resource curse, aid curse, incentive analysis, and rational choice theory.
 
 ---
+## Key data
+### Desicion-currupting dependency (Okinawa 107.6%; National avg 11.5%)
+Naha politicians' optimal financial strategy is vastly different from that of other prefectural governors.  
+Naha has small (or negative to get more aid) incentives to take care of the local economy, or a healthy local society that produces tax revenue.  
 
-# Actions and statements are not aligned
+
+![https://quickchart.io/sandbox/#%7B%22chart%22%3A%22%7B%5Cr%5Cn%20%20%5C%22type%5C%22%3A%20%5C%22bar%5C%22%2C%5Cr%5Cn%20%20%5C%22data%5C%22%3A%20%7B%5Cr%5Cn%20%20%20%20%5C%22labels%5C%22%3A%20%5B%5Cr%5Cn%5C%22Tokyo%20(3.1%25)%5C%22%2C%5C%22Kanagawa%20(3.2%25)%5C%22%2C%5C%22Osaka%20(4.2%25)%5C%22%2C%5C%22Aichi%20(4.4%25)%5C%22%2C%5C%22Saitama%20(4.5%25)%5C%22%2C%5C%22Shizuoka%20(6.5%25)%5C%22%2C%5C%22Ibaraki%20(6.9%25)%5C%22%2C%5C%22Hyogo%20(7.7%25)%5C%22%2C%5C%22Chiba%20(8.3%25)%5C%22%2C%5C%22Gunma%20(8.6%25)%5C%22%2C%5C%22Tochigi%20(8.9%25)%5C%22%2C%5C%22Shiga%20(8.9%25)%5C%22%2C%5C%22Kyoto%20(9.6%25)%5C%22%2C%5C%22Hiroshima%20(9.7%25)%5C%22%2C%5C%22Okayama%20(10.0%25)%5C%22%2C%5C%22Fukuoka%20(10.4%25)%5C%22%2C%5C%22Nagano%20(10.8%25)%5C%22%2C%5C%22Mie%20(11.2%25)%5C%22%2C%5C%22Nationwide%20(11.5%25)%5C%22%2C%5C%22Gifu%20(12.8%25)%5C%22%2C%5C%22Kagawa%20(13.5%25)%5C%22%2C%5C%22Ehime%20(14.4%25)%5C%22%2C%5C%22Ishikawa%20(15.2%25)%5C%22%2C%5C%22Nara%20(15.7%25)%5C%22%2C%5C%22Yamanashi%20(16.6%25)%5C%22%2C%5C%22Yamaguchi%20(17.4%25)%5C%22%2C%5C%22Toyama%20(17.6%25)%5C%22%2C%5C%22Fukui%20(18.6%25)%5C%22%2C%5C%22Tokushima%20(19.4%25)%5C%22%2C%5C%22Miyagi%20(20.3%25)%5C%22%2C%5C%22Niigata%20(21.4%25)%5C%22%2C%5C%22Aomori%20(22.4%25)%5C%22%2C%5C%22Saga%20(23.4%25)%5C%22%2C%5C%22Wakayama%20(23.8%25)%5C%22%2C%5C%22Yamagata%20(24.4%25)%5C%22%2C%5C%22Oita%20(24.6%25)%5C%22%2C%5C%22Hokkaido%20(25.6%25)%5C%22%2C%5C%22Kochi%20(27.2%25)%5C%22%2C%5C%22Tottori%20(31.7%25)%5C%22%2C%5C%22Shimane%20(31.8%25)%5C%22%2C%5C%22Akita%20(34.3%25)%5C%22%2C%5C%22Iwate%20(35.6%25)%5C%22%2C%5C%22Miyazaki%20(37.5%25)%5C%22%2C%5C%22Nagasaki%20(37.9%25)%5C%22%2C%5C%22Kagoshima%20(38.7%25)%5C%22%2C%5C%22Kumamoto%20(41.1%25)%5C%22%2C%5C%22Okinawa%20(107.6%25)%5C%22%20%20%20%20%5D%2C%5Cr%5Cn%20%20%20%20%5C%22datasets%5C%22%3A%20%5B%7B%5Cr%5Cn%20%20%20%20%20%20%5C%22label%5C%22%3A%20%5C%22Development%20Aid%2F%20Local%20Tax%20ratio%20(%25)%5C%22%2C%5Cr%5Cn%20%20%20%20%20%20%5C%22data%5C%22%3A%20%5B%5Cr%5Cn%20%20%20%20%20%20%20%203.1%2C%203.2%2C%204.2%2C%204.4%2C%204.5%2C%206.5%2C%206.9%2C%207.7%2C%208.3%2C%208.6%2C%208.9%2C%208.9%2C%209.6%2C%209.7%2C%2010.0%2C%20%5Cr%5Cn%20%20%20%20%20%20%20%2010.4%2C%2010.8%2C%2011.2%2C%2011.5%2C%2012.8%2C%2013.5%2C%2014.4%2C%2015.2%2C%2015.7%2C%2016.6%2C%2017.4%2C%2017.6%2C%2018.6%2C%20%5Cr%5Cn%20%20%20%20%20%20%20%2019.4%2C%2020.3%2C%2021.4%2C%2022.4%2C%2023.4%2C%2023.8%2C%2024.4%2C%2024.6%2C%2025.6%2C%2027.2%2C%2031.7%2C%2031.8%2C%2034.3%2C%20%5Cr%5Cn%20%20%20%20%20%20%20%2035.6%2C%2037.5%2C%2037.9%2C%2038.7%2C%2041.1%2C%20107.6%5Cr%5Cn%20%20%20%20%20%20%5D%2C%5Cr%5Cn%20%20%20%20%20%20%5C%22backgroundColor%5C%22%3A%20%5C%22rgba(54%2C%20162%2C%20235%2C%200.5)%5C%22%2C%5Cr%5Cn%20%20%20%20%20%20%5C%22borderColor%5C%22%3A%20%5C%22rgba(54%2C%20162%2C%20235%2C%201)%5C%22%2C%5Cr%5Cn%20%20%20%20%20%20%5C%22borderWidth%5C%22%3A%201%5Cr%5Cn%20%20%20%20%7D%5D%5Cr%5Cn%20%20%7D%2C%5Cr%5Cn%20%20%5C%22options%5C%22%3A%20%7B%5Cr%5Cn%20%20%20%20%5C%22title%5C%22%3A%20%7B%5Cr%5Cn%20%20%20%20%20%20%5C%22display%5C%22%3A%20true%2C%5Cr%5Cn%20%20%20%20%20%20%5C%22text%5C%22%3A%20%5C%22Desicion-currupting%20dependency%20(Okinawa%20108%25%3B%20National%20avg%2012%25)%20latest%20from%20e-Stat%5C%5Cn%20lisiki-jp.github.io%2Fokinawa_gametheory%5C%22%5Cr%5Cn%20%20%20%20%7D%2C%5Cr%5Cn%20%20%20%20%5C%22scales%5C%22%3A%20%7B%5Cr%5Cn%20%20%20%20%20%20%5C%22xAxes%5C%22%3A%20%5B%7B%5Cr%5Cn%20%20%20%20%20%20%20%20%5C%22ticks%5C%22%3A%20%7B%5Cr%5Cn%20%20%20%20%20%20%20%20%20%20%5C%22autoSkip%5C%22%3A%20false%2C%5Cr%5Cn%20%20%20%20%20%20%20%20%20%20%5C%22minRotation%5C%22%3A%2090%5Cr%5Cn%20%20%20%20%20%20%20%20%7D%5Cr%5Cn%20%20%20%20%20%20%7D%5D%5Cr%5Cn%20%20%20%20%7D%5Cr%5Cn%20%20%7D%5Cr%5Cn%7D%5Cr%5Cn%22%2C%22width%22%3A900%2C%22height%22%3A500%2C%22version%22%3A%222%22%2C%22backgroundColor%22%3A%22%23fff%22%7D](https://quickchart.io/chart/render/zf-fb5a79cc-38d2-45b9-9192-2683f6a71fc9)
+
+
+(Fukushima, 95%, is omitted because of the meltdown recovery.)  
+(Data Source: e-Stat. FY2017 Settlement: the latest available on e-stat) https://www.e-stat.go.jp/dbview?sid=0003173301  
+(Development aid = Natl. Treasury for Construction + Others; 国庫支出金:普通建設事業費支出金 + 国庫支出金:その他)  
+[Explanation and full data here](#okinawa-is-the-permanent-disaster-zone-financially)    
+
+---
+### Mulfunctioning Tourism: Profit comparison
+
+Okinawa has been trying the 'Tourism Strategy' since the Ocean Expo in 1975. That is 50 Years.
+If a core business strategy hasn't turned a profit in 50 years, yet you refuse to change course and demand more money to double down... that is not a 'Plan.' It is a Religion.  
+Okinawa govt claims that "Tourism is bigger than military rent," but reality is tourism only generate fraction of the profit compared to military rent.
+
+![https://quickchart.io/sandbox/#%7B%22chart%22%3A%22%7B%5Cr%5Cn%20%20%5C%22type%5C%22%3A%20%5C%22outlabeledPie%5C%22%2C%5Cr%5Cn%20%20%5C%22data%5C%22%3A%20%7B%5Cr%5Cn%20%20%20%20%5C%22labels%5C%22%3A%20%5B%5C%22Fiscal%20Aid%20(Subsidies)%2063.0%25%5C%22%2C%5C%22Other%20(Social%20Security)%2023.7%25%5C%22%2C%5C%22Military%20(Rent)%2011.2%25%5C%22%2C%5C%22Tourism%20(Business%20Profit)%201.9%25%5C%22%2C%5C%22Petroleum%200.2%25%5C%22%5D%2C%5Cr%5Cn%20%20%20%20%5C%22datasets%5C%22%3A%20%5B%7B%5Cr%5Cn%20%20%20%20%20%20%20%20%5C%22backgroundColor%5C%22%3A%20%5B%5C%22%23FF3784%5C%22%2C%20%5C%22%2336A2EB%5C%22%2C%20%5C%22%234BC0C0%5C%22%2C%20%5C%22%23F77825%5C%22%2C%20%5C%22%239966FF%5C%22%5D%2C%5Cr%5Cn%20%20%20%20%20%20%20%20%5C%22data%5C%22%3A%20%5B63.00%2C23.70%2C11.20%2C1.90%2C0.20%5D%5Cr%5Cn%20%20%20%20%7D%5D%5Cr%5Cn%20%20%7D%2C%5Cr%5Cn%20%20%5C%22options%5C%22%3A%20%7B%5Cr%5Cn%20%20%20%20%5C%22title%5C%22%3A%20%7B%5Cr%5Cn%20%20%20%20%20%20%5C%22display%5C%22%3A%20true%2C%5Cr%5Cn%20%20%20%20%20%20%5C%22text%5C%22%3A%20%5C%22OKINAWA%20INDUSTRY%20PROFIT%20COMPARISON%5C%5Cnlisiki-jp.github.io%2Fokinawa_gametheory%5C%22%5Cr%5Cn%20%20%20%20%7D%2C%5Cr%5Cn%20%20%20%20%5C%22plugins%5C%22%3A%20%7B%5Cr%5Cn%20%20%20%20%20%20%5C%22legend%5C%22%3A%20false%2C%5Cr%5Cn%5Cr%5Cn%20%20%20%20%20%20%5C%22outlabels%5C%22%3A%20%7B%5Cr%5Cn%20%20%20%20%20%20%20%20%5C%22text%5C%22%3A%20%5C%22%25l%5C%22%2C%5Cr%5Cn%20%20%20%20%20%20%20%20%5C%22color%5C%22%3A%20%5C%22white%5C%22%2C%5Cr%5Cn%20%20%20%20%20%20%20%20%5C%22stretch%5C%22%3A%202%2C%5Cr%5Cn%20%20%20%20%20%20%20%20%5C%22font%5C%22%3A%20%7B%5Cr%5Cn%20%20%20%20%20%20%20%20%20%20%5C%22resizable%5C%22%3A%20true%2C%5Cr%5Cn%20%20%20%20%20%20%20%20%20%20%5C%22minSize%5C%22%3A%2012%2C%5Cr%5Cn%20%20%20%20%20%20%20%20%20%20%5C%22maxSize%5C%22%3A%2018%5Cr%5Cn%20%20%20%20%20%20%20%20%7D%5Cr%5Cn%20%20%20%20%20%20%7D%5Cr%5Cn%20%20%20%20%7D%5Cr%5Cn%20%20%7D%5Cr%5Cn%7D%22%2C%22width%22%3A500%2C%22height%22%3A300%2C%22version%22%3A%222%22%2C%22backgroundColor%22%3A%22%23fff%22%7D](https://quickchart.io/chart/render/zf-4a2c9bfa-107c-44f0-affe-1b9934c9fb37)
+
+Based on "第5次沖縄県観光振興基本計画改定版" and e-Stat.  
+The terminology here is following the document from Okinawa govt.  
+[Explanation and full data here](#the-profit-vs-the-revenue-stasstical-deception-to-mix-different-figures)    
+
+---
+### Okinawa local newspaper's political narrative marketshare: 99.43%
+
+They read the local papers not for information, but for validation. They need a daily confirmation that they are the protagonists of a tragedy, not the recipients of a subsidy.
+The 99.4% share is the measure of how desperate that psychological need is.
+
+![https://quickchart.io/chart-maker/edit/zm-7143138a-5399-4cad-b4b4-fdf2f48dda4a](https://quickchart.io/chart/render/zm-7143138a-5399-4cad-b4b4-fdf2f48dda4a)
+
+Nikkei was excluded because of a narrative comparison on politics. Also, Nikkei is parthner of Shimpo(the other four never got that position), it has proven by local papers that Nikkei is not a competitor for local papers.  
+*   **Okinawa Local Papers**: Okinawa Times (124,255) + Ryukyu Shimpo(123,638) = **247,893** copies.  
+*   **National Papers (without Nikkei)**: Yomiuri(453) + Asahi(620) + Mainichi(189) + Sankei(156) = **1,418** copies.  
+[Explanation and full data here](#estimation-of-okinawa-local-newspaper-market-share-9943)
+
+---
+### Actions and statements are not aligned
 The three players in the Henoko project show the behavior not align with their stated intention.  
-Let's explore their logic behind it.  
+We have to know the real intent of these three.
+
 
 | Player                 | Stated Goal (What they SAY)           | Current Strategy (What they DO)                       | SAY and DO align? | Current Goal (What they WANT; estimated from observing)                                        | 
 | :--------------------- | :------------------------------------ | :---------------------------------------------------- | :---------------- | :--------------------------------------------------------------------------------------------- | 
@@ -180,7 +221,7 @@ The ruling party is not only a politician. They are the commander of the militar
 The military has a **duty to prepare for the worst.**
 And the worst is "the Okinawa independence" and independent Okinawa switches sides to China.  
 
-This is why. **It's their duty to weaken Okinawa**. Or at least that's what they think.  
+This is why. **It's their duty to weaken Okinawa**. Or at least that's what they likely thought.  
 
 **If the world consisted only of Japan. The dependent Okinawa plan is perfect.**
 But the world is not only Japan. And we have a **non-democratic China now richer than Japan**.  
@@ -206,7 +247,7 @@ It is a 'Perfect Crime' where no one has to be the villain, but everyone is an a
 
 My solution is this: Make Okinawa love **democracy** and make them wealthy as mainland Japanese.  
 What **China will never be able to give Okinawa is democracy**. And we have that. 
-Okinawans will never get the majority in geopolitics. **A good democracy that can reflect the minority's will is the only answer** for their prosperity.  
+Okinawans will never get the majority in geopolitics. **A good democracy that can reflect the minority's will is the only answer** for their prosperity.(This is historically proven; we will learn about it in the history chapter in this report.)  
 **We can provide that, and China can't.** 
 
 But currently, we are failing to do that.  
@@ -215,7 +256,7 @@ Look at Taiwan. They speak Chinese. But they are fighting fiercely to protect th
 Because they love democracy. It's precious. It's hard to come by. We often forget that because we luckily have that from birth.  
 Also, they are rich; communist China could confiscate their asset. That's unthinkable for Taiwanese.  
 
-People of Okinawa have no great memory of democracy. (Actually, they had been benefiting from it massively, but they don't know. Because the symbolic event is not there. And there is no public attention on the benefit. We will explore this later in this report.)
+People of Okinawa have no great memory of democracy. (Actually, they had been benefiting from it massively.)
 They vote for anti-bases, and politicians achieve nothing.  
 That's all they know about democracy.  
 
@@ -307,58 +348,10 @@ You call it failure, politicians in Naha call it success.
 
 Let's start with data.  
 
-### External Development Aid vs. Local Tax Revenue: Okinawa anomaly(108%; national avg 12%)
+### External Development Aid vs. Local Tax Revenue(the latest): Okinawa anomaly(108%; national avg 12%)
 
-| Prefecture | Local Tax Revenue | Development aid | aid/tax ratio |
-| :--- | :---: | :---: | :---: |
-| **沖縄県 (Okinawa)** | 147,904,573 | 159,135,659 | 108% |
-| 福島県 (Fukushima) | 270,982,365 | 257,156,091 | 95% |
-| 熊本県 (Kumamoto) | 201,888,053 | 82,986,333 | 41% |
-| 鹿児島県 (Kagoshima) | 180,084,010 | 69,750,007 | 39% |
-| 長崎県 (Nagasaki) | 142,807,843 | 54,093,986 | 38% |
-| 宮崎県 (Miyazaki) | 123,635,388 | 46,382,820 | 38% |
-| 岩手県 (Iwate) | 155,951,549 | 55,475,489 | 36% |
-| 秋田県 (Akita) | 113,824,612 | 39,042,944 | 34% |
-| 島根県 (Shimane) | 80,604,106 | 25,640,722 | 32% |
-| 鳥取県 (Tottori) | 66,401,665 | 21,045,802 | 32% |
-| 高知県 (Kochi) | 79,904,593 | 21,763,345 | 27% |
-| 北海道 (Hokkaido) | 695,812,140 | 177,861,442 | 26% |
-| 大分県 (Oita) | 137,654,929 | 33,917,378 | 25% |
-| 山形県 (Yamagata) | 131,492,453 | 32,044,570 | 24% |
-| 和歌山県 (Wakayama) | 108,128,102 | 25,756,170 | 24% |
-| 佐賀県 (Saga) | 100,802,437 | 23,612,126 | 23% |
-| 青森県 (Aomori) | 167,954,955 | 37,689,562 | 22% |
-| 新潟県 (Niigata) | 291,298,597 | 62,373,599 | 21% |
-| 宮城県 (Miyagi) | 335,182,778 | 68,012,708 | 20% |
-| 徳島県 (Tokushima) | 92,577,230 | 17,962,979 | 19% |
-| 福井県 (Fukui) | 120,537,658 | 22,435,625 | 19% |
-| 富山県 (Toyama) | 148,625,171 | 26,105,147 | 18% |
-| 山口県 (Yamaguchi) | 180,715,192 | 31,377,753 | 17% |
-| 山梨県 (Yamanashi) | 114,451,378 | 19,037,293 | 17% |
-| 奈良県 (Nara) | 146,746,601 | 23,092,675 | 16% |
-| 石川県 (Ishikawa) | 163,880,011 | 24,913,105 | 15% |
-| 愛媛県 (Ehime) | 166,509,638 | 23,961,212 | 14% |
-| 香川県 (Kagawa) | 135,107,965 | 18,301,151 | 14% |
-| 岐阜県 (Gifu) | 266,772,434 | 34,175,782 | 13% |
-| 全国 (Nationwide) | 20,542,834,702 | 2,367,416,672 | 12% |
-| 三重県 (Mie) | 260,275,786 | 29,277,433 | 11% |
-| 長野県 (Nagano) | 274,773,737 | 29,563,329 | 11% |
-| 福岡県 (Fukuoka) | 660,081,826 | 68,473,548 | 10% |
-| 岡山県 (Okayama) | 251,618,522 | 25,236,840 | 10% |
-| 広島県 (Hiroshima) | 386,249,528 | 37,552,693 | 10% |
-| 京都府 (Kyoto) | 334,538,245 | 31,961,897 | 10% |
-| 滋賀県 (Shiga) | 190,095,235 | 16,958,990 | 9% |
-| 栃木県 (Tochigi) | 289,130,264 | 25,769,367 | 9% |
-| 群馬県 (Gunma) | 275,828,373 | 23,685,511 | 9% |
-| 千葉県 (Chiba) | 820,359,033 | 68,477,592 | 8% |
-| 兵庫県 (Hyogo) | 723,040,976 | 55,549,819 | 8% |
-| 茨城県 (Ibaraki) | 411,107,290 | 28,548,202 | 7% |
-| 静岡県 (Shizuoka) | 556,619,879 | 36,133,748 | 6% |
-| 埼玉県 (Saitama) | 895,524,715 | 39,895,493 | 4% |
-| 愛知県 (Aichi) | 1,231,373,367 | 54,745,560 | 4% |
-| 大阪府 (Osaka) | 1,328,869,569 | 55,471,195 | 4% |
-| 神奈川県 (Kanagawa) | 1,295,865,290 | 40,968,709 | 3% |
-| 東京都 (Tokyo) | 5,289,244,641 | 164,043,271 | 3% |
+![https://quickchart.io/sandbox/#%7B%22chart%22%3A%22%7B%5Cr%5Cn%20%20%5C%22type%5C%22%3A%20%5C%22bar%5C%22%2C%5Cr%5Cn%20%20%5C%22data%5C%22%3A%20%7B%5Cr%5Cn%20%20%20%20%5C%22labels%5C%22%3A%20%5B%5Cr%5Cn%5C%22Tokyo%20(3.1%25)%5C%22%2C%5C%22Kanagawa%20(3.2%25)%5C%22%2C%5C%22Osaka%20(4.2%25)%5C%22%2C%5C%22Aichi%20(4.4%25)%5C%22%2C%5C%22Saitama%20(4.5%25)%5C%22%2C%5C%22Shizuoka%20(6.5%25)%5C%22%2C%5C%22Ibaraki%20(6.9%25)%5C%22%2C%5C%22Hyogo%20(7.7%25)%5C%22%2C%5C%22Chiba%20(8.3%25)%5C%22%2C%5C%22Gunma%20(8.6%25)%5C%22%2C%5C%22Tochigi%20(8.9%25)%5C%22%2C%5C%22Shiga%20(8.9%25)%5C%22%2C%5C%22Kyoto%20(9.6%25)%5C%22%2C%5C%22Hiroshima%20(9.7%25)%5C%22%2C%5C%22Okayama%20(10.0%25)%5C%22%2C%5C%22Fukuoka%20(10.4%25)%5C%22%2C%5C%22Nagano%20(10.8%25)%5C%22%2C%5C%22Mie%20(11.2%25)%5C%22%2C%5C%22Nationwide%20(11.5%25)%5C%22%2C%5C%22Gifu%20(12.8%25)%5C%22%2C%5C%22Kagawa%20(13.5%25)%5C%22%2C%5C%22Ehime%20(14.4%25)%5C%22%2C%5C%22Ishikawa%20(15.2%25)%5C%22%2C%5C%22Nara%20(15.7%25)%5C%22%2C%5C%22Yamanashi%20(16.6%25)%5C%22%2C%5C%22Yamaguchi%20(17.4%25)%5C%22%2C%5C%22Toyama%20(17.6%25)%5C%22%2C%5C%22Fukui%20(18.6%25)%5C%22%2C%5C%22Tokushima%20(19.4%25)%5C%22%2C%5C%22Miyagi%20(20.3%25)%5C%22%2C%5C%22Niigata%20(21.4%25)%5C%22%2C%5C%22Aomori%20(22.4%25)%5C%22%2C%5C%22Saga%20(23.4%25)%5C%22%2C%5C%22Wakayama%20(23.8%25)%5C%22%2C%5C%22Yamagata%20(24.4%25)%5C%22%2C%5C%22Oita%20(24.6%25)%5C%22%2C%5C%22Hokkaido%20(25.6%25)%5C%22%2C%5C%22Kochi%20(27.2%25)%5C%22%2C%5C%22Tottori%20(31.7%25)%5C%22%2C%5C%22Shimane%20(31.8%25)%5C%22%2C%5C%22Akita%20(34.3%25)%5C%22%2C%5C%22Iwate%20(35.6%25)%5C%22%2C%5C%22Miyazaki%20(37.5%25)%5C%22%2C%5C%22Nagasaki%20(37.9%25)%5C%22%2C%5C%22Kagoshima%20(38.7%25)%5C%22%2C%5C%22Kumamoto%20(41.1%25)%5C%22%2C%5C%22Fukushima%20(94.9%25)%5C%22%2C%5C%22Okinawa%20(107.6%25)%5C%22%20%20%20%20%5D%2C%5Cr%5Cn%20%20%20%20%5C%22datasets%5C%22%3A%20%5B%7B%5Cr%5Cn%20%20%20%20%20%20%5C%22label%5C%22%3A%20%5C%22Development%20Aid%2F%20Local%20Tax%20ratio%20(%25)%5C%22%2C%5Cr%5Cn%20%20%20%20%20%20%5C%22data%5C%22%3A%20%5B%5Cr%5Cn%20%20%20%20%20%20%20%203.1%2C%203.2%2C%204.2%2C%204.4%2C%204.5%2C%206.5%2C%206.9%2C%207.7%2C%208.3%2C%208.6%2C%208.9%2C%208.9%2C%209.6%2C%209.7%2C%2010.0%2C%20%5Cr%5Cn%20%20%20%20%20%20%20%2010.4%2C%2010.8%2C%2011.2%2C%2011.5%2C%2012.8%2C%2013.5%2C%2014.4%2C%2015.2%2C%2015.7%2C%2016.6%2C%2017.4%2C%2017.6%2C%2018.6%2C%20%5Cr%5Cn%20%20%20%20%20%20%20%2019.4%2C%2020.3%2C%2021.4%2C%2022.4%2C%2023.4%2C%2023.8%2C%2024.4%2C%2024.6%2C%2025.6%2C%2027.2%2C%2031.7%2C%2031.8%2C%2034.3%2C%20%5Cr%5Cn%20%20%20%20%20%20%20%2035.6%2C%2037.5%2C%2037.9%2C%2038.7%2C%2041.1%2C%2094.9%2C%20107.6%5Cr%5Cn%20%20%20%20%20%20%5D%2C%5Cr%5Cn%20%20%20%20%20%20%5C%22backgroundColor%5C%22%3A%20%5C%22rgba(54%2C%20162%2C%20235%2C%200.5)%5C%22%2C%5Cr%5Cn%20%20%20%20%20%20%5C%22borderColor%5C%22%3A%20%5C%22rgba(54%2C%20162%2C%20235%2C%201)%5C%22%2C%5Cr%5Cn%20%20%20%20%20%20%5C%22borderWidth%5C%22%3A%201%5Cr%5Cn%20%20%20%20%7D%5D%5Cr%5Cn%20%20%7D%2C%5Cr%5Cn%20%20%5C%22options%5C%22%3A%20%7B%5Cr%5Cn%20%20%20%20%5C%22title%5C%22%3A%20%7B%5Cr%5Cn%20%20%20%20%20%20%5C%22display%5C%22%3A%20true%2C%5Cr%5Cn%20%20%20%20%20%20%5C%22text%5C%22%3A%20%5C%22Desicion-currupting%20dependency%20(Okinawa%20108%25%3B%20National%20avg%2012%25)%20latest%20from%20e-Stat%5C%5Cn%20lisiki-jp.github.io%2Fokinawa_gametheory%5C%22%5Cr%5Cn%20%20%20%20%7D%2C%5Cr%5Cn%20%20%20%20%5C%22scales%5C%22%3A%20%7B%5Cr%5Cn%20%20%20%20%20%20%5C%22xAxes%5C%22%3A%20%5B%7B%5Cr%5Cn%20%20%20%20%20%20%20%20%5C%22ticks%5C%22%3A%20%7B%5Cr%5Cn%20%20%20%20%20%20%20%20%20%20%5C%22autoSkip%5C%22%3A%20false%2C%5Cr%5Cn%20%20%20%20%20%20%20%20%20%20%5C%22minRotation%5C%22%3A%2090%5Cr%5Cn%20%20%20%20%20%20%20%20%7D%5Cr%5Cn%20%20%20%20%20%20%7D%5D%5Cr%5Cn%20%20%20%20%7D%5Cr%5Cn%20%20%7D%5Cr%5Cn%7D%5Cr%5Cn%22%2C%22width%22%3A900%2C%22height%22%3A500%2C%22version%22%3A%222%22%2C%22backgroundColor%22%3A%22%23fff%22%7D](https://quickchart.io/chart/render/zf-90e7058a-04d5-41cc-ae15-5981dad777b4)
+
 
 (**Data Source:** e-Stat. FY2017 Settlement: the latest available on e-stat) [https://www.e-stat.go.jp/dbview?sid=0003173301](https://www.e-stat.go.jp/dbview?sid=0003173301)    
 (**Unit:** Thousands of Yen)  
@@ -378,11 +371,12 @@ Let's start with data.
 
 And remember, this doesn't even include the Local Allocation Tax for salaries/operations, Social Security, or military rent. This is just the "Building & Development" money.  
 
-I did the same with the 2000 data.  
-Again, Okinawa is the 1st (183%). And Tokyo at 48th (6%).  
-Fukushima (26th) and Kumamoto (20th). This aligns with disaster relief hypotheses.  
-National avg (32%), so I guess we were building infrastructure harder in 2000 than in 2017.  
-Since the Okinawa Promotion budget is not shrinking, and building infrastructure seems down trend, the 2025 data is likely to have a more stark Okinawa anomaly. (Please update e-Stat. Dear govt)
+### aid/tax ratio (1989-2017): Okinawa 157.2%, Nationwide avg 24.9%.
+![https://quickchart.io/sandbox/#%7B%22chart%22%3A%22%7B%5Cr%5Cn%20%20%5C%22type%5C%22%3A%20%5C%22bar%5C%22%2C%5Cr%5Cn%20%20%5C%22data%5C%22%3A%20%7B%5Cr%5Cn%20%20%20%20%5C%22labels%5C%22%3A%20%5B%5Cr%5Cn%5C%22Tokyo%20(4.7%25)%5C%22%2C%5C%22Kanagawa%20(7.3%25)%5C%22%2C%5C%22Aichi%20(10.1%25)%5C%22%2C%5C%22Osaka%20(10.7%25)%5C%22%2C%5C%22Saitama%20(12.0%25)%5C%22%2C%5C%22Chiba%20(15.9%25)%5C%22%2C%5C%22Kyoto%20(16.4%25)%5C%22%2C%5C%22Shizuoka%20(17.3%25)%5C%22%2C%5C%22Fukuoka%20(20.6%25)%5C%22%2C%5C%22Ibaraki%20(22.0%25)%5C%22%2C%5C%22Hyogo%20(23.2%25)%5C%22%2C%5C%22Nationwide%20(24.9%25)%5C%22%2C%5C%22Tochigi%20(25.1%25)%5C%22%2C%5C%22Mie%20(25.7%25)%5C%22%2C%5C%22Gunma%20(25.8%25)%5C%22%2C%5C%22Shiga%20(27.4%25)%5C%22%2C%5C%22Okayama%20(29.1%25)%5C%22%2C%5C%22Kagawa%20(29.5%25)%5C%22%2C%5C%22Hiroshima%20(30.5%25)%5C%22%2C%5C%22Gifu%20(32.1%25)%5C%22%2C%5C%22Nara%20(33.0%25)%5C%22%2C%5C%22Nagano%20(37.2%25)%5C%22%2C%5C%22Miyagi%20(40.0%25)%5C%22%2C%5C%22Ishikawa%20(40.7%25)%5C%22%2C%5C%22Toyama%20(41.2%25)%5C%22%2C%5C%22Ehime%20(43.1%25)%5C%22%2C%5C%22Yamaguchi%20(45.5%25)%5C%22%2C%5C%22Fukui%20(49.8%25)%5C%22%2C%5C%22Yamanashi%20(53.3%25)%5C%22%2C%5C%22Hokkaido%20(53.5%25)%5C%22%2C%5C%22Wakayama%20(54.1%25)%5C%22%2C%5C%22Niigata%20(54.1%25)%5C%22%2C%5C%22Yamagata%20(59.1%25)%5C%22%2C%5C%22Kumamoto%20(61.4%25)%5C%22%2C%5C%22Saga%20(61.9%25)%5C%22%2C%5C%22Tokushima%20(66.0%25)%5C%22%2C%5C%22Aomori%20(66.7%25)%5C%22%2C%5C%22Oita%20(67.0%25)%5C%22%2C%5C%22Akita%20(78.2%25)%5C%22%2C%5C%22Iwate%20(79.8%25)%5C%22%2C%5C%22Miyazaki%20(81.0%25)%5C%22%2C%5C%22Tottori%20(82.4%25)%5C%22%2C%5C%22Nagasaki%20(87.2%25)%5C%22%2C%5C%22Fukushima%20(88.3%25)%5C%22%2C%5C%22Kagoshima%20(94.1%25)%5C%22%2C%5C%22Kochi%20(95.5%25)%5C%22%2C%5C%22Shimane%20(109.2%25)%5C%22%2C%5C%22Okinawa%20(157.2%25)%5C%22%5Cr%5Cn%5D%2C%5Cr%5Cn%20%20%20%20%5C%22datasets%5C%22%3A%20%5B%7B%5Cr%5Cn%20%20%20%20%20%20%5C%22label%5C%22%3A%20%5C%22Development%20Aid%2F%20Local%20Tax%20ratio%20(%25)%5C%22%2C%5Cr%5Cn%20%20%20%20%20%20%5C%22data%5C%22%3A%20%5B%5Cr%5Cn4.7%2C7.3%2C10.1%2C10.7%2C12.0%2C15.9%2C16.4%2C17.3%2C20.6%2C22.0%2C23.2%2C24.9%2C25.1%2C25.7%2C25.8%2C27.4%2C29.1%2C29.5%2C30.5%2C32.1%2C33.0%2C37.2%2C40.0%2C40.7%2C41.2%2C43.1%2C45.5%2C49.8%2C53.3%2C53.5%2C54.1%2C54.1%2C59.1%2C61.4%2C61.9%2C66.0%2C66.7%2C67.0%2C78.2%2C79.8%2C81.0%2C82.4%2C87.2%2C88.3%2C94.1%2C95.5%2C109.2%2C157.2%20%20%20%20%20%20%5D%2C%5Cr%5Cn%20%20%20%20%20%20%5C%22backgroundColor%5C%22%3A%20%5C%22rgba(54%2C%20162%2C%20235%2C%200.5)%5C%22%2C%5Cr%5Cn%20%20%20%20%20%20%5C%22borderColor%5C%22%3A%20%5C%22rgba(54%2C%20162%2C%20235%2C%201)%5C%22%2C%5Cr%5Cn%20%20%20%20%20%20%5C%22borderWidth%5C%22%3A%201%5Cr%5Cn%20%20%20%20%7D%5D%5Cr%5Cn%20%20%7D%2C%5Cr%5Cn%20%20%5C%22options%5C%22%3A%20%7B%5Cr%5Cn%20%20%20%20%5C%22title%5C%22%3A%20%7B%5Cr%5Cn%20%20%20%20%20%20%5C%22display%5C%22%3A%20true%2C%5Cr%5Cn%20%20%20%20%20%20%5C%22text%5C%22%3A%20%5C%22Desicion-currupting%20dependency%20(Okinawa%20157.2%25%3B%20National%20avg%2024.9%25)%20all%20available%20data(1989-2017)%20from%20e-Stat%5C%5Cn%20lisiki-jp.github.io%2Fokinawa_gametheory%5C%22%5Cr%5Cn%20%20%20%20%7D%2C%5Cr%5Cn%20%20%20%20%5C%22scales%5C%22%3A%20%7B%5Cr%5Cn%20%20%20%20%20%20%5C%22xAxes%5C%22%3A%20%5B%7B%5Cr%5Cn%20%20%20%20%20%20%20%20%5C%22ticks%5C%22%3A%20%7B%5Cr%5Cn%20%20%20%20%20%20%20%20%20%20%5C%22autoSkip%5C%22%3A%20false%2C%5Cr%5Cn%20%20%20%20%20%20%20%20%20%20%5C%22minRotation%5C%22%3A%2090%5Cr%5Cn%20%20%20%20%20%20%20%20%7D%5Cr%5Cn%20%20%20%20%20%20%7D%5D%5Cr%5Cn%20%20%20%20%7D%5Cr%5Cn%20%20%7D%5Cr%5Cn%7D%5Cr%5Cn%22%2C%22width%22%3A900%2C%22height%22%3A500%2C%22version%22%3A%222%22%2C%22backgroundColor%22%3A%22%23fff%22%7D](https://quickchart.io/chart/render/zf-87cde049-879b-4e7f-8344-5f825d451512)
+
+
+This is the all data available in e-Stat I could find.
+Seems like Okinawa anomaly is accelarating.
 
 ### Naha politician's optimal financial strategy: Keep Okinawa poor for Money Begging 
 What data tells you is this.  
@@ -484,7 +478,7 @@ Like you put money into a vending machine to make it output the value.
 
 Hokkaido is often criticized for its large development aid.  
 But as the table shows, the Aid/Tax ratio is not bad(26%). It's the 18th. It's massively efficient compared to Okinawa(108%).  
-I checked FY2000 data, and it's 21th. Hokkaido seems to be doing great.  
+I checked FY2000 data, and it's 21th. Hokkaido is not dependent on the development aid, unlike Okinawa.  
 It works because they have a clear way to convert the investment to value.  
 Food production is a clear role that Hokkaido has. And Hokkaido has the second-largest plain in Japan. Economic potential is easy to see.  
 
@@ -530,7 +524,7 @@ Only morning editions are counted because:
 **Step 1: Local Okinawan Papers' Circulation**
 
 This data is from the newspapers themselves for Fall 2025.  
-*   **Okinawa Times & Ryukyu Shimpo Combined**: **247,893** copies.  
+*   **Okinawa Times (124,255) & Ryukyu Shimpo(123,638) Combined**: **247,893** copies.  
 
 **Step 2: National Papers' Circulation in Okinawa**
 
@@ -547,7 +541,7 @@ From the *Yomiuri Media Guide 2025-2026* (ABC data, average from 2024/07 - 2024/
 *   **Total Market Circulation**: 247,893 (Local) + 5,509 (National) = **253,402** copies.  
 *   **Local Press Market Share**: (247,893 / 253,402) * 100 = **97.83%**
 
-**Step 4: "Battle of Politics" (vs. Non-Nikkei Papers)
+** Step 4: Battle of Politics (vs. Non-Nikkei Papers) **
 Excluded Nikkei because it's not their competitor, as Simpo is a partner of Nikkei. I don't have to probe it because Simpo proved it. 
 Nikkei usually only provides economic stories, so it is not an obstacle for the local newspapers to spread political narratives.  
 
@@ -697,12 +691,12 @@ People of Okinawa pay tax for the "infinite conflict machine" that keeps them su
 * "Ryukyu Kingdom was a utopia."
 
 These "Beautiful Ryukyu Kingdom" stories are all fantasy.  
-
-* It was not peaceful
-* It was not a great trader
-* It was not utopia.
-* It was not sovereign.
-* It was not even a Kingdom in a practical sense.
+The historical evidence tells that 
+* Ryukyu was not peaceful.
+* Ryukyu was not a great trader.
+* Ryukyu was not a utopia.
+* Ryukyu was not sovereign from day one (1429).
+* Ryukyu was not even a Kingdom in a practical sense.
 
 ### Start from the data: population growth.  
 Before the story, let's see the population growth data I calculated from trustworthy data.  
@@ -934,7 +928,7 @@ Creating the "Ming's Dejima" was the strategy of the Ming to counter piracy (Wak
 Work like this 
 1.  **Ming** hates Japan and pirates but needs Sulfur.  
 2.  **Ming** bans Japan. and made **Chuzan** a tributary to create the entrance of Japanese Sulfur. Ming only had to protect this single trade route against piracy(Wakou).  
-3.  **Ming** send iron weapons to **Chuzan **.  
+3.  **Ming** send iron weapons to **Chuzan**.  
 4.  **Chuzan** exploited the **iron weapon monopoly** to unify Okinawa.  
 5.  **Chuzan** sends the Volcanic Sulfur (from the Japan Honshu/Ryukyu arc) to China.  
 6.  **Ming** pays Chuzan in Porcelain/Silk/Coins.  
@@ -1017,7 +1011,7 @@ https://ghostarchive.org/archive/7orrA (mirror: https://archive.md/AitCN)
 Beautiful story, I can see that the charismatic peace-loving king united the islands through his talk.  
 It sounds just like how Genghis Khan "united" the Eurasian steppe.  
 
-"Wait," you ask. "Did Genghis Khan create his empire by talking?"
+"Wait," you might ask. "Did Genghis Khan create his empire by talking?"
 You are right. I confused you. 
 Sho Hashi wasn't a peaceful negotiator. Think of him as Genghis Khan in Okinawa. He united the main island through iron.  
 
@@ -1419,18 +1413,22 @@ When the student says, "I didn't study for the exam." He is making the right-han
 That makes his "Natural intelligence" high. That's why students love to say it.  
 It will be more effective if the student says, "I haven't slept, so I'm not in good condition". Which again the right-hand side becomes bigger by claiming "Environmental Factor" was minus. 
 
-### Introducing the CAE equation: how the Offset Nationalism model works
+### Introducing the CAE equation: how the Percieved Capability Model works
 
 "We are capable" is the first mantra of nationalism. Yes, it's the most important thing for them.  
 Make the student equation a national level. Combine the effort and the natural intelligence into "Capability", that is the root of nationalism.  
-* **National Capability = National Achievement - Environmental Factors**
+* **Percieved Capability = Percieved Achievement - Percieved Factors**
+
+$$
+C_p = A_p - E_p
+$$
 
 To short C = A - E
-National Capability(C) means the total perceived capability of a nation. This is the pride of nationalism. This is also a combined variable of National Natural Ability and National Effort.  
-Environmental Factor(E) means perceived factors that help an achievement, but not from the nationals. This includes Foreign Aid and Natural resources or anything useful, but not the people. This often acts as the parameter when actors manipulate the national esteem.  
-National Achievement(A) means the perceived greatness of national achievement. This is relatively hard to move, unless they reframe the achievement.  
+* Perceived National Capability(C) means the total perceived capability of a nation. This is the pride of nationalism. This is also a combined variable of National Natural Ability and National Effort.  
+* Perceived National Achievement(A) means the perceived greatness of national achievement. This is relatively hard to move, unless they reframe the achievement.  
+* Perceived Environmental Factor(E) means perceived factors that help an achievement, but not from the nationals. This includes Foreign Aid and Natural resources or anything useful, but not the people. This often acts as the parameter when actors manipulate the national esteem.  
 
-This simple "National Capability" model helps you understand any nationalism in our world.  
+This simple "Perceived National Capability" model helps you understand any nationalism in our world.  
 
 This explains why Russians hate the US, why the Americans love "agency" and ignore the natural resource advantage they have.  
 Okinawa is not an exception. Using this equation, we can explain why Okinawans hate Tokyo/the US. And wasting the aid can be optimal for their identity.  
@@ -1444,7 +1442,7 @@ To raise Nationalism, which is closely related to National Capability (C), you c
 
 Let's see how the equation helps us to understand the situation.  
 You are Putin (I'm sorry to say that), and you want to bolster nationalism because that keeps you in power.  
-**National Capability = National Achievement - Environmental Factors**
+**Percieved National Capability = Percieved National Achievement - Percieved Environmental Factors**
 According to the equation, you can boost nationalism(= perceived capability) by National Achievement. You decided to invade Ukraine. Not only that, you want to "capture Kyiv in 3 days" because it makes the National Achievement more impressive.  
 You start it. And it seems things are not going as you planned. You actually accidentally proved Russia is less capable by achieving "Stalemate with a much weaker country". National Achievement is declining rapidly, and so is National Capability.  
 
@@ -1655,15 +1653,19 @@ correlation: 0.579
 (Source: Local newspaper share is from 新聞広告を介した情報流通の地域的差異性 福井一喜 2013. I counted the pixels. the paper is based on 2006～2007年（日本 ABC 協会第24回公査レポート))
 
 There could be many factors here. Business Logic of national newspapers are likely the most strongest one.
-CAE can also provide a explnation, that likely affecting in many cases.
-Getting aid(+E) hurts C., so if they want to feel better about themselves, they need to create their story(+C).
+CAE can also provide a explnation.
+Getting aid(+E) hurts C, so if they want to feel better about themselves. manipulation on C and E can be done easily by media.
 
 Sometime Okinawa newspaper is described as a tool of aid acquisition. But not only that, it can be a mechanism to stay sane in a situation where local pride is undermined. They need the narrative to keep them sane. If we want to address the media duopoly there, we need to give them replacement of the pride source.
 
 Economic power prefecture doesn't need to maintain its pride. (C = A - E). They already have big enough A and have little aid from outside. Their identities are psychologically comfortable without creating a story.
 And still they can have an additional story, like Aichi. They do not require to have local story to be comfortable. That's why the high dependency prefectures almost always have a high local newspaper share.
 
+### Psychological need of Okinawa people
 
+They read the local papers not for information, but for validation. They need a daily confirmation that they are the protagonists of a tragedy, not the recipients of a subsidy.
+
+The 99.4% share is the measure of how desperate that psychological need is.
 
 ### Conclusion: Stop the aid.  
 * The aid makes Okinawa hate Tokyo.  
@@ -1957,7 +1959,7 @@ Quick summary for those who don't want to read the PDF:
 This is not a "Plan."
 This is a diary.  
 It lacks the information that determines what action they should take.  
-I was filled with wishful thinking and words.  
+It was filled with wishful thinking and words.  
 
 I looked for their "Market Assessment." I really tried.  
 I read their "Basic Plan"—all (82 + 78) pages of it. (That was painful.)
@@ -2066,7 +2068,7 @@ When you fix the math:
 1.  **Tourism is a rounding error.** It drops from a "Major Pillar" (19.2%) to a statistically insignificant **1.9%**.  
 2.  **Military > Tourism.** Even in the PDF, they tried to claim Tourism (19%) > Military (9%). In reality, **Military Rent (11%) is 5x more profitable than Tourism Business (2%).**
 3.  **The "Welfare State" Reality.** If you combine Subsidies (63%) and Pensions/Passive (24%), **87% of Okinawa's wealth comes from simply "receiving checks" from the mainland.**
-4.  **External aid share is 97.9%** Tourism practically doesn't exist from a profit perspective.  
+4.  **External aid share is 97.9%.** Tourism practically doesn't exist from a profit perspective.  
 
 This graph in the PDF is not just a mistake; it is fraudulent accounting designed to hide the fact that the entire tourism industry creates less net wealth for the island than the Military land rents do.  
 
@@ -2141,9 +2143,6 @@ These are products you can sell to New York, London, and Paris instantly.
 *   **Software/Anime/Gaming:** **Zero shipping costs.**
 
 Software has no shipping costs. It doesn't care that Okinawa is an island. It doesn't need a deep-water port.  
-They only need human brains. And Okinawa has one of the best creative brains.  
-
-** The "Beach" has a limit. "Creativity" has no limit. **
 
 ### Future 3. The Physical Bottleneck: Car-free living for people and business.  
 But to unleash this Digital Industry, we need the right environment.  
@@ -2373,6 +2372,11 @@ If you know an influential figure—a YouTuber, a politician, a professor, a jou
 ---
 # Author's Note 
 
+While writing this report, I realized that e-Stat is so outdated. This isn't real transparency.  
+We need a 'Right to Know' law like Sweden's. But more importantly, we need to stop being passive. Politicians won't fix this because it doesn't benefit them. It benefits us.  
+We pay the taxes. We own the data. We have the right to know.  
+Stop trusting them blindly. They have a reason to hide the data.  
+
 I wrote this entire report in a kitchen, standing, because I'm too broke to buy a desk. 
 And I find this is a pretty great place for writing. I can stack pots to adjust the height of the laptop. 
 I can have a little walk to think without switching between sitting and standing.  
@@ -2392,10 +2396,6 @@ The model is simple to understand by anyone, it has strong predictive/explanator
 My next writing is likely about the model. I know you aren't interested in. But I'm excited about that idea.  
 And I have another plan to write a more dangerous report about the real world. Much impactful than this report. It's truly world-scale. I can't wait to deliver it to you.  
 Or I can go with Okinawa stuff with more data if you demand.  
-
-I often used "Okinawa" in this report for short for "Okinawa govt and Okinawa local media", which is too long. 
-The context would be enough to understand.  
-I might fix this later.  
 
 I know Okinawa researchers will not like this report, as Jared Diamond is hated among historians.  
 Outsider breaking things.  
@@ -2458,14 +2458,14 @@ This research book cited over 6,903 in Google Scholar. The usual citation in thi
 This is the foundational research in political science. Must read if you are interested in the scientific analysis of politics.  
 
 He also published the book for a broader audience, "The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics". 
-Highly recommended. The best book in my entire life.  
+Highly recommended. 
 The book is available in Japanese. The translation is substandard. I recommend that you refer to the original if you encounter a part that doesn't make sense.  
 The full text of the original book might be on the Online Burma/Myanmar Library, a non-profit website for humanitarian purposes.  
 I'm not sure if it's official or not, maybe unauthorized OCR. But good enough for double-checking the translation for free.  
 
 Another free source is CGP Grey's YouTube video "The Rules for Rulers". The video is based on the book.  
 * [https://www.youtube.com/watch?v=rStL7niR7gs](https://www.youtube.com/watch?v=rStL7niR7gs)  
-23M views. I checked, and it's pretty good.  
+23M views. I checked, and it's pretty good for introduction.  
 It has a Japanese Dub. Click the bottom right cog icon. It's low quality with inconsistent talk speed. But it's good enough if you are motivated.  
 You may need to watch it multiple times to understand, because of poor dub quality.  
 
@@ -2519,3 +2519,29 @@ That's why I wrote this report.
     *   [https://www.youtube.com/watch?v=2BHnijL9xYc](https://www.youtube.com/watch?v=2BHnijL9xYc)  
 Note: The video is in English, but don't worry. Because he uses clear PowerPoint slides for everything, the **YouTube Auto-Translate** function works surprisingly well.  
 Click the bottom right cog icon to change the audio or sub.  
+
+---
+
+<!-- Load Mermaid.js v10+ -->
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ 
+    startOnLoad: false,
+    theme: 'dark' 
+  });
+  document.addEventListener('DOMContentLoaded', async () => {
+    const elements = document.querySelectorAll('pre code.language-mermaid');
+    for (const element of elements) {
+      const graphDefinition = element.innerText;
+      const newDiv = document.createElement('div');
+      newDiv.classList.add('mermaid');
+      newDiv.textContent = graphDefinition;
+      element.parentElement.parentElement.replaceChild(newDiv, element.parentElement);
+    }
+    await mermaid.run({
+      querySelector: '.mermaid'
+    });
+  });
+</script>
+
+
