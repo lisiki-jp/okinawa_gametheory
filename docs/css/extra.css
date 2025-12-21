@@ -1,5 +1,5 @@
 /* Container for alignment */
-article h1, article h2, article h3 {
+article h2, article h3 {
     display: flex;
     align-items: center;
     justify-content: flex-start;
