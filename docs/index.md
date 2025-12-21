@@ -1,5 +1,14 @@
 ---
 title: Overview
+my_chart_data:
+  xAxis:
+    type: category
+    data: ['A', 'B', 'C']
+  yAxis:
+    type: value
+  series:
+    - type: bar
+      data: [10, 50, 20]
 ---
 # Summary
 © 2025 伊波りしき. This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
@@ -12,24 +21,7 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 
 Here is the breakdown of active groups.
 
-{{ viral_chart('ransom-stats', {
-    "xAxis": { 
-        "type": "category", 
-        "data": ["Lockbit", "BlackCat", "Clop", "Play"] 
-    },
-    "yAxis": { "type": "value" },
-    "series": [{
-        "type": "bar",
-        "data": [
-            120, 
-            200, 
-            {"value": 350, "itemStyle": {"color": "#d93025"}, "label": {"show": true, "position": "top", "formatter": "💀"}},
-            80
-        ],
-        "itemStyle": { "color": "#bdbdbd" }
-    }]
-}) }}
-
+{{ viral_chart('chart1', my_chart_data) }}
 
 ---
 ## Key data
@@ -87,6 +79,7 @@ We have to know the real intent of these three.
 | **Japan Newspapers**   | Inform the public objectively         | Provide periodic, low-key coverage                    | **Partially**     | **Status Quo** (Safest, low-cost option)                                                       | 
 | **Japanese Citizens**  | (No single consensus)                 | Remain largely passive and disengaged                 | **N/A**           | **N/A**                                                                                        | 
 | **Okinawa Citizens**   | Stop the base                         | Engage in localized, direct protest                   | **YES**           | **Solve** (Stop the base)                                                                      | 
+
 
 
 
