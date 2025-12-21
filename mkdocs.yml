@@ -56,6 +56,10 @@ theme:
   icon:
     logo: logo
 
+plugins:
+  - search
+  - macros
+
 hooks:
   - assets/hook_strip_number.py
 
