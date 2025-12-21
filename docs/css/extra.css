@@ -1,46 +1,47 @@
 /* Container for alignment */
-article h2, article h3 {
+article h1, article h2, article h3 {
     display: flex;
     align-items: center;
     justify-content: flex-start;
 }
 
-/* The Share Button - Indigo & Persistent */
+/* Reusing your Indigo Button Style */
 .share-button {
-    margin-left: 12px;
-    cursor: pointer;
-    background-color: #3f51b5; /* Standard Material Indigo */
+    background-color: #3f51b5; /* Indigo */
     color: white !important;
     border: none;
-    width: 28px;
-    height: 28px;
+    width: 32px; /* Slightly larger for charts for better target appeal */
+    height: 32px;
     border-radius: 50%;
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    cursor: pointer;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16);
     transition: transform 0.2s, background-color 0.2s, box-shadow 0.2s;
-    flex-shrink: 0;
 }
 
-/* Icon Size inside the button */
 .share-button svg {
-    width: 16px;
-    height: 16px;
+    width: 18px;
+    height: 18px;
 }
 
-/* "Clickable" appeal: Hover & Active states */
+/* Hover effects for strong appeal */
 .share-button:hover {
-    background-color: #303f9f; /* Darker indigo */
-    transform: scale(1.1);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    background-color: #303f9f;
+    transform: scale(1.15);
+    box-shadow: 0 5px 10px rgba(0,0,0,0.25);
 }
 
 .share-button:active {
-    transform: scale(0.95);
-    box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+    transform: scale(0.9);
 }
 
+/* Specific adjustment for chart wrapper buttons */
+.chart-action-btn {
+    /* Ensures they stay on top of any graph elements */
+    z-index: 100;
+}
 /* Ensure the permalink symbol (¶) doesn't interfere */
 .headerlink {
     order: 3; /* Puts the default MkDocs link after our button */
