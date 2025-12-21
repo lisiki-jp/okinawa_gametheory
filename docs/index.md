@@ -10,21 +10,25 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 
 # Ransomware Trends
 
-{{ viral_chart('ransom-stats') }}
+Here is the breakdown of active groups.
 
-<script>
-  renderOsintChart('ransom-stats', {
-      xAxis: { type: 'category', data: ['Lockbit', 'BlackCat', 'Clop'] },
-      yAxis: { type: 'value' },
-      series: [{ 
-          data: [120, 200, 150], 
-          type: 'bar',
-          itemStyle: { color: '#bdbdbd' } // Grey
-      }]
-  });
-</script>
-
-
+{{ viral_chart('ransom-stats', {
+    "xAxis": { 
+        "type": "category", 
+        "data": ["Lockbit", "BlackCat", "Clop", "Play"] 
+    },
+    "yAxis": { "type": "value" },
+    "series": [{
+        "type": "bar",
+        "data": [
+            120, 
+            200, 
+            {"value": 350, "itemStyle": {"color": "#d93025"}, "label": {"show": true, "position": "top", "formatter": "💀"}},
+            80
+        ],
+        "itemStyle": { "color": "#bdbdbd" }
+    }]
+}) }}
 
 
 ---
@@ -83,6 +87,7 @@ We have to know the real intent of these three.
 | **Japan Newspapers**   | Inform the public objectively         | Provide periodic, low-key coverage                    | **Partially**     | **Status Quo** (Safest, low-cost option)                                                       | 
 | **Japanese Citizens**  | (No single consensus)                 | Remain largely passive and disengaged                 | **N/A**           | **N/A**                                                                                        | 
 | **Okinawa Citizens**   | Stop the base                         | Engage in localized, direct protest                   | **YES**           | **Solve** (Stop the base)                                                                      | 
+
 
 
 
