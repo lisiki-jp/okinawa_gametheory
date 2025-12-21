@@ -8,33 +8,46 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 
 ---
 
-# My Statistics Page
+# My Statistics
 
-Here is a live chart:
+Here is a breakdown of our user growth:
 
-<div style="width: 80%; margin: auto;">
-  <canvas id="myChart"></canvas>
-</div>
+<div id="main-chart" style="width: 100%; height: 400px;"></div>
+<script type="text/javascript">
+  // Initialize the chart
+  var myChart = echarts.init(document.getElementById('main-chart'));
 
-<script>
-  const ctx = document.getElementById('myChart');
-  new Chart(ctx, {
-    type: 'bar',
-    data: {
-      labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
-      datasets: [{
-        label: '# of Votes',
-        data: [12, 19, 3, 5, 2, 3],
-        borderWidth: 1
-      }]
+  // Specify configuration items and data
+  var option = {
+    title: {
+      text: 'Weekly Users'
     },
-    options: {
-      scales: {
-        y: { beginAtZero: true }
+    tooltip: {},
+    legend: {
+      data: ['Sales']
+    },
+    xAxis: {
+      data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+    },
+    yAxis: {},
+    series: [
+      {
+        name: 'Sales',
+        type: 'bar',
+        data: [5, 20, 36, 10, 10, 20, 9]
       }
-    }
+    ]
+  };
+
+  // Display the chart
+  myChart.setOption(option);
+  
+  // Responsive resize
+  window.addEventListener('resize', function() {
+    myChart.resize();
   });
 </script>
+
 
 
 ---
@@ -93,6 +106,7 @@ We have to know the real intent of these three.
 | **Japan Newspapers**   | Inform the public objectively         | Provide periodic, low-key coverage                    | **Partially**     | **Status Quo** (Safest, low-cost option)                                                       | 
 | **Japanese Citizens**  | (No single consensus)                 | Remain largely passive and disengaged                 | **N/A**           | **N/A**                                                                                        | 
 | **Okinawa Citizens**   | Stop the base                         | Engage in localized, direct protest                   | **YES**           | **Solve** (Stop the base)                                                                      | 
+
 
 
 
