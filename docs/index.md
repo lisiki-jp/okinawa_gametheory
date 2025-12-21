@@ -8,20 +8,13 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 
 ---
 
-<div id="my-graph-id" style="position: relative; width: 100%; max-width: 800px;">
 
     <!-- 2. The Floating Button: Top-Right Corner -->
     <!-- Added inline styles to size it perfectly for the corner -->
-    <button class="md-button md-button--primary" 
-            onclick="shareChart('my-graph-id')"
-            style="position: absolute; top: 10px; right: 10px; z-index: 10; padding: 6px 12px; font-size: 0.8rem; line-height: 1.2; min-width: auto;">
-        📤 Share
-    </button>
 
     <!-- 3. The Chart: Standard ECharts div -->
     <div id="my-graph-id" style="width: 100%; height: 400px; background-color: #fff; border-radius: 8px;"></div>
     
-</div>
 
 <script>
   // Standard ECharts setup
@@ -38,8 +31,14 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 
 ---
 # Bar Chart Example
-
+<div id="my-graph-id" style="position: relative; width: 100%; max-width: 800px;">
 <div id="chart-container" style="width: 600px;height:400px;"></div>
+</div>
+<button class="md-button md-button--primary" 
+        onclick="shareChart('chart-container')"
+        style="position: absolute; top: 10px; right: 10px; z-index: 10; padding: 6px 12px; font-size: 0.8rem; line-height: 1.2; min-width: auto;">
+    📤 Share
+</button>
 
 <script>
   // Initialize the ECharts instance upon page load
@@ -100,12 +99,6 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
   });
 </script>
 
-<!-- The Button -->
-<button class="share-btn" onclick="shareChart('chart-container')">
-    <!-- You can paste an SVG icon here for maximum pro look, or just emoji -->
-    <span style="font-size: 1.2em;">📤</span> 
-    Share Analysis
-</button>
 
 <script>
 async function shareChart() {
@@ -210,6 +203,7 @@ We have to know the real intent of these three.
 | **Japan Newspapers**   | Inform the public objectively         | Provide periodic, low-key coverage                    | **Partially**     | **Status Quo** (Safest, low-cost option)                                                       | 
 | **Japanese Citizens**  | (No single consensus)                 | Remain largely passive and disengaged                 | **N/A**           | **N/A**                                                                                        | 
 | **Okinawa Citizens**   | Stop the base                         | Engage in localized, direct protest                   | **YES**           | **Solve** (Stop the base)                                                                      | 
+
 
 
 
