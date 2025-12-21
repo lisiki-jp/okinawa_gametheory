@@ -8,6 +8,35 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 
 ---
 
+<div style="position: relative; width: 100%; max-width: 800px;">
+
+    <!-- 2. The Floating Button: Top-Right Corner -->
+    <!-- Added inline styles to size it perfectly for the corner -->
+    <button class="md-button md-button--primary" 
+            onclick="shareChart('my-graph-id')"
+            style="position: absolute; top: 10px; right: 10px; z-index: 10; padding: 6px 12px; font-size: 0.8rem; line-height: 1.2; min-width: auto;">
+        📤 Share
+    </button>
+
+    <!-- 3. The Chart: Standard ECharts div -->
+    <div id="my-graph-id" style="width: 100%; height: 400px; background-color: #fff; border-radius: 8px;"></div>
+    
+</div>
+
+<script>
+  // Standard ECharts setup
+  var myChart = echarts.init(document.getElementById('my-graph-id'));
+  var option = {
+      // Don't forget: No 'toolbox' here anymore!
+      grid: { top: 60, right: 30 }, // Add top padding so the button doesn't cover the highest bar
+      xAxis: { type: 'category', data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri'] },
+      yAxis: { type: 'value' },
+      series: [{ data: [820, 932, 901, 934, 1290], type: 'bar' }]
+  };
+  myChart.setOption(option);
+</script>
+
+---
 # Bar Chart Example
 
 <div id="chart-container" style="width: 600px;height:400px;"></div>
@@ -181,6 +210,7 @@ We have to know the real intent of these three.
 | **Japan Newspapers**   | Inform the public objectively         | Provide periodic, low-key coverage                    | **Partially**     | **Status Quo** (Safest, low-cost option)                                                       | 
 | **Japanese Citizens**  | (No single consensus)                 | Remain largely passive and disengaged                 | **N/A**           | **N/A**                                                                                        | 
 | **Okinawa Citizens**   | Stop the base                         | Engage in localized, direct protest                   | **YES**           | **Solve** (Stop the base)                                                                      | 
+
 
 
 
