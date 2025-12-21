@@ -3,7 +3,7 @@ import textwrap
 
 def define_env(env):
     @env.macro
-    def viral_chart(id, options, height="600px"):
+    def viral_chart(id, options, height="500px"):
         json_options = json.dumps(options)
 
         html = f"""
