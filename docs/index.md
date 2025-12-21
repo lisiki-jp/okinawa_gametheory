@@ -71,6 +71,56 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
   });
 </script>
 
+<!-- The Button -->
+<button onclick="shareChart()" style="margin-top:10px; padding:8px 16px; cursor:pointer;">
+    📤 Share Graph
+</button>
+
+<script>
+async function shareChart() {
+    // 1. Get the ECharts instance (Make sure ID matches your div)
+    var chartInstance = echarts.getInstanceByDom(document.getElementById('chart-container'));
+
+    if (!chartInstance) {
+        alert("Chart not found!");
+        return;
+    }
+
+    // 2. Convert Chart to a "Blob" (File object)
+    var dataURL = chartInstance.getDataURL({
+        type: 'png',
+        pixelRatio: 2,        // High res for Retina/Twitter
+        backgroundColor: '#fff' // FORCE White background
+    });
+    
+    // Helper function to convert Base64 to Blob
+    var blob = await (await fetch(dataURL)).blob();
+    
+    // 3. Create a File object
+    var file = new File([blob], "osint-report.png", { type: "image/png" });
+
+    // 4. Check if browser supports sharing files
+    if (navigator.canShare && navigator.canShare({ files: [file] })) {
+        try {
+            await navigator.share({
+                title: 'OSINT Report Data',
+                text: 'Look at this spike 💀 detected in the latest dataset:', // The default tweet text
+                files: [file]
+            });
+        } catch (error) {
+            console.log('Sharing failed', error);
+        }
+    } else {
+        // Fallback for browsers that don't support Web Share (mostly Desktop)
+        alert("Your browser doesn't support direct image sharing. Using clipboard instead!");
+        
+        // Copy to clipboard fallback
+        const item = new ClipboardItem({ 'image/png': blob });
+        navigator.clipboard.write([item]);
+        alert("Graph copied to clipboard! You can paste it into Twitter now.");
+    }
+}
+</script>
 
 
 ---
@@ -129,6 +179,7 @@ We have to know the real intent of these three.
 | **Japan Newspapers**   | Inform the public objectively         | Provide periodic, low-key coverage                    | **Partially**     | **Status Quo** (Safest, low-cost option)                                                       | 
 | **Japanese Citizens**  | (No single consensus)                 | Remain largely passive and disengaged                 | **N/A**           | **N/A**                                                                                        | 
 | **Okinawa Citizens**   | Stop the base                         | Engage in localized, direct protest                   | **YES**           | **Solve** (Stop the base)                                                                      | 
+
 
 
 
