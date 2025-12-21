@@ -11,195 +11,41 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 # Ransomware Trends
 
 Here is the data for this month:
+<h1 id="ransomware-trends">Ransomware Trends</h1>
+<p>Here is the data for this month:</p>
 
+<!-- 1. The Macro Generates the HTML Container -->
 {{ viral_chart('ransom-stats') }}
 
+<!-- 2. The Script (Wrapped to wait for load) -->
 <script>
-  var myChart = echarts.init(document.getElementById('ransom-stats'));
-  var option = {
-      title: {
-        text: 'ECharts Bar Chart'
-      },
-      backgroundColor: '#ffffff', 
-      graphic: [
-        {
-          type: 'text',
-          right: 10,  // Position: Bottom Right
-          bottom: 10,
-          style: {
-            text: '© MyOSINTReport.com | @MyHandle', // YOUR BRAND
-            fill: '#888888', // Subtle Grey
-            fontSize: 12,
-            fontWeight: 'bold'
-          }
-        }
-      ],
-      tooltip: {},
-      legend: {
-        data: ['Sales']
-      },
-      xAxis: {
-        data: ['Shirt', 'Cardigan', 'Chiffon Shirt', 'Pants', 'Heels', 'Pumps']
-      },
-      yAxis: {},
-      series: [
-        {
-          name: 'Sales',
-          type: 'bar',
-          data: [5, 20, 36, 10, 10, 20]
-        }
-      ]  };
-  myChart.setOption(option);
-</script>
-
----
-
-<script>
-  // Standard ECharts setup
-  var myChart = echarts.init(document.getElementById('my-graph-id'));
-  var option = {
-      // Don't forget: No 'toolbox' here anymore!
-      title: {
-        text: 'ECharts Bar Chart'
-      },
-      backgroundColor: '#ffffff', 
-      graphic: [
-        {
-          type: 'text',
-          right: 10,  // Position: Bottom Right
-          bottom: 10,
-          style: {
-            text: '© MyOSINTReport.com | @MyHandle', // YOUR BRAND
-            fill: '#888888', // Subtle Grey
-            fontSize: 12,
-            fontWeight: 'bold'
-          }
-        }
-      ],
-      tooltip: {},
-      legend: {
-        data: ['Sales']
-      },
-      xAxis: {
-        data: ['Shirt', 'Cardigan', 'Chiffon Shirt', 'Pants', 'Heels', 'Pumps']
-      },
-      yAxis: {},
-      series: [
-        {
-          name: 'Sales',
-          type: 'bar',
-          data: [5, 20, 36, 10, 10, 20]
-        }
-      ]
-  };
-  myChart.setOption(option);
-</script>
-
----
-# Bar Chart Example
-<div style="position: relative; width: fit-content; margin: 0 auto;">
-<div id="chart-container" style="width: 600px;height:400px;"></div>
-    <button class="md-button md-button--primary" 
-        onclick="shareChart('chart-container')"
-        style="position: absolute; top: 10px; right: 10px; z-index: 10; padding: 6px 12px; font-size: 0.8rem; line-height: 1.2; min-width: auto;">
-    Share Graph
-    </button>
-</div>
-
-<script>
-  // Initialize the ECharts instance upon page load
-  document.addEventListener('DOMContentLoaded', (event) => {
-    var chartDom = document.getElementById('chart-container');
-    var myChart = echarts.init(chartDom);
-    var option;
-
-    // Specify the configuration and data for the chart
-    option = {
-      title: {
-        text: 'ECharts Bar Chart'
-      },
-      backgroundColor: '#ffffff', 
-      graphic: [
-        {
-          type: 'text',
-          right: 10,  // Position: Bottom Right
-          bottom: 10,
-          style: {
-            text: '© MyOSINTReport.com | @MyHandle', // YOUR BRAND
-            fill: '#888888', // Subtle Grey
-            fontSize: 12,
-            fontWeight: 'bold'
-          }
-        }
-      ],
-      tooltip: {},
-      legend: {
-        data: ['Sales']
-      },
-      xAxis: {
-        data: ['Shirt', 'Cardigan', 'Chiffon Shirt', 'Pants', 'Heels', 'Pumps']
-      },
-      yAxis: {},
-      series: [
-        {
-          name: 'Sales',
-          type: 'bar',
-          data: [5, 20, 36, 10, 10, 20]
-        }
-      ]
-    };
-
-    // Render the chart using the configuration
-    myChart.setOption(option);
+  // We use a self-executing function or event listener to wait
+  window.addEventListener('load', function() {
+      
+      // Use a unique variable name OR local scope to avoid conflicts
+      var dom = document.getElementById('ransom-stats');
+      if (dom) {
+          var myChart = echarts.init(dom);
+          var option = {
+              grid: { top: 50, right: 20, bottom: 30, left: 40 }, // Adjust padding for button
+              xAxis: { type: 'category', data: ['A', 'B', 'C'] },
+              yAxis: { type: 'value' },
+              series: [{ 
+                  data: [120, 200, 150], 
+                  type: 'bar',
+                  itemStyle: { color: '#bdbdbd' } // Grey bars
+              }]
+          };
+          myChart.setOption(option);
+          
+          // Make it responsive
+          window.addEventListener('resize', function() {
+              myChart.resize();
+          });
+      }
   });
 </script>
 
-
-<script>
-async function shareChart() {
-    // 1. Get the ECharts instance (Make sure ID matches your div)
-    var chartInstance = echarts.getInstanceByDom(document.getElementById('chart-container'));
-
-    if (!chartInstance) {
-        alert("Chart not found!");
-        return;
-    }
-
-    // 2. Convert Chart to a "Blob" (File object)
-    var dataURL = chartInstance.getDataURL({
-        type: 'png',
-        pixelRatio: 2,        // High res for Retina/Twitter
-        backgroundColor: '#fff' // FORCE White background
-    });
-    
-    // Helper function to convert Base64 to Blob
-    var blob = await (await fetch(dataURL)).blob();
-    
-    // 3. Create a File object
-    var file = new File([blob], "osint-report.png", { type: "image/png" });
-
-    // 4. Check if browser supports sharing files
-    if (navigator.canShare && navigator.canShare({ files: [file] })) {
-        try {
-            await navigator.share({
-                title: 'OSINT Report Data',
-                text: 'Look at this spike 💀 detected in the latest dataset:', // The default tweet text
-                files: [file]
-            });
-        } catch (error) {
-            console.log('Sharing failed', error);
-        }
-    } else {
-        // Fallback for browsers that don't support Web Share (mostly Desktop)
-        alert("Your browser doesn't support direct image sharing. Using clipboard instead!");
-        
-        // Copy to clipboard fallback
-        const item = new ClipboardItem({ 'image/png': blob });
-        navigator.clipboard.write([item]);
-        alert("Graph copied to clipboard! You can paste it into Twitter now.");
-    }
-}
-</script>
 
 
 ---
@@ -258,6 +104,7 @@ We have to know the real intent of these three.
 | **Japan Newspapers**   | Inform the public objectively         | Provide periodic, low-key coverage                    | **Partially**     | **Status Quo** (Safest, low-cost option)                                                       | 
 | **Japanese Citizens**  | (No single consensus)                 | Remain largely passive and disengaged                 | **N/A**           | **N/A**                                                                                        | 
 | **Okinawa Citizens**   | Stop the base                         | Engage in localized, direct protest                   | **YES**           | **Solve** (Stop the base)                                                                      | 
+
 
 
 
