@@ -10,27 +10,26 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 
 # Bar Chart Example
 
+<div id="chart-container" style="width: 600px;height:400px;"></div>
+
 <script>
-  { // <--- Scope Block Start (Keeps variable names safe)
-    
-    const chartDom = document.getElementById('chart-container');
-    
-    // 1. Detect if MkDocs is in Dark Mode ('slate')
-    const isDark = document.body.getAttribute("data-md-color-scheme") === "slate";
-    
-    // 2. Initialize with 'dark' theme if needed
-    // Note: If 'dark' doesn't work, see the "Important" note below.
-    const myChart = echarts.init(chartDom, isDark ? 'dark' : undefined);
-    
-    const option = {
-      // 3. Make background transparent so it blends with the site
-      backgroundColor: 'transparent',
-      
-      title: { text: 'ECharts Bar Chart' },
+  // Initialize the ECharts instance upon page load
+  document.addEventListener('DOMContentLoaded', (event) => {
+    var chartDom = document.getElementById('chart-container');
+    var myChart = echarts.init(chartDom);
+    var option;
+
+    // Specify the configuration and data for the chart
+    option = {
+      title: {
+        text: 'ECharts Bar Chart'
+      },
       tooltip: {},
-      legend: { data: ['Sales'] },
-      xAxis: { 
-        data: ['Shirt', 'Cardigan', 'Chiffon Shirt', 'Pants', 'Heels', 'Pumps'] 
+      legend: {
+        data: ['Sales']
+      },
+      xAxis: {
+        data: ['Shirt', 'Cardigan', 'Chiffon Shirt', 'Pants', 'Heels', 'Pumps']
       },
       yAxis: {},
       series: [
@@ -42,12 +41,9 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
       ]
     };
 
+    // Render the chart using the configuration
     myChart.setOption(option);
-    
-    // Resize chart when window size changes
-    window.addEventListener('resize', () => myChart.resize());
-
-  } // <--- Scope Block End
+  });
 </script>
 
 
