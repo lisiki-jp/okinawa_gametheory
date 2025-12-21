@@ -1,34 +1,35 @@
 /**
  * Final Viral Chart Script
- * 1. Generates Image
- * 2. Copies Text/URL to Clipboard (Fix for Android/Twitter)
- * 3. Opens Native Share
+ * Includes Lazy Loading (Intersection Observer)
  */
+
+// -------------------------------------------------------------
+// PART 1: Share & Copy Logic (Kept exactly the same)
+// -------------------------------------------------------------
 async function shareChart(elementId) {
     var dom = document.getElementById(elementId);
     if (!dom) return;
 
     var chartInstance = echarts.getInstanceByDom(dom);
     if (!chartInstance) {
-        alert("Chart not loaded yet.");
+        // If user scrolls too fast and clicks before animation starts
+        alert("Chart is loading... please wait a moment."); 
         return;
     }
 
-    // 1. Get Image Data (High Res)
+    // 1. Get Image Data
     var dataURL = chartInstance.getDataURL({
         type: 'png',
         pixelRatio: 2,
         backgroundColor: '#ffffff'
     });
 
-    // 2. Prepare Data
+    // 2. Prepare Blob
     var blob = await (await fetch(dataURL)).blob();
     var file = new File([blob], "osint_analysis.png", { type: "image/png" });
-    
-    // The viral text with your URL
     var shareText = `Read more: ${window.location.href}`;
 
-    // 3. ANDROID FIX: Copy text to clipboard silently first
+    // 3. Android Clipboard Fix
     try {
         await navigator.clipboard.writeText(shareText);
         showToast("URL copied! Paste it in your post 📋");
@@ -36,10 +37,9 @@ async function shareChart(elementId) {
         console.log("Clipboard failed (non-HTTPS site?)");
     }
 
-    // 4. Share
+    // 4. Native Share or Fallback
     if (navigator.canShare && navigator.canShare({ files: [file] })) {
         try {
-            // We still send text for apps that DO support it (like Email/Telegram)
             await navigator.share({
                 files: [file],
                 title: 'OSINT Report',
@@ -49,7 +49,6 @@ async function shareChart(elementId) {
             console.log("Share closed", error);
         }
     } else {
-        // Desktop Fallback
         try {
             const item = new ClipboardItem({ 'image/png': blob });
             await navigator.clipboard.write([item]);
@@ -60,7 +59,6 @@ async function shareChart(elementId) {
     }
 }
 
-// Helper: Shows a little popup notification (No CSS file needed)
 function showToast(message) {
     var toast = document.createElement("div");
     toast.innerText = message;
@@ -77,31 +75,10 @@ function showToast(message) {
     toast.style.transition = "opacity 0.5s";
     
     document.body.appendChild(toast);
-    
-    // Fade out after 3 seconds
     setTimeout(function() {
         toast.style.opacity = "0";
         setTimeout(function() { document.body.removeChild(toast); }, 500);
     }, 3000);
-}
-
-// -------------------------------------------------------------
-// HELPER: Auto-Render Logic (Keep this from previous step)
-// -------------------------------------------------------------
-function renderOsintChart(id, option) {
-    var run = function() {
-        var dom = document.getElementById(id);
-        if (dom && typeof echarts !== 'undefined') {
-            if (echarts.getInstanceByDom(dom)) return; 
-            var myChart = echarts.init(dom);
-            // Default Padding for Share Button
-            if (!option.grid) option.grid = { top: 60, right: 20, bottom: 20, left: 40, containLabel: true };
-            myChart.setOption(option);
-            window.addEventListener('resize', function() { myChart.resize(); });
-        }
-    };
-    if (document.readyState === 'complete') run();
-    else window.addEventListener('load', run);
 }
 
 async function copyPageUrl() {
@@ -109,7 +86,54 @@ async function copyPageUrl() {
         await navigator.clipboard.writeText(window.location.href);
         showToast("Page link copied! 🔗");
     } catch (err) {
-        // Fallback for rare browsers
         prompt("Copy this link:", window.location.href);
     }
 }
+
+// -------------------------------------------------------------
+// PART 2: Lazy Load Logic (UPDATED)
+// -------------------------------------------------------------
+
+document.addEventListener("DOMContentLoaded", function () {
+    // 1. Setup the Observer
+    const chartObserver = new IntersectionObserver((entries, observer) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                const dom = entry.target;
+                const id = dom.id;
+                
+                // Retrieve the data stored by python
+                const options = window.osintChartData ? window.osintChartData[id] : null;
+
+                if (options && typeof echarts !== 'undefined') {
+                    // Check if already initialized to avoid double-render
+                    if (echarts.getInstanceByDom(dom)) return;
+
+                    // Initialize
+                    const myChart = echarts.init(dom);
+                    
+                    // Add default padding for the buttons if missing
+                    if (!options.grid) {
+                        options.grid = { top: 60, right: 20, bottom: 20, left: 40, containLabel: true };
+                    }
+
+                    myChart.setOption(options);
+
+                    // Resize handler
+                    window.addEventListener('resize', function() { myChart.resize(); });
+                    
+                    // Stop observing this element (it's loaded now)
+                    observer.unobserve(dom);
+                }
+            }
+        });
+    }, { 
+        threshold: 0.3 // Trigger when 30% of chart is visible
+    });
+
+    // 2. Find all charts generated by the Python macro
+    const lazyCharts = document.querySelectorAll('.lazy-chart');
+    lazyCharts.forEach(chart => {
+        chartObserver.observe(chart);
+    });
+});
