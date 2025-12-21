@@ -10,18 +10,18 @@ Based on selectorate theory, game theory, resource curse, aid curse, incentive a
 
 # Ransomware Trends
 
-Here is the data for this month:
-
 {{ viral_chart('ransom-stats') }}
 
 <script>
-  var myChart = echarts.init(document.getElementById('ransom-stats'));
-  var option = {
-      xAxis: { type: 'category', data: ['A', 'B', 'C'] },
+  renderOsintChart('ransom-stats', {
+      xAxis: { type: 'category', data: ['Lockbit', 'BlackCat', 'Clop'] },
       yAxis: { type: 'value' },
-      series: [{ data: [120, 200, 150], type: 'bar' }]
-  };
-  myChart.setOption(option);
+      series: [{ 
+          data: [120, 200, 150], 
+          type: 'bar',
+          itemStyle: { color: '#bdbdbd' } // Grey
+      }]
+  });
 </script>
 
 
@@ -83,6 +83,7 @@ We have to know the real intent of these three.
 | **Japan Newspapers**   | Inform the public objectively         | Provide periodic, low-key coverage                    | **Partially**     | **Status Quo** (Safest, low-cost option)                                                       | 
 | **Japanese Citizens**  | (No single consensus)                 | Remain largely passive and disengaged                 | **N/A**           | **N/A**                                                                                        | 
 | **Okinawa Citizens**   | Stop the base                         | Engage in localized, direct protest                   | **YES**           | **Solve** (Stop the base)                                                                      | 
+
 
 
 
