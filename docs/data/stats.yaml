@@ -56,8 +56,6 @@ overview_aidtax_ratio:
   xAxis:
     type: value
   series:
-    itemStyle:
-      color: 'grey'
     - type: bar
       data: 
         - 3.1
