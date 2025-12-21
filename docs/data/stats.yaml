@@ -104,4 +104,6 @@ overview_aidtax_ratio:
         - 37.9
         - 38.7
         - 41.1
-        - 107.6
+        - value: 107.6
+          itemStyle:
+            color: "#ff3232"
