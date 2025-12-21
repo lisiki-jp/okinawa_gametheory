@@ -1,6 +1,6 @@
 document$.subscribe(function() {
   // 1. Target H2 and H3 only
-  const headers = document.querySelectorAll("article h2, article h3");
+  const headers = document.querySelectorAll("article h1, article h2, article h3");
 
   headers.forEach(header => {
     if (header.querySelector(".share-button")) return;
