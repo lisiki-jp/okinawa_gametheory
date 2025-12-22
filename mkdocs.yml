@@ -62,7 +62,6 @@ plugins:
 
 hooks:
   - docs/python/strip_number_hook.py
-  - docs/python/dashboard_hook.py
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js
