@@ -1,10 +1,4 @@
 {
-  "tooltip": {
-    "trigger": "axis",
-    "axisPointer": {
-      "type": "shadow"
-    }
-  },
   "backgroundColor": "#ffffff",
   "title": [
     {
@@ -15,11 +9,11 @@
       "textStyle": {
         "fontSize": 24,
         "fontWeight": "bold",
-        "color": "#333"
+        "color": "#333333"
       },
       "subtextStyle": {
         "fontSize": 14,
-        "color": "#666"
+        "color": "#666666"
       }
     },
     {
@@ -28,7 +22,7 @@
       "left": 10,
       "textStyle": {
         "fontSize": 12,
-        "color": "#888",
+        "color": "#888888",
         "fontWeight": "normal",
         "lineHeight": 16
       }
@@ -39,20 +33,22 @@
       "right": 10,
       "textStyle": {
         "fontSize": 12,
-        "color": "#888",
+        "color": "#888888",
         "fontWeight": "normal"
       },
-      "link": "https://yourwebsite.com",
+      "link": "https://lisiki-jp.github.io/okinawa_gametheory",
       "target": "blank"
     }
   ],
   "tooltip": {
     "trigger": "axis",
-    "axisPointer": { "type": "shadow" }
+    "axisPointer": {
+      "type": "shadow"
+    }
   },
   "grid": {
-    "top": 100,    
-    "bottom": 60,  
+    "top": 100,
+    "bottom": 80,
     "left": "3%",
     "right": "4%",
     "containLabel": true
@@ -61,6 +57,7 @@
     "type": "category",
     "inverse": true,
     "axisLabel": {
+      "interval": 0,
       "color": "#bbbbbb"
     },
     "data": [
@@ -148,24 +145,26 @@
     {
       "type": "bar",
       "markLine": {
-      "symbol": "none", 
-      "data": [
-        {
-          "xAxis": 11.5,
-          "name": "Nationwide Average",
-          "label": {
-            "formatter": "Nationwide Average\n(11.5%)",
-            "position": "insideEndTop",
+        "symbol": "none",
+        "data": [
+          {
+            "xAxis": 11.5
           }
-        }
-      ],
-      "lineStyle": {
-        "color": "green",
-        "type": "dashed",
-        "width": 2
+        ],
+        "label": {
+          "show": true,
+          "formatter": "Nationwide Avg\n(11.5%)",
+          "position": "end",
+          "rotate": 0,
+          "color": "green"
+        },
+        "lineStyle": {
+          "color": "green",
+          "type": "dashed",
+          "width": 2
+        },
+        "z": 100
       },
-      "z": 100
-    },
       "data": [
         {
           "value": 107.6,
