@@ -81,35 +81,52 @@ article h1 .share-button svg {
     }
 }
 
-/* --- Dashboard Grid Logic --- */
-.grid.cards {
+/* Dashboard Grid */
+.dashboard-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-    gap: 1.5rem;
+    /* Create columns that are at least 500px wide. 
+       If screen is smaller, it wraps to 1 column. */
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    gap: 2rem;
+    margin-top: 1rem;
 }
 
-/* --- The Container Card --- */
-.homepage-chart-wrapper {
-    background: var(--md-code-bg-color);
+/* The Card */
+.dashboard-card {
+    background: var(--md-code-bg-color); /* Matches theme background */
     border: 1px solid var(--md-default-fg-color--lightest);
-    border-radius: 8px;
-    padding: 10px;
+    border-radius: 0.5rem;
+    overflow: hidden; /* Keeps content inside rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    display: flex;
+    flex-direction: column;
 }
 
-/* --- THE MAGIC FIX --- */
-/* We target .lazy-chart ONLY when it is inside .homepage-chart-wrapper */
-.homepage-chart-wrapper .lazy-chart {
-    /* Force width to fit the grid card */
-    width: 100% !important; 
-    
-    /* Force height to be smaller for the dashboard */
-    height: 350px !important; 
-    
-    /* Ensure no overflow */
-    max-width: 100%;
+/* Card Title */
+.card-header {
+    padding: 0.8rem 1rem;
+    background: rgba(0, 0, 0, 0.03);
+    font-weight: bold;
+    border-bottom: 1px solid var(--md-default-fg-color--lightest);
 }
 
-/* Hide the 'Share' button on the dashboard to reduce clutter (optional) */
-.homepage-chart-wrapper .share-button {
-    display: none;
+.card-header a {
+    text-decoration: none;
+    color: inherit;
+}
+.card-header a:hover {
+    color: var(--md-primary-fg-color);
+}
+
+/* Card Content (The Chart) */
+.card-content {
+    padding: 1rem;
+    /* If you want the chart to scroll if it's too wide for the card: */
+    overflow-x: auto; 
+}
+
+/* Optional: Ensure the internal chart wrapper doesn't have huge margins in the card */
+.dashboard-card .chart-wrapper {
+    margin: 0 !important;
+    border: none !important;
 }
