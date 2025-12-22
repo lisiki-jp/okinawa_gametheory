@@ -64,7 +64,7 @@ plugins:
         index.md: 01_Analysis/index.md
 
 hooks:
-  - docs/python/hook_strip_number.py
+  - docs/python/strip_number_hook.py
   - docs/python/dashboard_hook.py
 
 extra_javascript:
