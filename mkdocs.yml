@@ -64,7 +64,8 @@ plugins:
         index.md: 01_Analysis/index.md
 
 hooks:
-  - assets/hook_strip_number.py
+  - docs/python/hook_strip_number.py
+  - docs/python/dashboard_hook.py
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js
