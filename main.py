@@ -36,7 +36,7 @@ def define_env(env):
     Viral compatible chart generation.
     """
     @env.macro
-    def viral_chart(id, options, height="500px"):
+    def viral_chart(id, options, height="700px"):
         json_options = json.dumps(options)
 
         # SVG Paths
