@@ -5,6 +5,58 @@
       "type": "shadow"
     }
   },
+  "backgroundColor": "#ffffff",
+  "title": [
+    {
+      "text": "Incoming Development Aid / Local Tax ratio [latest from e-Stat]",
+      "subtext": "Okinawa's anomalistic dependency on external cash is taking away the incentive to take care local economy/society.",
+      "left": "center",
+      "top": 20,
+      "textStyle": {
+        "fontSize": 24,
+        "fontWeight": "bold",
+        "color": "#333"
+      },
+      "subtextStyle": {
+        "fontSize": 14,
+        "color": "#666"
+      }
+    },
+    {
+      "text": "Note: Fukushima, 95%, is omitted because of the meltdown recovery. (the data is FY2017, latest on e-Stat)\nNote: Development aid = Natl. Treasury for Construction + Others; 国庫支出金:普通建設事業費支出金 + 国庫支出金:その他\nSource: 政府統計の総合窓口（e-Stat）",
+      "bottom": 10,
+      "left": 10,
+      "textStyle": {
+        "fontSize": 12,
+        "color": "#888",
+        "fontWeight": "normal",
+        "lineHeight": 16
+      }
+    },
+    {
+      "text": "Created by: りしき | github.com/lisiki-jp\nArticle: lisiki-jp.github.io/okinawa_gametheory",
+      "bottom": 10,
+      "right": 10,
+      "textStyle": {
+        "fontSize": 12,
+        "color": "#888",
+        "fontWeight": "normal"
+      },
+      "link": "https://yourwebsite.com",
+      "target": "blank"
+    }
+  ],
+  "tooltip": {
+    "trigger": "axis",
+    "axisPointer": { "type": "shadow" }
+  },
+  "grid": {
+    "top": 100,    
+    "bottom": 60,  
+    "left": "3%",
+    "right": "4%",
+    "containLabel": true
+  },
   "yAxis": {
     "type": "category",
     "inverse": true,
