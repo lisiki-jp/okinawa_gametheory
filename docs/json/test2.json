@@ -153,9 +153,7 @@
         "label": {
           "show": true,
           "formatter": "Nationwide Avg\n(11.5%)",
-          "position": "end",
-          "rotate": 0,
-          "color": "green"
+          "position": "insideEndTop",
         },
         "lineStyle": {
           "color": "green",
