@@ -16,6 +16,7 @@
   "graphic": [
     {
       "type": "image",
+      "silent": true,
       "right": 5,
       "bottom": 5,
       "style": {
