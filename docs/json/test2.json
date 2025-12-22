@@ -17,7 +17,7 @@
       }
     },
     {
-      "text": "Note: Fukushima, 95%, is omitted because of the meltdown recovery. (the data is FY2017, latest on e-Stat)\nNote: Development aid = Natl. Treasury for Construction + Others; 国庫支出金:普通建設事業費支出金 + 国庫支出金:その他\nSource: 政府統計の総合窓口（e-Stat）",
+      "text": "Note: Fukushima (95%) omitted due to meltdown recovery data.\nData: Natl. Treasury for Construction + Others vs Local Tax Revenue.\nSource: 政府統計の総合窓口（e-Stat）",
       "bottom": 10,
       "left": 10,
       "textStyle": {
@@ -28,7 +28,7 @@
       }
     },
     {
-      "text": "Created by: りしき | github.com/lisiki-jp\nRead: lisiki-jp.github.io/okinawa_gametheory",
+      "text": "Created by: りしき | github.com/lisiki-jp",
       "bottom": 10,
       "right": 10,
       "textStyle": {
@@ -57,8 +57,8 @@
     "type": "category",
     "inverse": true,
     "axisLabel": {
-      "interval": 0,
-      "color": "#bbbbbb"
+      "color": "#bbbbbb",
+      "interval": "auto"
     },
     "data": [
       {
@@ -131,112 +131,4 @@
       {
         "value": "Tokyo (3.1%)",
         "textStyle": {
-          "color": "#333333",
-          "fontWeight": "bold",
-          "fontSize": 14
-        }
-      }
-    ]
-  },
-  "xAxis": {
-    "type": "value"
-  },
-  "series": [
-    {
-      "type": "bar",
-      "markLine": {
-        "symbol": "none",
-        "data": [
-          {
-            "xAxis": 11.5
-          }
-        ],
-        "label": {
-          "show": true,
-          "formatter": "Nationwide Avg\n(11.5%)",
-          "position": "end",
-          "rotate": 0,
-          "color": "green"
-        },
-        "lineStyle": {
-          "color": "green",
-          "type": "dashed",
-          "width": 2
-        },
-        "z": 100
-      },
-      "data": [
-        {
-          "value": 107.6,
-          "itemStyle": {
-            "color": "crimson"
-          }
-        },
-        41.1,
-        38.7,
-        37.9,
-        37.5,
-        35.6,
-        34.3,
-        31.8,
-        31.7,
-        27.2,
-        {
-          "value": 25.6,
-          "itemStyle": {
-            "color": "RoyalBlue"
-          }
-        },
-        24.6,
-        24.4,
-        23.8,
-        23.4,
-        22.4,
-        21.4,
-        20.3,
-        19.4,
-        18.6,
-        17.6,
-        17.4,
-        16.6,
-        15.7,
-        15.2,
-        14.4,
-        13.5,
-        12.8,
-        {
-          "value": 11.5,
-          "itemStyle": {
-            "color": "RoyalBlue"
-          }
-        },
-        11.2,
-        10.8,
-        10.4,
-        10,
-        9.7,
-        9.6,
-        8.9,
-        8.9,
-        8.6,
-        8.3,
-        7.7,
-        6.9,
-        6.5,
-        4.5,
-        4.4,
-        4.2,
-        3.2,
-        {
-          "value": 3.1,
-          "itemStyle": {
-            "color": "RoyalBlue"
-          }
-        }
-      ],
-      "itemStyle": {
-        "color": "#bbbbbb"
-      }
-    }
-  ]
-}
+          "color":
