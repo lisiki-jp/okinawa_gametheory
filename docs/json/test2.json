@@ -4,8 +4,8 @@
     {
       "text": "Incoming Development Aid / Local Tax Revenue ratio",
       "subtext": "Okinawa's anomalistic dependency on external cash is taking away the incentive to take care local economy/society.",
-      "left": "center",
-      "top": 20,
+      "left": 10,
+      "top": 10,
       "textStyle": {
         "fontSize": 24,
         "fontWeight": "bold",
