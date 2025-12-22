@@ -18,6 +18,8 @@
     * Okinawa's economical/political similality with resouce curse state
     * Life-expectancy comparison
 
+* create entrance page
+
 ## future plan
 * multilanguage support
 * patoreon
