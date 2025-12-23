@@ -10,5 +10,5 @@ hide:
 
 ---
 
-## Table of Contents
+## Designed to Fail: Table of Contents
 {{ render_global_toc() }}
