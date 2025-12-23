@@ -56,7 +56,7 @@ theme:
     code: Roboto Mono
   favicon: assets/icon_kikkosuperbold_kuro2.svg
   icon:
-    logo: logo
+    logo: assets/icon_kikkosuperbold_kuro2.svg
 
 plugins:
   - search
