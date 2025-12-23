@@ -17,22 +17,44 @@ document$.subscribe(function() {
       e.stopPropagation();
       e.preventDefault();
       
-      // Extract clean title (ignoring the button text and permalink icon)
+      // --- A. Extract Content ---
+      
+      // 1. Get Clean Title
       const tempClone = header.cloneNode(true);
       tempClone.querySelectorAll('.share-button, .headerlink').forEach(n => n.remove());
       const cleanTitle = tempClone.innerText.trim();
 
+      // 2. Get Site Name & Author (Try Meta tags first, fallback to hardcoded)
+      // MkDocs Material usually puts site name in og:site_name and author in meta[name="author"]
+      const metaSiteName = document.querySelector('meta[property="og:site_name"]')?.content || "Okinawa is designed to fail";
+      const metaAuthor = document.querySelector('meta[name="author"]')?.content || "りしき";
+
+      // 3. Generate URL
       const shareUrl = window.location.origin + window.location.pathname + (header.id ? "#" + header.id : "");
+
+      // --- B. Format Text for Viral Potential ---
+      
+      // Format: 
+      // "Header Title"
+      // via Site Name (by Author)
+      const shareText = `"${cleanTitle}"\nvia ${metaSiteName} (by ${metaAuthor})`;
+      
+      // --- C. Execute Share ---
 
       if (navigator.share) {
         navigator.share({
-          title: cleanTitle,
-          text: cleanTitle,
-          url: shareUrl
+          title: cleanTitle, // System dialog title
+          text: shareText,   // The actual social media caption
+          url: shareUrl      // The link
         }).catch(() => {});
       } else {
-        navigator.clipboard.writeText(`${cleanTitle} - ${shareUrl}`);
-        alert("Link copied!");
+        // Fallback: Copy a pretty string to clipboard
+        const clipboardText = `${shareText}\n${shareUrl}`;
+        navigator.clipboard.writeText(clipboardText);
+        
+        // Optional: Replace alert with a temporary tooltip if you want it prettier, 
+        // but alert is functional.
+        alert("Link & Attribution copied to clipboard!");
       }
     };
 
