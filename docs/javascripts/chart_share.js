@@ -17,81 +17,63 @@ async function shareChart(elementId) {
         return;
     }
 
-    // --- A. Generate Content ---
-
-    // 1. Get Image Data
+    // 1. Get Image
     var dataURL = chartInstance.getDataURL({
         type: 'png',
         pixelRatio: 2,
         backgroundColor: '#ffffff'
     });
-
-    // 2. Prepare Blob & File
     var blob = await (await fetch(dataURL)).blob();
-    var file = new File([blob], "osint_analysis.png", { type: "image/png" });
+    var file = new File([blob], "osint_chart.png", { type: "image/png" });
 
-    // 3. Construct Viral Text
-    
-    // Get Metadata (Fallback to hardcoded if meta tags missing)
+    // 2. Prepare Viral Text
     const metaSiteName = document.querySelector('meta[property="og:site_name"]')?.content || "Okinawa is designed to fail";
     const metaAuthor = document.querySelector('meta[name="author"]')?.content || "りしき";
-
-    // Get Chart Title (From ECharts options)
-    // ECharts options usually store title in an array or object
+    
+    // Get Chart Title
     const chartOpts = chartInstance.getOption();
-    let chartTitle = "Data Visualization";
+    let chartTitle = "Data Analysis";
     if (chartOpts.title && chartOpts.title.length > 0 && chartOpts.title[0].text) {
         chartTitle = chartOpts.title[0].text;
     }
 
-    // specific URL to this chart
     const shareUrl = window.location.origin + window.location.pathname + "#" + elementId;
+    const fullShareText = `"${chartTitle}"\nvia ${metaSiteName} (by ${metaAuthor})\n${shareUrl}`;
 
-    // The Viral String
-    const shareText = `"${chartTitle}"\nvia ${metaSiteName} (by ${metaAuthor})\n${shareUrl}`;
-
-    // --- B. Execute Share ---
-
-    // 4. Android Clipboard Fix (Copy text first)
+    // 3. THE FIX: Copy Text to Clipboard FIRST (The "Safety Net")
     try {
-        await navigator.clipboard.writeText(shareText);
-        showToast("Caption copied! 📋");
+        await navigator.clipboard.writeText(fullShareText);
+        // Show instruction clearly
+        showToast("Text copied! Paste it after selecting the app. 📋");
     } catch (err) {
-        console.log("Clipboard failed (non-HTTPS site?)");
+        console.log("Clipboard write failed");
     }
 
-    // 5. Native Share (Mobile) or Fallback (Desktop)
+    // 4. Trigger Native Share
     if (navigator.canShare && navigator.canShare({ files: [file] })) {
         try {
             await navigator.share({
                 files: [file],
+                // We still try to pass title/text, but if the app ignores it,
+                // the user has it in their clipboard from step 3.
                 title: chartTitle,
-                text: shareText 
+                text: fullShareText 
             });
         } catch (error) {
-            console.log("Share closed", error);
+            console.log("Share cancelled or failed", error);
         }
     } else {
-        // Desktop / Browser without Web Share API support
+        // Desktop fallback
         try {
-            // Try to write the image to clipboard (Chrome/Edge supports this)
             const item = new ClipboardItem({ 'image/png': blob });
             await navigator.clipboard.write([item]);
-            
-            // Re-copy text to ensure it's available (Image + Text paste isn't always supported)
-            // Note: Browsers usually only allow one item type at a time in clipboard.
-            // We prioritize the Text for viral context, or Image for visual.
-            // Strategy: Alert the user that text is in clipboard, image is in file.
-            // Actually, let's copy text to clipboard and download image? 
-            // Standard behavior: Copy text, user manually saves image or screenshots.
-            // But here we try to copy image.
-            
-            alert(`Image copied to clipboard!\n\nThe caption has also been generated:\n${shareText}`);
+            alert("Image copied!\n\nThe caption text is also in your clipboard.\nPaste (Ctrl+V) to share.");
         } catch (err) {
-            alert("Browser limit: Right-click the chart to save image.\n\nCaption:\n" + shareText);
+            alert("Please right-click the chart to save it.\n\nCaption:\n" + fullShareText);
         }
     }
 }
+
 
 function showToast(message) {
     var toast = document.createElement("div");
