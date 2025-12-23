@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# Designed to Fail: Dashboard
+# Designed to Fail: Key Data
 
 {{ render_dashboard() }}
 
