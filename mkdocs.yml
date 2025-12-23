@@ -5,6 +5,8 @@ site_author: りしき
 
 theme:
   name: material
+  logo: assets/icon_kikkosuperbold_kuro2.svg
+  favicon: assets/icon_kikkosuperbold_kuro2.svg
   features:
     - content.action.edit
     - content.action.view
@@ -54,9 +56,6 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/icon_kikkosuperbold_kuro2.svg
-  icon:
-    logo: assets/icon_kikkosuperbold_kuro2
 
 plugins:
   - search
